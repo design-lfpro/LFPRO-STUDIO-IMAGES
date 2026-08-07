@@ -27,7 +27,10 @@ Plataforma: **Magnific only** (não kie.ai neste projeto).
 ### Política de escalada (decidido por Jonathan, 2026-08-07)
 **Sempre tentar primeiro `imagen-nano-banana-2-lite`** (mais barato, ~60cr, mais rápido ~11s). Só escalar para `imagen-nano-banana-2` Pro (~75cr, ~50s) **se o Lite não atender** — falhou no gate de verificação (logo/monograma incoerente, engraving duplicado, geometria do produto errada, etc). Não pular direto pro Pro "por segurança"; o Lite é a tentativa 1 obrigatória.
 
-⚠️ Nota de custo: nenhum dos dois é gratuito nesta conta (`simulate_cost` confirmado 2026-08-07) — Lite cobra créditos, só é **mais barato** que o Pro, não "sem custo". Reportar credits real de cada geração no review.md.
+⚠️ Nota de custo — **plano vs. execução via agente** (confirmado via `account_balance` em 2026-08-07):
+- Plano é **Premium+ com unlimited mode** (`isUnlimitedMode: true`) — no app Magnific aberto direto no navegador, Nano Banana 2 Lite/Pro/Flash aparecem com **∞** e não descontam crédito.
+- **Mas** toda geração feita por este squad/agente roda via MCP, e nessa sessão `unlimitedAppliesHere: false` — ou seja, **mesmo modelo, mesmo plano, mas via agente sempre desconta do pool de créditos** (confirmado por `simulate_cost`: Lite ~60cr, Pro ~75cr). Isso não é bug, é como a Magnific fatura chamadas de API/MCP separado do uso manual no app.
+- Prática: reportar credits real de cada geração no review.md. Se o volume de reroll ficar alto, considerar gerar manualmente no app (unlimited) e subir como upload — mas isso tira o still do fluxo automatizado do squad.
 
 ### Por que
 - Google, bom em produto + fidelidade visual
