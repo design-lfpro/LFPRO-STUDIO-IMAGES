@@ -11,7 +11,7 @@ Stack **fixada** do LFPro Studio. Agents **não** escolhem modelo livremente no 
 
 | Etapa | Modelo | Slug Magnific (referência) | Papel |
 |-------|--------|----------------------------|-------|
-| **Frames / stills** | **Google Nano Banana Pro** | `imagen-nano-banana-2` @ 2k · fallback `imagen-nano-banana-2-flash` | Keyframes start/end |
+| **Frames / stills** | **Google Nano Banana 2 Lite → Pro** | `imagen-nano-banana-2-lite` (tentativa 1, ~60cr) → `imagen-nano-banana-2` @ 2k (escalada, ~75cr) · fallback `imagen-nano-banana-2-flash` | Keyframes start/end |
 | **Vídeo (i2v) DEFAULT** | **Kling 3.0** | `kling-30` · 720p · first+last | Product motion (melhor custo/qualidade no A/B 2026-08-06) |
 | **Vídeo premium** | **Seedance 2.0** ou **Veo 3.1** | `bytedance-seedance-pro-2.0` · `google-veo3_1` | Flagship; mais créditos |
 | **NÃO usar** | Seedance 1.5 **Draft** | `bytedance-seedance-pro-1.5` + Draft | Qualidade baixa (teste falhou) |
@@ -24,18 +24,23 @@ Plataforma: **Magnific only** (não kie.ai neste projeto).
 
 ## 1. Nano Banana — imagens / frames
 
+### Política de escalada (decidido por Jonathan, 2026-08-07)
+**Sempre tentar primeiro `imagen-nano-banana-2-lite`** (mais barato, ~60cr, mais rápido ~11s). Só escalar para `imagen-nano-banana-2` Pro (~75cr, ~50s) **se o Lite não atender** — falhou no gate de verificação (logo/monograma incoerente, engraving duplicado, geometria do produto errada, etc). Não pular direto pro Pro "por segurança"; o Lite é a tentativa 1 obrigatória.
+
+⚠️ Nota de custo: nenhum dos dois é gratuito nesta conta (`simulate_cost` confirmado 2026-08-07) — Lite cobra créditos, só é **mais barato** que o Pro, não "sem custo". Reportar credits real de cada geração no review.md.
+
 ### Por que
 - Google, bom em produto + fidelidade visual
-- Tier Magnific Premium+: **1k e 2k ilimitados** em `imagen-nano-banana-2` / flash (4k cobra ~150 cr)
 - Ideal pra gerar frames de cena **com reference do packshot**
 
 ### Defaults V1
 
 | Param | Valor |
 |-------|--------|
-| Modelo | `imagen-nano-banana-2` |
+| Modelo (tentativa 1) | `imagen-nano-banana-2-lite` |
+| Escalada (se Lite falhar no gate) | `imagen-nano-banana-2` (Pro) @ 2k |
 | Fallback se fila/erro | `imagen-nano-banana-2-flash` |
-| Resolução | **2k** (equilíbrio qualidade/custo; evita 4k pago) |
+| Resolução (Pro) | **2k** (equilíbrio qualidade/custo; evita 4k pago) |
 | Aspect still de cena | **9:16** quando for frame de vídeo |
 | Input | **sempre** packshot `assets/products/{handle}/01.*` como referência (i2i / ref image) |
 | Proibido | Text-to-image **sem** reference do packaging (redezenha logo) |
