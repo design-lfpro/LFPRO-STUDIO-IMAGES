@@ -1,0 +1,681 @@
+{
+  "acessorios": [
+    {
+      "handle": "apontador-de-lapis",
+      "title": "Apontador De Lápis Para Maquiagem",
+      "type": "Apontador",
+      "images": 2,
+      "url": "https://lfpro.com.br/products/apontador-de-lapis"
+    }
+  ],
+  "base-soft-matte": [
+    {
+      "handle": "base-soft-matte-cor-12",
+      "title": "Base Soft Matte Cor 12",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-12"
+    },
+    {
+      "handle": "base-soft-matte-cor-01",
+      "title": "Base Soft Matte Cor 01",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-01"
+    },
+    {
+      "handle": "base-soft-matte-cor-13",
+      "title": "Base Soft Matte Cor 13",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-13"
+    },
+    {
+      "handle": "base-soft-matte-cor-11",
+      "title": "Base Soft Matte Cor 11",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-11"
+    },
+    {
+      "handle": "base-soft-matte-cor-10",
+      "title": "Base Soft Matte Cor 10",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-10"
+    },
+    {
+      "handle": "base-soft-matte-cor-09",
+      "title": "Base Soft Matte Cor 09",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-09"
+    },
+    {
+      "handle": "base-soft-matte-cor-08",
+      "title": "Base Soft Matte Cor 08",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-08"
+    },
+    {
+      "handle": "base-soft-matte-cor-07",
+      "title": "Base Soft Matte Cor 07",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-07"
+    },
+    {
+      "handle": "base-soft-matte-cor-06",
+      "title": "Base Soft Matte Cor 06",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-06"
+    },
+    {
+      "handle": "base-soft-matte-cor-05",
+      "title": "Base Soft Matte Cor 05",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-05"
+    },
+    {
+      "handle": "base-soft-matte-cor-04",
+      "title": "Base Soft Matte Cor 04",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-04"
+    },
+    {
+      "handle": "base-soft-matte-cor-03",
+      "title": "Base Soft Matte Cor 03",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-03"
+    },
+    {
+      "handle": "base-soft-matte-cor-02",
+      "title": "Base Soft Matte Cor 02",
+      "type": "Base",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/base-soft-matte-cor-02"
+    }
+  ],
+  "blend-cream": [
+    {
+      "handle": "blend-cream-cappuccino",
+      "title": "Blend Cream Cappuccino",
+      "type": "Corretivo",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/blend-cream-cappuccino"
+    },
+    {
+      "handle": "blend-cream-vanilla",
+      "title": "Blend Cream Vanilla",
+      "type": "Corretivo",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/blend-cream-vanilla"
+    },
+    {
+      "handle": "blend-cream-mocha",
+      "title": "Blend Cream Mocha",
+      "type": "Corretivo",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/blend-cream-mocha"
+    },
+    {
+      "handle": "blend-cream-macchiato",
+      "title": "Blend Cream Macchiato",
+      "type": "Corretivo",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/blend-cream-macchiato"
+    },
+    {
+      "handle": "blend-cream-espresso",
+      "title": "Blend Cream Espresso",
+      "type": "Corretivo",
+      "images": 10,
+      "url": "https://lfpro.com.br/products/blend-cream-espresso"
+    },
+    {
+      "handle": "blend-cream-crema",
+      "title": "Blend Cream Crema",
+      "type": "Corretivo",
+      "images": 9,
+      "url": "https://lfpro.com.br/products/blend-cream-crema"
+    }
+  ],
+  "classic-lips": [
+    {
+      "handle": "classic-lips-wine",
+      "title": "Classic Lips Wine",
+      "type": "Batom",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/classic-lips-wine"
+    },
+    {
+      "handle": "classic-lips-spice",
+      "title": "Classic Lips Spice",
+      "type": "Batom",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/classic-lips-spice"
+    },
+    {
+      "handle": "classic-lips-rose",
+      "title": "Classic Lips Rose",
+      "type": "Batom",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/classic-lips-rose"
+    },
+    {
+      "handle": "classic-lips-carmim",
+      "title": "Classic Lips Carmim",
+      "type": "Batom",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/classic-lips-carmim"
+    },
+    {
+      "handle": "classic-lips-bloom",
+      "title": "Classic Lips Bloom",
+      "type": "Batom",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/classic-lips-bloom"
+    },
+    {
+      "handle": "classic-lips-amber",
+      "title": "Classic Lips Amber",
+      "type": "Batom",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/classic-lips-amber"
+    }
+  ],
+  "clear-olheiras": [
+    {
+      "handle": "clear-clareador-de-olheiras",
+      "title": "Clear Clareador De Olheiras",
+      "type": "Clareador",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/clear-clareador-de-olheiras"
+    }
+  ],
+  "corretivo-mousse": [
+    {
+      "handle": "corretivo-mousse-cor-06",
+      "title": "Corretivo Mousse Cor 06",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-06"
+    },
+    {
+      "handle": "corretivo-mousse-cor-35",
+      "title": "Corretivo Mousse Cor 3.5",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-35"
+    },
+    {
+      "handle": "corretivo-mousse-cor-01",
+      "title": "Corretivo Mousse Cor 01",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-01"
+    },
+    {
+      "handle": "corretivo-mousse-cor-02",
+      "title": "Corretivo Mousse Cor 02",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-02"
+    },
+    {
+      "handle": "corretivo-mousse-cor-05",
+      "title": "Corretivo Mousse Cor 05",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-05"
+    },
+    {
+      "handle": "corretivo-mousse-cor-04",
+      "title": "Corretivo Mousse Cor 04",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-04"
+    },
+    {
+      "handle": "corretivo-mousse-cor-03",
+      "title": "Corretivo Mousse Cor 03",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-cor-03"
+    },
+    {
+      "handle": "corretivo-mousse-neutralizador-c02",
+      "title": "Corretivo Mousse Neutralizador C02 Amarelo",
+      "type": "Corretivo",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/corretivo-mousse-neutralizador-c02"
+    }
+  ],
+  "cream-color": [
+    {
+      "handle": "paleta-cream-color-cor-peach-pincel-b03",
+      "title": "Kit Cream Color Peach Blush e Iluminador + Pincel B03",
+      "type": "Kit",
+      "images": 8,
+      "url": "https://lfpro.com.br/products/paleta-cream-color-cor-peach-pincel-b03"
+    },
+    {
+      "handle": "paleta-cream-color-contorno-cor-toffee",
+      "title": "Cream Color Toffee Duo de Contornos",
+      "type": "Contorno",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/paleta-cream-color-contorno-cor-toffee"
+    },
+    {
+      "handle": "cream-color-contorno-cocoa",
+      "title": "Cream Color Cocoa Duo de Contornos",
+      "type": "Contorno",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/cream-color-contorno-cocoa"
+    },
+    {
+      "handle": "paleta-cream-color-blush-e-iluminador-cor-taupe",
+      "title": "Cream Color Taupe Blush e Iluminador",
+      "type": "Blush",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/paleta-cream-color-blush-e-iluminador-cor-taupe"
+    },
+    {
+      "handle": "paleta-cream-color-blush-e-iluminador-cor-rose",
+      "title": "Cream Color Rose Blush e Iluminador",
+      "type": "Blush",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/paleta-cream-color-blush-e-iluminador-cor-rose"
+    },
+    {
+      "handle": "cream-color-peach-blush-e-iluminador",
+      "title": "Cream Color Peach Blush e Iluminador",
+      "type": "Blush",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/cream-color-peach-blush-e-iluminador"
+    },
+    {
+      "handle": "cream-color-merlot-blush-e-iluminador",
+      "title": "Cream Color Merlot Blush e Iluminador",
+      "type": "Blush",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/cream-color-merlot-blush-e-iluminador"
+    },
+    {
+      "handle": "cream-color-candy-blush-e-iluminador",
+      "title": "Cream Color Candy Blush e Iluminador",
+      "type": "Blush",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/cream-color-candy-blush-e-iluminador"
+    }
+  ],
+  "esponjas": [
+    {
+      "handle": "esponja-soft-perfect",
+      "title": "Esponja Soft Perfect",
+      "type": "Esponja",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/esponja-soft-perfect"
+    },
+    {
+      "handle": "esponja-face-perfect",
+      "title": "Esponja Face Perfect",
+      "type": "Esponja",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/esponja-face-perfect"
+    }
+  ],
+  "kit-cream-color": [
+    {
+      "handle": "kit-cream-color-toffee-pincel-b03",
+      "title": "Kit Cream Color Toffee Duo de Contornos + Pincel B03",
+      "type": "Kit",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/kit-cream-color-toffee-pincel-b03"
+    },
+    {
+      "handle": "kit-cream-color-cocoa-pincel-b03",
+      "title": "Kit Cream Color Cocoa Duo de Contornos + Pincel B03",
+      "type": "Kit",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/kit-cream-color-cocoa-pincel-b03"
+    },
+    {
+      "handle": "ki-cream-color-taupe-e-pincel-b03",
+      "title": "Kit Cream Color Taupe Blush e Iluminador + Pincel B03",
+      "type": "Kit",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/ki-cream-color-taupe-e-pincel-b03"
+    },
+    {
+      "handle": "kit-cream-color-rose-e-pincel-b03",
+      "title": "Kit Cream Color Rose Blush e Iluminador + Pincel B03",
+      "type": "Kit",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/kit-cream-color-rose-e-pincel-b03"
+    },
+    {
+      "handle": "kit-cream-color-merlot-pincel-b03",
+      "title": "Kit Cream Color Merlot Blush e Iluminador + Pincel B03",
+      "type": "Kit",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/kit-cream-color-merlot-pincel-b03"
+    },
+    {
+      "handle": "kit-cream-color-candy-e-pincel-b03",
+      "title": "Kit Cream Color Candy Blush e Iluminador + Pincel B03",
+      "type": "Kit",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/kit-cream-color-candy-e-pincel-b03"
+    }
+  ],
+  "lapis-labios": [
+    {
+      "handle": "lapis-labios-caramelo",
+      "title": "Lápis Para Lábios Caramelo",
+      "type": "Lápis para Lábios",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/lapis-labios-caramelo"
+    },
+    {
+      "handle": "lapis-labios-chocolate",
+      "title": "Lápis Para Lábios Chocolate",
+      "type": "Lápis para Lábios",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/lapis-labios-chocolate"
+    },
+    {
+      "handle": "lapis-labios-magenta",
+      "title": "Lápis Para Lábios Magenta",
+      "type": "Lápis para Lábios",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/lapis-labios-magenta"
+    }
+  ],
+  "lapis-olhos": [
+    {
+      "handle": "lapis-para-olhos-cinza",
+      "title": "Lápis para Olhos Cinza",
+      "type": "Lápis para Olhos",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/lapis-para-olhos-cinza"
+    },
+    {
+      "handle": "lapis-para-olhos-preto",
+      "title": "Lápis Para Olhos Preto",
+      "type": "Lápis para Olhos",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/lapis-para-olhos-preto"
+    },
+    {
+      "handle": "lapis-para-olhos-marrom",
+      "title": "Lápis Para Olhos Marrom",
+      "type": "Lápis para Olhos",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/lapis-para-olhos-marrom"
+    }
+  ],
+  "lip-combo": [
+    {
+      "handle": "lip-combo-rose-perfeito",
+      "title": "Lip Combo Rose Perfeito",
+      "type": "Batom",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/lip-combo-rose-perfeito"
+    },
+    {
+      "handle": "lip-combo-rose-natural",
+      "title": "Lip Combo Rose Natural",
+      "type": "Batom",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/lip-combo-rose-natural"
+    },
+    {
+      "handle": "lip-combo-nude-natural",
+      "title": "Lip Combo Nude Natural",
+      "type": "Batom",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/lip-combo-nude-natural"
+    },
+    {
+      "handle": "lip-combo-nude-essencial",
+      "title": "Lip Combo Nude Essencial",
+      "type": "Batom",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/lip-combo-nude-essencial"
+    },
+    {
+      "handle": "lip-combo-marcante",
+      "title": "Lip Combo Marcante",
+      "type": "Batom",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/lip-combo-marcante"
+    },
+    {
+      "handle": "lip-combo-contorno-perfeito",
+      "title": "Lip Combo Contorno Perfeito",
+      "type": "Batom",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/lip-combo-contorno-perfeito"
+    }
+  ],
+  "mascara-up": [
+    {
+      "handle": "mascara-de-cilios-up-volume-marrom",
+      "title": "Máscara de Cílios Up! Volume Marrom",
+      "type": "Máscara de Cílios",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/mascara-de-cilios-up-volume-marrom"
+    },
+    {
+      "handle": "mascara-de-cilios-up-definicao",
+      "title": "Máscara De Cílios Up! Definição Preta",
+      "type": "Máscara de Cílios",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/mascara-de-cilios-up-definicao"
+    },
+    {
+      "handle": "mascara-de-cilios-up-precisao-marrom",
+      "title": "Máscara De Cílios Up! Precisão Marrom",
+      "type": "Máscara de Cílios",
+      "images": 2,
+      "url": "https://lfpro.com.br/products/mascara-de-cilios-up-precisao-marrom"
+    },
+    {
+      "handle": "mascara-de-cilios-up-precisao-preta",
+      "title": "Máscara De Cílios Up! Precisão Preta",
+      "type": "Máscara de Cílios",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/mascara-de-cilios-up-precisao-preta"
+    },
+    {
+      "handle": "mascara-de-cilios-up-volume-preta",
+      "title": "Máscara De Cílios Up! Volume Preta",
+      "type": "Máscara de Cílios",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/mascara-de-cilios-up-volume-preta"
+    }
+  ],
+  "paleta-sombras": [
+    {
+      "handle": "paleta-de-sombras-vital",
+      "title": "Paleta De Sombras Vital",
+      "type": "Sombra",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/paleta-de-sombras-vital"
+    },
+    {
+      "handle": "paleta-de-sombras-energica",
+      "title": "Paleta De Sombras Enérgica",
+      "type": "Sombra",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/paleta-de-sombras-energica"
+    }
+  ],
+  "pinceis": [
+    {
+      "handle": "trio-pinceis",
+      "title": "Kit Pincéis",
+      "type": "Kit",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/trio-pinceis"
+    },
+    {
+      "handle": "pincel-duplo-blush-e-iluminador-b03",
+      "title": "Pincel para Blush e Iluminador B03",
+      "type": "Pincel",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/pincel-duplo-blush-e-iluminador-b03"
+    },
+    {
+      "handle": "pincel-para-base-f01",
+      "title": "Pincel para Base F01",
+      "type": "Pincel",
+      "images": 9,
+      "url": "https://lfpro.com.br/products/pincel-para-base-f01"
+    },
+    {
+      "handle": "pincel-de-corretivo-c02",
+      "title": "Pincel para Corretivo C02",
+      "type": "Pincel",
+      "images": 8,
+      "url": "https://lfpro.com.br/products/pincel-de-corretivo-c02"
+    }
+  ],
+  "po-soft-eye": [
+    {
+      "handle": "po-soft-eye-escuro",
+      "title": "Pó Soft Eye Escuro",
+      "type": "Pó",
+      "images": 9,
+      "url": "https://lfpro.com.br/products/po-soft-eye-escuro"
+    },
+    {
+      "handle": "po-soft-eye-medio",
+      "title": "Pó Soft Eye Médio",
+      "type": "Pó",
+      "images": 9,
+      "url": "https://lfpro.com.br/products/po-soft-eye-medio"
+    },
+    {
+      "handle": "po-soft-eye-claro",
+      "title": "Pó Soft Eye Claro",
+      "type": "Pó",
+      "images": 9,
+      "url": "https://lfpro.com.br/products/po-soft-eye-claro"
+    }
+  ],
+  "po-soft-finish": [
+    {
+      "handle": "po-soft-finish-cor-medio-claro",
+      "title": "Pó Soft Finish Cor Médio Claro",
+      "type": "Pó",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/po-soft-finish-cor-medio-claro"
+    },
+    {
+      "handle": "po-soft-finish-medio-escuro",
+      "title": "Pó Soft Finish Cor Médio Escuro",
+      "type": "Pó",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/po-soft-finish-medio-escuro"
+    },
+    {
+      "handle": "po-soft-finish-claro",
+      "title": "Pó Soft Finish Cor Claro",
+      "type": "Pó",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/po-soft-finish-claro"
+    },
+    {
+      "handle": "po-soft-finish-medio",
+      "title": "Pó Soft Finish Cor Médio",
+      "type": "Pó",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/po-soft-finish-medio"
+    },
+    {
+      "handle": "po-soft-finish-escuro",
+      "title": "Pó Soft Finish Cor Escuro",
+      "type": "Pó",
+      "images": 7,
+      "url": "https://lfpro.com.br/products/po-soft-finish-escuro"
+    }
+  ],
+  "primer-labial": [
+    {
+      "handle": "primer-labial",
+      "title": "Primer Labial",
+      "type": "Primer",
+      "images": 3,
+      "url": "https://lfpro.com.br/products/primer-labial"
+    }
+  ],
+  "primers-prep": [
+    {
+      "handle": "radiance",
+      "title": "Radiance",
+      "type": "Hidratante",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/radiance"
+    },
+    {
+      "handle": "luminous",
+      "title": "Luminous",
+      "type": "Hidratante",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/luminous"
+    },
+    {
+      "handle": "blur",
+      "title": "Blur",
+      "type": "Hidratante",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/blur"
+    },
+    {
+      "handle": "acqua",
+      "title": "Acqua",
+      "type": "Hidratante",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/acqua"
+    }
+  ],
+  "skincare-limpeza": [
+    {
+      "handle": "cleansing-oil",
+      "title": "Cleansing Oil",
+      "type": "Cleansing",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/cleansing-oil"
+    },
+    {
+      "handle": "gel-de-limpeza-controle-da-oleosidade",
+      "title": "Gel De Limpeza Controle De Oleosidade",
+      "type": "Gel de Limpeza",
+      "images": 4,
+      "url": "https://lfpro.com.br/products/gel-de-limpeza-controle-da-oleosidade"
+    },
+    {
+      "handle": "gel-de-limpeza-facial",
+      "title": "Gel De Limpeza",
+      "type": "Gel de Limpeza",
+      "images": 5,
+      "url": "https://lfpro.com.br/products/gel-de-limpeza-facial"
+    }
+  ],
+  "skincare-serum": [
+    {
+      "handle": "serum-facial-acido-salicilico",
+      "title": "Sérum Facial Com Ácido Salicílico",
+      "type": "Sérum",
+      "images": 6,
+      "url": "https://lfpro.com.br/products/serum-facial-acido-salicilico"
+    }
+  ]
+}

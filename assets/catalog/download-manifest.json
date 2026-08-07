@@ -1,0 +1,2016 @@
+[
+  {
+    "handle": "po-soft-finish-cor-medio-claro",
+    "title": "Pó Soft Finish Cor Médio Claro",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 576937,
+      "02.png": 2702446,
+      "03.png": 2540008,
+      "04.png": 2611820,
+      "05.png": 3715432,
+      "06.png": 2260852,
+      "07.png": 3126025
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "kit-cream-color-toffee-pincel-b03",
+    "title": "Kit Cream Color Toffee Duo de Contornos + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 627617,
+      "02.png": 1754200,
+      "03.png": 1973983,
+      "04.png": 1971314,
+      "05.png": 342381,
+      "06.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "kit-cream-color-cocoa-pincel-b03",
+    "title": "Kit Cream Color Cocoa Duo de Contornos + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 645190,
+      "02.png": 2096456,
+      "03.png": 1972314,
+      "04.png": 1928777,
+      "05.png": 323620,
+      "06.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "ki-cream-color-taupe-e-pincel-b03",
+    "title": "Kit Cream Color Taupe Blush e Iluminador + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 650277,
+      "02.png": 996573,
+      "03.png": 369029,
+      "04.png": 973481,
+      "05.png": 1801978,
+      "06.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "kit-cream-color-rose-e-pincel-b03",
+    "title": "Kit Cream Color Rose Blush e Iluminador + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 642232,
+      "02.png": 346314,
+      "03.png": 1851123,
+      "04.png": 950011,
+      "05.png": 984058,
+      "06.png": 1047904,
+      "07.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "paleta-cream-color-cor-peach-pincel-b03",
+    "title": "Kit Cream Color Peach Blush e Iluminador + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png"
+    ],
+    "bytes": {
+      "01.png": 652584,
+      "02.png": 1132127,
+      "03.png": 322392,
+      "04.png": 1224341,
+      "05.png": 1254270,
+      "06.png": 1047904,
+      "07.png": 2296062,
+      "08.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "kit-cream-color-merlot-pincel-b03",
+    "title": "Kit Cream Color Merlot Blush e Iluminador + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 650841,
+      "02.png": 953754,
+      "03.png": 345299,
+      "04.png": 1245714,
+      "05.png": 974162,
+      "06.png": 1767783,
+      "07.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "kit-cream-color-candy-e-pincel-b03",
+    "title": "Kit Cream Color Candy Blush e Iluminador + Pincel B03",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 637767,
+      "02.png": 1180401,
+      "03.png": 346507,
+      "04.png": 1159624,
+      "05.png": 1006022,
+      "06.png": 2464289,
+      "07.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "trio-pinceis",
+    "title": "Kit Pincéis",
+    "type": "Kit",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 665823,
+      "02.png": 1671039,
+      "03.png": 474947,
+      "04.png": 2975671,
+      "05.png": 253426,
+      "06.png": 1254270,
+      "07.png": 248940
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lip-combo-rose-perfeito",
+    "title": "Lip Combo Rose Perfeito",
+    "type": "Batom",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 785241,
+      "02.png": 2433132,
+      "03.webp": 313525
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lip-combo-rose-natural",
+    "title": "Lip Combo Rose Natural",
+    "type": "Batom",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.webp"
+    ],
+    "bytes": {
+      "01.png": 1189508,
+      "02.png": 2378738,
+      "03.png": 2013933,
+      "04.webp": 313525
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lip-combo-nude-natural",
+    "title": "Lip Combo Nude Natural",
+    "type": "Batom",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.webp"
+    ],
+    "bytes": {
+      "01.png": 1160304,
+      "02.png": 2013933,
+      "03.png": 2322740,
+      "04.webp": 260970
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lip-combo-nude-essencial",
+    "title": "Lip Combo Nude Essencial",
+    "type": "Batom",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 774988,
+      "02.png": 2322740,
+      "03.webp": 260970
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lip-combo-marcante",
+    "title": "Lip Combo Marcante",
+    "type": "Batom",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.webp"
+    ],
+    "bytes": {
+      "01.png": 1152187,
+      "02.png": 1685014,
+      "03.png": 2433132,
+      "04.webp": 370100
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lip-combo-contorno-perfeito",
+    "title": "Lip Combo Contorno Perfeito",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.webp": 83031,
+      "02.png": 2378738,
+      "03.webp": 370100
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "blend-cream-cappuccino",
+    "title": "Blend Cream Cappuccino",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1022637,
+      "02.png": 2891237,
+      "03.png": 2601425,
+      "04.png": 1834154,
+      "05.png": 3186274,
+      "06.png": 2844837,
+      "07.png": 3052433,
+      "08.png": 2871736,
+      "09.png": 1812981,
+      "10.png": 2761762
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "classic-lips-wine",
+    "title": "Classic Lips Wine",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.webp": 64202,
+      "02.png": 2392213,
+      "03.webp": 130665,
+      "04.webp": 159151,
+      "05.webp": 143132,
+      "06.webp": 236017
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "po-soft-finish-medio-escuro",
+    "title": "Pó Soft Finish Cor Médio Escuro",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 854560,
+      "02.png": 2292821,
+      "03.png": 4385525,
+      "04.png": 2611820,
+      "05.png": 3715432,
+      "06.png": 2077901,
+      "07.png": 3126025
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "po-soft-finish-claro",
+    "title": "Pó Soft Finish Cor Claro",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 872975,
+      "02.png": 2325978,
+      "03.png": 4446941,
+      "04.png": 2611820,
+      "05.png": 3715432,
+      "06.png": 3997143,
+      "07.png": 3126025
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "pincel-duplo-blush-e-iluminador-b03",
+    "title": "Pincel para Blush e Iluminador B03",
+    "type": "Pincel",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "bytes": {
+      "01.png": 248940,
+      "02.png": 1254270,
+      "03.png": 950011,
+      "04.png": 1006022
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "paleta-cream-color-contorno-cor-toffee",
+    "title": "Cream Color Toffee Duo de Contornos",
+    "type": "Contorno",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "bytes": {
+      "01.png": 342381,
+      "02.png": 1754200,
+      "03.png": 1971314,
+      "04.png": 1973983
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "cream-color-contorno-cocoa",
+    "title": "Cream Color Cocoa Duo de Contornos",
+    "type": "Contorno",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "bytes": {
+      "01.png": 323620,
+      "02.png": 2096456,
+      "03.png": 1928777,
+      "04.png": 1972314
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "paleta-cream-color-blush-e-iluminador-cor-taupe",
+    "title": "Cream Color Taupe Blush e Iluminador",
+    "type": "Blush",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "bytes": {
+      "01.png": 369029,
+      "02.png": 996573,
+      "03.png": 973481,
+      "04.png": 1801978
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "paleta-cream-color-blush-e-iluminador-cor-rose",
+    "title": "Cream Color Rose Blush e Iluminador",
+    "type": "Blush",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 346314,
+      "02.png": 984058,
+      "03.png": 950011,
+      "04.png": 1004758,
+      "05.png": 1204986,
+      "06.png": 1851123
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "cream-color-peach-blush-e-iluminador",
+    "title": "Cream Color Peach Blush e Iluminador",
+    "type": "Blush",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 322392,
+      "02.png": 1132127,
+      "03.png": 1224341,
+      "04.png": 2296062,
+      "05.png": 1254270,
+      "06.png": 1047904
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "cream-color-merlot-blush-e-iluminador",
+    "title": "Cream Color Merlot Blush e Iluminador",
+    "type": "Blush",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png"
+    ],
+    "bytes": {
+      "01.png": 345299,
+      "02.png": 953754,
+      "03.png": 1245714,
+      "04.png": 1767783,
+      "05.png": 974162
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "cream-color-candy-blush-e-iluminador",
+    "title": "Cream Color Candy Blush e Iluminador",
+    "type": "Blush",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png"
+    ],
+    "bytes": {
+      "01.png": 346507,
+      "02.png": 1180401,
+      "03.png": 1159624,
+      "04.png": 1006022,
+      "05.png": 2464289
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "classic-lips-spice",
+    "title": "Classic Lips Spice",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.webp": 64284,
+      "02.png": 2433132,
+      "03.webp": 117081,
+      "04.webp": 156807,
+      "05.webp": 125765,
+      "06.webp": 188456
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "classic-lips-rose",
+    "title": "Classic Lips Rose",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.webp": 64157,
+      "02.png": 2378738,
+      "03.webp": 122602,
+      "04.webp": 135068,
+      "05.webp": 130959,
+      "06.webp": 197575
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "classic-lips-carmim",
+    "title": "Classic Lips Carmim",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.webp": 66341,
+      "02.png": 2114517,
+      "03.webp": 146036,
+      "04.webp": 154354,
+      "05.webp": 149664,
+      "06.webp": 207814
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "classic-lips-bloom",
+    "title": "Classic Lips Bloom",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.webp": 65115,
+      "02.png": 2013933,
+      "03.webp": 125108,
+      "04.webp": 139451,
+      "05.webp": 113847,
+      "06.webp": 176621
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "classic-lips-amber",
+    "title": "Classic Lips Amber",
+    "type": "Batom",
+    "local_images": [
+      "01.webp",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.webp": 64395,
+      "02.png": 2322740,
+      "03.webp": 115719,
+      "04.webp": 130921,
+      "05.webp": 115005,
+      "06.webp": 200952
+    },
+    "primary": "01.webp"
+  },
+  {
+    "handle": "pincel-para-base-f01",
+    "title": "Pincel para Base F01",
+    "type": "Pincel",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.webp",
+      "05.webp",
+      "06.webp",
+      "07.png",
+      "08.png",
+      "09.png"
+    ],
+    "bytes": {
+      "01.png": 474947,
+      "02.png": 2502765,
+      "03.png": 1671039,
+      "04.webp": 329477,
+      "05.webp": 188093,
+      "06.webp": 199229,
+      "07.png": 2441611,
+      "08.png": 1989601,
+      "09.png": 2272472
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "pincel-de-corretivo-c02",
+    "title": "Pincel para Corretivo C02",
+    "type": "Pincel",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp",
+      "06.png",
+      "07.png",
+      "08.png"
+    ],
+    "bytes": {
+      "01.png": 253426,
+      "02.png": 2975671,
+      "03.webp": 195254,
+      "04.webp": 248375,
+      "05.webp": 266195,
+      "06.png": 3442640,
+      "07.png": 2757193,
+      "08.png": 2014220
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "esponja-soft-perfect",
+    "title": "Esponja Soft Perfect",
+    "type": "Esponja",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "bytes": {
+      "01.png": 415412,
+      "02.png": 1834844,
+      "03.png": 446131,
+      "04.png": 900411
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "radiance",
+    "title": "Radiance",
+    "type": "Hidratante",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 341618,
+      "02.png": 2614248,
+      "03.png": 2379906,
+      "04.png": 671377,
+      "05.png": 2535773,
+      "06.png": 744199
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "luminous",
+    "title": "Luminous",
+    "type": "Hidratante",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 336157,
+      "02.png": 3604628,
+      "03.png": 1357195,
+      "04.png": 960999,
+      "05.png": 2703667,
+      "06.png": 1507852
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "blur",
+    "title": "Blur",
+    "type": "Hidratante",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 337184,
+      "02.png": 3375602,
+      "03.png": 2443293,
+      "04.png": 1749991,
+      "05.png": 2737546,
+      "06.png": 2345718
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "acqua",
+    "title": "Acqua",
+    "type": "Hidratante",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png"
+    ],
+    "bytes": {
+      "01.png": 322400,
+      "02.png": 2889582,
+      "03.png": 2607581,
+      "04.png": 922828,
+      "05.png": 3041277,
+      "06.png": 1599969
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "mascara-de-cilios-up-volume-marrom",
+    "title": "Máscara de Cílios Up! Volume Marrom",
+    "type": "Máscara de Cílios",
+    "local_images": [
+      "01.png",
+      "02.jpg",
+      "03.jpg"
+    ],
+    "bytes": {
+      "01.png": 237110,
+      "02.jpg": 60936,
+      "03.jpg": 13864
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "po-soft-finish-medio",
+    "title": "Pó Soft Finish Cor Médio",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 865431,
+      "02.png": 2336699,
+      "03.png": 4592177,
+      "04.png": 2611820,
+      "05.png": 3715432,
+      "06.png": 3428958,
+      "07.png": 3126025
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "po-soft-finish-escuro",
+    "title": "Pó Soft Finish Cor Escuro",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ],
+    "bytes": {
+      "01.png": 862052,
+      "02.png": 2294615,
+      "03.png": 4290841,
+      "04.png": 2611820,
+      "05.png": 3715432,
+      "06.png": 3857348,
+      "07.png": 3126025
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "mascara-de-cilios-up-definicao",
+    "title": "Máscara De Cílios Up! Definição Preta",
+    "type": "Máscara de Cílios",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.jpg",
+      "04.gif",
+      "05.gif"
+    ],
+    "bytes": {
+      "01.png": 263432,
+      "02.gif": 52134,
+      "03.jpg": 107857,
+      "04.gif": 75146,
+      "05.gif": 52134
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-06",
+    "title": "Corretivo Mousse Cor 06",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 208088,
+      "02.webp": 32037,
+      "03.webp": 22271
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "blend-cream-vanilla",
+    "title": "Blend Cream Vanilla",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1518096,
+      "02.png": 2668690,
+      "03.png": 2440393,
+      "04.png": 1834154,
+      "05.png": 3186274,
+      "06.png": 2844837,
+      "07.png": 3052433,
+      "08.png": 2871736,
+      "09.png": 1812981,
+      "10.png": 2761762
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-35",
+    "title": "Corretivo Mousse Cor 3.5",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 173725,
+      "02.webp": 35905,
+      "03.webp": 81161
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "mascara-de-cilios-up-precisao-marrom",
+    "title": "Máscara De Cílios Up! Precisão Marrom",
+    "type": "Máscara de Cílios",
+    "local_images": [
+      "01.png",
+      "02.gif"
+    ],
+    "bytes": {
+      "01.png": 805322,
+      "02.gif": 120281
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "blend-cream-mocha",
+    "title": "Blend Cream Mocha",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1015536,
+      "02.png": 2332420,
+      "03.png": 2726004,
+      "04.png": 1834154,
+      "05.png": 3186274,
+      "06.png": 2844837,
+      "07.png": 3052433,
+      "08.png": 2871736,
+      "09.png": 1812981,
+      "10.png": 2761762
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "blend-cream-macchiato",
+    "title": "Blend Cream Macchiato",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 938610,
+      "02.png": 2660433,
+      "03.png": 2390703,
+      "04.png": 1834154,
+      "05.png": 3186274,
+      "06.png": 2844837,
+      "07.png": 3052433,
+      "08.png": 2871736,
+      "09.png": 1812981,
+      "10.png": 2761762
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "blend-cream-espresso",
+    "title": "Blend Cream Espresso",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 966051,
+      "02.png": 2612896,
+      "03.png": 2689320,
+      "04.png": 1834154,
+      "05.png": 3186274,
+      "06.png": 2844837,
+      "07.png": 3052433,
+      "08.png": 2871736,
+      "09.png": 1812981,
+      "10.png": 2761762
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "blend-cream-crema",
+    "title": "Blend Cream Crema",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png"
+    ],
+    "bytes": {
+      "01.png": 921698,
+      "02.png": 1996071,
+      "03.png": 1834154,
+      "04.png": 3186274,
+      "05.png": 2844837,
+      "06.png": 3052433,
+      "07.png": 2871736,
+      "08.png": 1812981,
+      "09.png": 2761762
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lapis-para-olhos-cinza",
+    "title": "Lápis para Olhos Cinza",
+    "type": "Lápis para Olhos",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.gif",
+      "04.gif",
+      "05.gif"
+    ],
+    "bytes": {
+      "01.png": 351874,
+      "02.gif": 55459,
+      "03.gif": 820657,
+      "04.gif": 474257,
+      "05.gif": 276638
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lapis-labios-caramelo",
+    "title": "Lápis Para Lábios Caramelo",
+    "type": "Lápis para Lábios",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.gif"
+    ],
+    "bytes": {
+      "01.png": 133650,
+      "02.gif": 987028,
+      "03.gif": 1102526
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lapis-labios-chocolate",
+    "title": "Lápis Para Lábios Chocolate",
+    "type": "Lápis para Lábios",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.gif"
+    ],
+    "bytes": {
+      "01.png": 132714,
+      "02.gif": 1185985,
+      "03.gif": 1039792
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lapis-labios-magenta",
+    "title": "Lápis Para Lábios Magenta",
+    "type": "Lápis para Lábios",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.gif"
+    ],
+    "bytes": {
+      "01.png": 129173,
+      "02.gif": 1069308,
+      "03.gif": 1031717
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-01",
+    "title": "Corretivo Mousse Cor 01",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.jpg",
+      "03.jpg"
+    ],
+    "bytes": {
+      "01.png": 201364,
+      "02.jpg": 79476,
+      "03.jpg": 127953
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-02",
+    "title": "Corretivo Mousse Cor 02",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 192685,
+      "02.webp": 130929,
+      "03.webp": 137611
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "esponja-face-perfect",
+    "title": "Esponja Face Perfect",
+    "type": "Esponja",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.webp",
+      "06.webp",
+      "07.webp"
+    ],
+    "bytes": {
+      "01.png": 494197,
+      "02.png": 2013580,
+      "03.png": 2320607,
+      "04.png": 2533738,
+      "05.webp": 347599,
+      "06.webp": 274575,
+      "07.webp": 330383
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-12",
+    "title": "Base Soft Matte Cor 12",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.jpg",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1014123,
+      "02.jpg": 60592,
+      "03.png": 5020988,
+      "04.png": 1225810,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-01",
+    "title": "Base Soft Matte Cor 01",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1101793,
+      "02.webp": 93892,
+      "03.png": 4776398,
+      "04.png": 1127130,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-13",
+    "title": "Base Soft Matte Cor 13",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1028510,
+      "02.webp": 61549,
+      "03.png": 4409660,
+      "04.png": 1225810,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-11",
+    "title": "Base Soft Matte Cor 11",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1047071,
+      "02.webp": 67185,
+      "03.png": 4246859,
+      "04.png": 1225810,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-10",
+    "title": "Base Soft Matte Cor 10",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1104905,
+      "02.webp": 106195,
+      "03.png": 4217746,
+      "04.png": 1225810,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-09",
+    "title": "Base Soft Matte Cor 09",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1089048,
+      "02.webp": 80275,
+      "03.png": 4040897,
+      "04.png": 1461530,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-08",
+    "title": "Base Soft Matte Cor 08",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1090666,
+      "02.webp": 131971,
+      "03.png": 4386079,
+      "04.png": 1461530,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-07",
+    "title": "Base Soft Matte Cor 07",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1073844,
+      "02.webp": 91789,
+      "03.png": 4765752,
+      "04.png": 1461530,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-06",
+    "title": "Base Soft Matte Cor 06",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1098065,
+      "02.webp": 114010,
+      "03.png": 4514750,
+      "04.png": 1461530,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-05",
+    "title": "Base Soft Matte Cor 05",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1126904,
+      "02.webp": 68085,
+      "03.png": 4679913,
+      "04.png": 1461530,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-04",
+    "title": "Base Soft Matte Cor 04",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1110106,
+      "02.webp": 65915,
+      "03.png": 4064710,
+      "04.png": 1127130,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-03",
+    "title": "Base Soft Matte Cor 03",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1118143,
+      "02.webp": 124569,
+      "03.png": 4511466,
+      "04.png": 1127130,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "base-soft-matte-cor-02",
+    "title": "Base Soft Matte Cor 02",
+    "type": "Base",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png",
+      "10.png"
+    ],
+    "bytes": {
+      "01.png": 1036159,
+      "02.webp": 106518,
+      "03.png": 4529187,
+      "04.png": 1127130,
+      "05.png": 3123017,
+      "06.png": 4410604,
+      "07.png": 4809541,
+      "08.png": 963711,
+      "09.png": 3980821,
+      "10.png": 1816733
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "cleansing-oil",
+    "title": "Cleansing Oil",
+    "type": "Cleansing",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp"
+    ],
+    "bytes": {
+      "01.png": 217954,
+      "02.png": 1914753,
+      "03.webp": 105055,
+      "04.webp": 151123,
+      "05.webp": 98985
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "po-soft-eye-escuro",
+    "title": "Pó Soft Eye Escuro",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png"
+    ],
+    "bytes": {
+      "01.png": 1394810,
+      "02.png": 2862598,
+      "03.png": 1841008,
+      "04.png": 1864109,
+      "05.png": 3937524,
+      "06.png": 2178774,
+      "07.png": 2510495,
+      "08.png": 2906683,
+      "09.png": 1994161
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "po-soft-eye-medio",
+    "title": "Pó Soft Eye Médio",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png"
+    ],
+    "bytes": {
+      "01.png": 1373556,
+      "02.png": 2628751,
+      "03.png": 1777477,
+      "04.png": 1905102,
+      "05.png": 3694339,
+      "06.png": 2178774,
+      "07.png": 2510495,
+      "08.png": 2906683,
+      "09.png": 1994161
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "po-soft-eye-claro",
+    "title": "Pó Soft Eye Claro",
+    "type": "Pó",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png"
+    ],
+    "bytes": {
+      "01.png": 1346704,
+      "02.png": 2631766,
+      "03.png": 1623430,
+      "04.png": 1886779,
+      "05.png": 3121813,
+      "06.png": 2178774,
+      "07.png": 2510495,
+      "08.png": 2906683,
+      "09.png": 1994161
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "paleta-de-sombras-vital",
+    "title": "Paleta De Sombras Vital",
+    "type": "Sombra",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png"
+    ],
+    "bytes": {
+      "01.png": 829886,
+      "02.png": 6023386,
+      "03.png": 3841698
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "paleta-de-sombras-energica",
+    "title": "Paleta De Sombras Enérgica",
+    "type": "Sombra",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png"
+    ],
+    "bytes": {
+      "01.png": 897598,
+      "02.png": 6614873,
+      "03.png": 4023226,
+      "04.png": 4570455
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "mascara-de-cilios-up-precisao-preta",
+    "title": "Máscara De Cílios Up! Precisão Preta",
+    "type": "Máscara de Cílios",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.gif"
+    ],
+    "bytes": {
+      "01.png": 830923,
+      "02.gif": 127474,
+      "03.gif": 89899
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "apontador-de-lapis",
+    "title": "Apontador De Lápis Para Maquiagem",
+    "type": "Apontador",
+    "local_images": [
+      "01.png",
+      "02.gif"
+    ],
+    "bytes": {
+      "01.png": 215457,
+      "02.gif": 209375
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lapis-para-olhos-preto",
+    "title": "Lápis Para Olhos Preto",
+    "type": "Lápis para Olhos",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.gif"
+    ],
+    "bytes": {
+      "01.png": 356569,
+      "02.png": 2123307,
+      "03.png": 1537106,
+      "04.gif": 79736
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "lapis-para-olhos-marrom",
+    "title": "Lápis Para Olhos Marrom",
+    "type": "Lápis para Olhos",
+    "local_images": [
+      "01.png",
+      "02.gif",
+      "03.png",
+      "04.png",
+      "05.gif"
+    ],
+    "bytes": {
+      "01.png": 373746,
+      "02.gif": 55055,
+      "03.png": 2135139,
+      "04.png": 1742468,
+      "05.gif": 81352
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-05",
+    "title": "Corretivo Mousse Cor 05",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 189638,
+      "02.webp": 38889,
+      "03.webp": 32550
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-04",
+    "title": "Corretivo Mousse Cor 04",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 172723,
+      "02.webp": 116018,
+      "03.webp": 153699
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-cor-03",
+    "title": "Corretivo Mousse Cor 03",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.webp",
+      "03.webp"
+    ],
+    "bytes": {
+      "01.png": 175369,
+      "02.webp": 139076,
+      "03.webp": 139408
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "corretivo-mousse-neutralizador-c02",
+    "title": "Corretivo Mousse Neutralizador C02 Amarelo",
+    "type": "Corretivo",
+    "local_images": [
+      "01.png",
+      "02.jpg",
+      "03.jpg"
+    ],
+    "bytes": {
+      "01.png": 177073,
+      "02.jpg": 187381,
+      "03.jpg": 24741
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "clear-clareador-de-olheiras",
+    "title": "Clear Clareador De Olheiras",
+    "type": "Clareador",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.gif",
+      "04.webp",
+      "05.webp"
+    ],
+    "bytes": {
+      "01.png": 212777,
+      "02.png": 2048278,
+      "03.gif": 75821,
+      "04.webp": 142337,
+      "05.webp": 102302
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "gel-de-limpeza-controle-da-oleosidade",
+    "title": "Gel De Limpeza Controle De Oleosidade",
+    "type": "Gel de Limpeza",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.webp",
+      "04.webp"
+    ],
+    "bytes": {
+      "01.png": 379796,
+      "02.png": 1728762,
+      "03.webp": 135624,
+      "04.webp": 118791
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "serum-facial-acido-salicilico",
+    "title": "Sérum Facial Com Ácido Salicílico",
+    "type": "Sérum",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.gif",
+      "04.webp",
+      "05.webp",
+      "06.webp"
+    ],
+    "bytes": {
+      "01.png": 278769,
+      "02.png": 1728489,
+      "03.gif": 86954,
+      "04.webp": 91072,
+      "05.webp": 124512,
+      "06.webp": 113366
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "mascara-de-cilios-up-volume-preta",
+    "title": "Máscara De Cílios Up! Volume Preta",
+    "type": "Máscara de Cílios",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.gif"
+    ],
+    "bytes": {
+      "01.png": 319321,
+      "02.png": 1930031,
+      "03.gif": 52134
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "primer-labial",
+    "title": "Primer Labial",
+    "type": "Primer",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.gif"
+    ],
+    "bytes": {
+      "01.png": 206188,
+      "02.png": 1646452,
+      "03.gif": 84495
+    },
+    "primary": "01.png"
+  },
+  {
+    "handle": "gel-de-limpeza-facial",
+    "title": "Gel De Limpeza",
+    "type": "Gel de Limpeza",
+    "local_images": [
+      "01.png",
+      "02.png",
+      "03.webp",
+      "04.webp",
+      "05.webp"
+    ],
+    "bytes": {
+      "01.png": 458362,
+      "02.png": 1597523,
+      "03.webp": 110855,
+      "04.webp": 127203,
+      "05.webp": 129867
+    },
+    "primary": "01.png"
+  }
+]

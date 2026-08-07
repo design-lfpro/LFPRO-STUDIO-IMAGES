@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+*.mp4
+*.mov
+*.tmp
+.syncthing.*
+**/.syncthing.*
+
+# Renders de teste — mantém só a referência look-a (stills)
+output/**
+!output/look-a-final/
+!output/look-a-final/**
+output/look-a-final/*.mp4

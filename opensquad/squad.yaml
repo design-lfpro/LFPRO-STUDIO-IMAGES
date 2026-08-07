@@ -1,0 +1,164 @@
+squad:
+  code: "lfpro-studio"
+  name: "LFPro Studio"
+  description: "Fábrica de vídeo de produto em estúdio para a marca LF PRO. V1: tracks T1 product-hero e T2 texture-macro a partir de packshots oficiais do site. Magnific gera stills/i2v; FFmpeg monta 9:16. Packaging/logo nunca redesenhados — packshot real é fonte da verdade. Tracks T3–T5 documentados; T5 locked."
+  domain: "content"
+  language: "Português (Brasil)"
+  version: "0.1.1"
+  created: "2026-08-06"
+  updated: "2026-08-06"
+  client: "LF PRO"
+  project_root: "01-projetos/lfpro-studio"
+
+decisions:
+  architecture: "1 squad de marca + fichas de produto + tracks T1–T5. Não criar squad por SKU."
+  generation_engine: "Magnific only (não kie.ai). Modelos LOCKED — ver brand-dna/01-modelos-magnific.md"
+  models_image: "Google Nano Banana — default imagen-nano-banana-2 @ 2k; fallback imagen-nano-banana-2-flash. Sempre com reference do packshot. Composite packshot real é alternativa sem IA."
+  models_video: "Default Kling 3.0 (kling-30) 720p first+last. Premium: Seedance 2.0 ou Veo 3.1. Proibido Seedance 1.5 Draft. OBRIGATÓRIO keyframes.start + end. A/B 2026-08-06 em output/ab-test-video-models-20260806/."
+  still_gate: "Rita Still Verifier avalia start e end com visão ANTES do Seedance. FAIL em logo/packaging/end-close → re-roll ou composite; nunca vídeo com still FAIL."
+  identity_lock: "assets/products/{handle}/01.* é a verdade do packaging. Se IA deformar logo LF monogram gold, re-roll Nano Banana ou composite com packshot real."
+  v1_scope: "Tracks T1 e T2 only. Sem full face makeup proof. Sem before/after. First+last frames obrigatórios."
+  v2_scope: "T4 com assets/cast/ fornecido pelo cliente."
+  v3_scope: "T5 face-proof locked até protocolo."
+  aspect: "9:16 1080x1920 30fps default para Reels"
+  duration_default: "T1=12s, T2=8s"
+  audio: "V1 sem VO obrigatória; bed opcional; loudnorm -14 LUFS no master; Seedance audio off"
+  language_prompts: "Prompts de imagem/vídeo em inglês; comunicação com usuário em PT-BR"
+  brand_paths:
+    dna: "brand-dna/00-brand-dna.md"
+    models: "brand-dna/01-modelos-magnific.md"
+    products: "products/"
+    tracks: "tracks/"
+    assets: "assets/products/"
+  checkpoints: "briefing, shotlist, stills, clips, delivery"
+  max_review_cycles: 2
+  publishing: "manual — squad não publica no Instagram"
+
+agents:
+  - id: "leo-orquestrador"
+    name: "Léo Orquestrador"
+    title: "Diretor criativo / orquestrador"
+    icon: "🎬"
+    execution: "inline"
+    path: "./agents/leo-orquestrador.agent.md"
+  - id: "ana-produto"
+    name: "Ana Produto"
+    title: "Analista visual de packshot"
+    icon: "🔬"
+    execution: "inline"
+    path: "./agents/ana-produto.agent.md"
+  - id: "sofia-still"
+    name: "Sofia Still"
+    title: "Engenheira de prompts de still"
+    icon: "🖼️"
+    execution: "inline"
+    path: "./agents/sofia-still.agent.md"
+  - id: "miguel-motion"
+    name: "Miguel Motion"
+    title: "Engenheiro de prompts i2v Magnific"
+    icon: "🎥"
+    execution: "inline"
+    path: "./agents/miguel-motion.agent.md"
+  - id: "gael-magnific"
+    name: "Gael Magnific"
+    title: "Produtor Magnific (generate + download)"
+    icon: "🎛️"
+    execution: "subagent"
+    path: "./agents/gael-magnific.agent.md"
+  - id: "fernanda-ffmpeg"
+    name: "Fernanda FFmpeg"
+    title: "Montagem e finalização"
+    icon: "🎞️"
+    execution: "subagent"
+    path: "./agents/fernanda-ffmpeg.agent.md"
+  - id: "rita-still-verifier"
+    name: "Rita Still Verifier"
+    title: "Gate de stills start/end antes do vídeo"
+    icon: "🛡️"
+    execution: "inline"
+    path: "./agents/rita-still-verifier.agent.md"
+  - id: "rita-revisao"
+    name: "Rita Revisão"
+    title: "QC marca + técnico do master"
+    icon: "✅"
+    execution: "inline"
+    path: "./agents/rita-revisao.agent.md"
+
+skills:
+  - web_search
+  - web_fetch
+
+data:
+  - ../../brand-dna/00-brand-dna.md
+  - ../../tracks/T1-product-hero/README.md
+  - ../../tracks/T2-texture-macro/README.md
+  - ../../assets/catalog/products-index.json
+
+formats:
+  - instagram-reels
+  - meta-ads-vertical
+
+pipeline:
+  file: "pipeline/pipeline.yaml"
+  max_review_cycles: 2
+  steps:
+    - step: 1
+      name: "checkpoint-briefing"
+      type: "checkpoint"
+      file: "pipeline/steps/step-01-checkpoint-briefing.md"
+    - step: 2
+      name: "load-context"
+      type: "agent"
+      agent: "ana-produto"
+      file: "pipeline/steps/step-02-load-context.md"
+    - step: 3
+      name: "shotlist"
+      type: "agent"
+      agent: "leo-orquestrador"
+      file: "pipeline/steps/step-03-shotlist.md"
+    - step: 4
+      name: "checkpoint-shotlist"
+      type: "checkpoint"
+      file: "pipeline/steps/step-04-checkpoint-shotlist.md"
+    - step: 5
+      name: "stills"
+      type: "agent"
+      agent: "sofia-still"
+      file: "pipeline/steps/step-05-stills.md"
+    - step: 6
+      name: "generate-stills"
+      type: "agent"
+      agent: "gael-magnific"
+      file: "pipeline/steps/step-06-generate-stills.md"
+    - step: 7
+      name: "checkpoint-stills"
+      type: "checkpoint"
+      file: "pipeline/steps/step-07-checkpoint-stills.md"
+    - step: 8
+      name: "motion"
+      type: "agent"
+      agent: "miguel-motion"
+      file: "pipeline/steps/step-08-motion.md"
+    - step: 9
+      name: "generate-clips"
+      type: "agent"
+      agent: "gael-magnific"
+      file: "pipeline/steps/step-09-generate-clips.md"
+    - step: 10
+      name: "checkpoint-clips"
+      type: "checkpoint"
+      file: "pipeline/steps/step-10-checkpoint-clips.md"
+    - step: 11
+      name: "montagem"
+      type: "agent"
+      agent: "fernanda-ffmpeg"
+      file: "pipeline/steps/step-11-montagem.md"
+    - step: 12
+      name: "review"
+      type: "agent"
+      agent: "rita-revisao"
+      file: "pipeline/steps/step-12-review.md"
+    - step: 13
+      name: "checkpoint-delivery"
+      type: "checkpoint"
+      file: "pipeline/steps/step-13-checkpoint-delivery.md"

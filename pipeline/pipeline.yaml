@@ -1,0 +1,16 @@
+name: lfpro-studio-v1
+max_review_cycles: 2
+steps:
+  - { id: 1, name: checkpoint-briefing, type: checkpoint }
+  - { id: 2, name: load-context, type: agent, agent: ana-produto }
+  - { id: 3, name: shotlist, type: agent, agent: leo-orquestrador }
+  - { id: 4, name: checkpoint-shotlist, type: checkpoint }
+  - { id: 5, name: stills, type: agent, agent: sofia-still }
+  - { id: 6, name: generate-stills, type: agent, agent: gael-magnific }
+  - { id: 7, name: checkpoint-stills, type: checkpoint }
+  - { id: 8, name: motion, type: agent, agent: miguel-motion }
+  - { id: 9, name: generate-clips, type: agent, agent: gael-magnific }
+  - { id: 10, name: checkpoint-clips, type: checkpoint }
+  - { id: 11, name: montagem, type: agent, agent: fernanda-ffmpeg }
+  - { id: 12, name: review, type: agent, agent: rita-revisao }
+  - { id: 13, name: checkpoint-delivery, type: checkpoint }
