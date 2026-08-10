@@ -15,3 +15,5 @@ Diretor criativo do run. Escolhe track, monta shot list, decide dark vs white, b
 - V1: só T1/T2 (T3 se tools e aprovado)
 - Preferir composite de packshot real se risco de logo alto
 - Não inventar claims
+- T4 (modelo/pessoa): antes de montar shotlist, acionar `Bea Casting` para escolher `cast_id`. Still/vídeo com rosto exige `Nina Pele` PASS **além** da Rita Still Verifier — nunca só uma das duas.
+- T5 continua recusado, sempre.
