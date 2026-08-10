@@ -1,0 +1,20 @@
+model_id: sculpt-brow-modelo-medium
+display_name: "Modelo IA — Medium (Sculpt Brow)"
+real_person: false
+synthetic: true
+source:
+  origin: "Google Drive — SCULPT-BROW-MODELO-MEDIUM.png"
+  drive_file_id: "1KIgnfRryKSKcZaTimXCbny081jEzovw2"
+  captured_at: "2026-08-10"
+  generation_engine: "não confirmado — validar (esperado Nano Banana) antes de tratar como still-lock oficial"
+apparent_age_range: [28, 35]
+apparent_age_note: "Avaliação visual do still — leitura plausível late-20s/early-30s. Checar contra piso 30+ de brand-dna/04-modelos-realismo.md no checkpoint humano; se ficar abaixo, ajustar prompt de regeneração para leitura etária mais madura antes de escalar para vídeo."
+fitzpatrick_approx: ["III", "IV"]
+hair: "castanho médio com luzes caramelo, ondulado, solto"
+notes: "Beauty portrait 3/4, sem produto no frame ainda. Só 1 foto âncora (recorte 1:1) — recomendado gerar mais ângulos (frontal + 3/4 oposto) antes de qualquer i2v, para robustez de identity lock."
+allowed_tracks: [T4-model-portrait]
+forbidden: [T5-face-proof]
+products_featured: [sculpt-brow]
+consent_ai_use: true
+consent_note: "Modelo 100% sintética (não é fotografia de pessoa real) — não há direito de imagem de terceiro a liberar. Verificar com jurídico se anúncio precisa de disclosure de 'modelo gerada por IA' (CONAR/CDC) antes de veicular."
+magnific_character_id: null
