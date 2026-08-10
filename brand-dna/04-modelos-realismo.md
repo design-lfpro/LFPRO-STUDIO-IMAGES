@@ -74,8 +74,8 @@ Contratos antigos (Drive, 2024–2025) foram fechados para **still/vídeo conven
 
 ## 5. Status
 
-- [ ] Aprovação do piso de idade (30+) por Jonathan/Luciane
-- [ ] Escolher 2–4 modelos do histórico para virar `assets/cast/` oficial (uma por tom)
+- [x] Piso de idade (30+) aprovado — **exceção registrada** para a campanha Sculpt Brow (0813): 3 modelos IA já geradas (`assets/cast/sculpt-brow-modelo-*`) ficam como estão (leitura ~28-35), decisão de 2026-08-10. **A partir da próxima campanha, gerar já buscando leitura 32+.**
+- [ ] Escolher 2–4 modelos do histórico (contratação real, Drive) para virar `assets/cast/` oficial (uma por tom) — em paralelo ao cast 100% IA do Sculpt Brow, não em substituição
 - [ ] Confirmar direito de uso por IA dos contratos antigos
-- [ ] Cadastrar characters no Magnific library (hoje só existe `lu-golden`)
+- [ ] Cadastrar characters no Magnific library (hoje só existe `lu-golden`; os 3 do Sculpt Brow ficaram pendentes — upload direto bloqueado pela política de rede da sessão, ver `assets/cast/*/meta.yaml` campo `magnific_character_id`)
 - [ ] Trazer os testes manuais recentes do Drive ("movimento sutil da modelo" etc.) para dentro do pipeline documentado, com QC da Nina Pele
