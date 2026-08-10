@@ -7,7 +7,7 @@ url: "pendente — produto ainda não lançado no site (previsto 13/08)"
 preferred_tracks: [T1-product-hero, T2-texture-macro, T4-model-portrait]
 blocked_tracks: [T5-face-proof]
 status: dna-v1-pending-launch
-assets_local: "assets/products/sculpt-brow/ (packshot de família — isolado por tom pendente)"
+assets_local: "assets/products/sculpt-brow-medium/01.png (packshot isolado, fundo off-white)"
 shade: Medium
 pencil_hex_approx: "#5C4033"
 ---
@@ -35,5 +35,6 @@ Ver claims completos da família em `_family.md` — o Medium não tem claim exc
 
 ## Notas para pipeline
 
-- **Sem packshot isolado por tom ainda** — usar `assets/products/sculpt-brow/01.png`/`02.png` (família) como reference até chegar still solo.
-- Cor de grafite exata (`#5C4033`) é estimativa a partir do flat-lay — recalibrar com swatch real antes de still-lock final.
+- Packshot isolado confirmado (2026-08-10, Drive → `FOTO PRODUTO/SITE` do Sculpt Brow): `assets/products/sculpt-brow-medium/01.png` — caneta aberta + tampa separada, fundo off-white, ponta chanfrada marrom médio visível, wordmark e monograma gold nítidos. **Usar este como reference obrigatória de still-lock (T1/T4)**, não mais o flat-lay de família.
+- Existe também detalhe de ponta (`SCULPT BROW MEDIUM CHANFRADO.png`) e swatch de aplicação (`SCULPT BROW SWAT PRODUTO bege medium.png`) no Drive, ainda não importados — trazer se for fazer T2 (macro) ou conferência de shade-match.
+- Cor de grafite exata (`#5C4033`) é estimativa a partir do flat-lay — recalibrar direto no packshot isolado antes de still-lock final.

@@ -61,11 +61,12 @@ Observado nos packshots reais (Drive, pré-lançamento — ainda não há `01.pn
 
 ## Assets — status (2026-08-10)
 
-- `assets/products/sculpt-brow/01.png`, `02.png`: packshot de **família** (flat-lay com as 3 unidades), trazido do Google Drive pré-lançamento. **Ainda não há packshot isolado por tom** (uma lapiseira só, fundo limpo) — recomendado antes de qualquer still T1 por handle individual.
-- Existem no Drive imagens adicionais não importadas ainda: swatch de textura por tom (`SCULPT BROW {LIGHT,MEDIUM,DARK} SWAT.png`) e composições produto+modelo — avaliar origem (real vs. IA) antes de tratar como reference de still-lock.
-- Cast de modelo vinculado: ver `assets/cast/sculpt-brow-modelo-{light,medium,dark}/`.
+- `assets/products/sculpt-brow/01.png`, `02.png`: packshot de **família** (flat-lay com as 3 unidades) — bom para still de família/carrossel, não para still-lock de handle individual.
+- `assets/products/sculpt-brow-{light,medium,dark}/01.png`: **packshot isolado por tom**, trazido do Drive (pasta `FOTO PRODUTO/SITE` do Sculpt Brow) — caneta aberta + tampa separada, fundo off-white, ponta chanfrada na cor certa do tom. **Esta é a reference obrigatória de still-lock por handle a partir de agora.**
+- No Drive existem ainda, não importados: detalhe de ponta chanfrada por tom (`SCULPT BROW {LIGHT,MEDIUM,DARK} CHANFRADO.png` — bom pra T2 macro) e swatch de aplicação em pele (`SCULPT BROW SWAT PRODUTO bege {light,medium,dark}.png` — bom pra conferência de shade-match). Trazer quando o track exigir.
+- Cast de modelo vinculado: ver `assets/cast/sculpt-brow-modelo-{light,medium,dark}/` (já com `magnific_character_id` preenchido).
 
 ## Notas pipeline V1/V2
 
-- Golden path ainda não definido — produto pré-lançamento, sem histórico de golden path.
-- Para T1 antes de ter packshot isolado: usar `packshot-composite` a partir do flat-lay de família com crop, nunca gerar packaging do zero por IA sem reference.
+- Golden path ainda não definido — produto pré-lançamento, sem histórico de golden path. Com packshot isolado + cast + character já linkados, T1 e T4 estão desbloqueados tecnicamente para o Sculpt Brow.
+- Para still de família/carrossel: pode seguir com `packshot-composite` a partir do flat-lay. Para still por tom (T1/T4): usar sempre o `01.png` isolado do handle correspondente como reference — nunca gerar packaging do zero por IA sem reference.
