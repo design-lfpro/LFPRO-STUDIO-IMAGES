@@ -27,10 +27,18 @@ O squad referencia paths relativos ao projeto vault:
 
 Na VPS, se o vault sincroniza em `/home/vault`, usar os mesmos paths absolutos no run.
 
-## Rodar
+## Rodar (vídeo — pipeline principal)
 
 ```text
 /opensquad run lfpro-studio
 ```
 
 Briefing mínimo: `handle` + `track` (T1 ou T2).
+
+## Rodar (texto para social — pipeline de copy)
+
+Mesmo squad, outro pipeline: `pipeline_social_copy` em `squad.yaml` (spec em `pipeline/pipeline-social-copy.yaml`). Entrada pela **Léa Orquestradora**.
+
+Briefing mínimo: `handle` (produto) + `formato` (reels | carrossel | post-unico | stories). `tema` é opcional — se vazio, `Vini Estrategista` sugere pauta.
+
+Detalhe do fluxo: `pipeline/README-social-copy.md`.

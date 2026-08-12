@@ -83,6 +83,42 @@ agents:
     icon: "✅"
     execution: "inline"
     path: "./agents/rita-revisao.agent.md"
+  - id: "vini-estrategista"
+    name: "Vini Estrategista"
+    title: "Pauta e calendário editorial de redes sociais"
+    icon: "🗓️"
+    execution: "inline"
+    path: "./agents/vini-estrategista.agent.md"
+  - id: "theo-ganchos"
+    name: "Theo Ganchos"
+    title: "Ganchos e headlines"
+    icon: "🪝"
+    execution: "inline"
+    path: "./agents/theo-ganchos.agent.md"
+  - id: "bia-legendas"
+    name: "Bia Legendas"
+    title: "Legendas de posts (feed, reels, carrossel)"
+    icon: "✍️"
+    execution: "inline"
+    path: "./agents/bia-legendas.agent.md"
+  - id: "duda-revisao"
+    name: "Duda Revisão"
+    title: "Revisão de texto + checagem de claims"
+    icon: "🔎"
+    execution: "inline"
+    path: "./agents/duda-revisao.agent.md"
+  - id: "caca-layout"
+    name: "Cacá Layout"
+    title: "Composição visual de posts (texto/imagem/CTA)"
+    icon: "🧩"
+    execution: "inline"
+    path: "./agents/caca-layout.agent.md"
+  - id: "lea-orquestradora"
+    name: "Léa Orquestradora"
+    title: "Orquestradora do fluxo de texto para social"
+    icon: "🗂️"
+    execution: "inline"
+    path: "./agents/lea-orquestradora.agent.md"
 
 skills:
   - web_search
@@ -90,6 +126,7 @@ skills:
 
 data:
   - ../../brand-dna/00-brand-dna.md
+  - ../../brand-dna/03-tom-de-voz-copy.md
   - ../../tracks/T1-product-hero/README.md
   - ../../tracks/T2-texture-macro/README.md
   - ../../assets/catalog/products-index.json
@@ -162,3 +199,40 @@ pipeline:
       name: "checkpoint-delivery"
       type: "checkpoint"
       file: "pipeline/steps/step-13-checkpoint-delivery.md"
+
+pipeline_social_copy:
+  file: "pipeline/pipeline-social-copy.yaml"
+  orchestrator: "lea-orquestradora"
+  max_review_cycles: 2
+  handoff_visual: "se a peça exigir imagem/vídeo gerado, o pacote final é repassado ao pipeline principal (leo-orquestrador / gael-magnific)"
+  steps:
+    - step: 1
+      name: "pauta"
+      type: "agent"
+      agent: "vini-estrategista"
+      optional: true
+      file: "pipeline/steps-social-copy/step-01-pauta.md"
+    - step: 2
+      name: "ganchos"
+      type: "agent"
+      agent: "theo-ganchos"
+      file: "pipeline/steps-social-copy/step-02-ganchos.md"
+    - step: 3
+      name: "legenda"
+      type: "agent"
+      agent: "bia-legendas"
+      file: "pipeline/steps-social-copy/step-03-legenda.md"
+    - step: 4
+      name: "revisao"
+      type: "agent"
+      agent: "duda-revisao"
+      file: "pipeline/steps-social-copy/step-04-revisao.md"
+    - step: 5
+      name: "layout"
+      type: "agent"
+      agent: "caca-layout"
+      file: "pipeline/steps-social-copy/step-05-layout.md"
+    - step: 6
+      name: "checkpoint-entrega"
+      type: "checkpoint"
+      file: "pipeline/steps-social-copy/step-06-checkpoint-entrega.md"
