@@ -22,6 +22,7 @@ Cada família tem `_family.md` (packaging compartilhado) + um `.md` por `handle`
 | paleta-sombras | 2 | `paleta-sombras/` |
 | lapis-olhos / labios | 6 | `lapis-*` |
 | skincare / outros | resto | ver `assets/catalog/families.json` |
+| essential-lips *(novo, pré-lançamento)* | 8 (trio V1: Rose/Carmim/Wine) | `essential-lips/` |
 
 ## Assets
 
