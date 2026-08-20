@@ -11,7 +11,7 @@ Cada família tem `_family.md` (packaging compartilhado) + um `.md` por `handle`
 | po-soft-eye | 3 | `po-soft-eye/` |
 | po-soft-finish | 5 | `po-soft-finish/` |
 | classic-lips | 6 | `classic-lips/` |
-| essential-lips | 8 (pré-lançamento 09/09, sem packshot) | `essential-lips/` |
+| essential-lips | 8 (pré-lançamento 09/09) | `essential-lips/` |
 | lip-combo | 6 | `lip-combo/` |
 | cream-color | 8 | `cream-color/` |
 | kit-cream-color | 6+ | `kit-cream-color/` |

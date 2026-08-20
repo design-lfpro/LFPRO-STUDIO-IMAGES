@@ -109,7 +109,7 @@ Observado nos assets:
 | Esponjas | Preta (nova identidade), expansão molhada em claims | Object hero fácil |
 | Máscara UP! | Tubo mascara preto (ver ficha) | Aplicador multifuncional |
 | Classic Lips | Batom stick (ver ficha) | Cor do bullet = herói |
-| Essential Lips | Batom líquido matte, frasco + doefoot (ver ficha) — **packshot oficial pendente, lançamento 09/09** | Guardrails de claims próprios (FPS/duração/transferência), ver `products/essential-lips/_family.md` |
+| Essential Lips | Batom líquido matte, frasco fosco translúcido + tampa preta rosqueada + doefoot (ver ficha) — lançamento 09/09 | Guardrails de claims próprios (FPS/duração/transferência), ver `products/essential-lips/_family.md` |
 | Cream Color | Duo compact preto/gold | Dois wells de creme |
 
 Detalhe por SKU: `products/**`.

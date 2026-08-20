@@ -1,6 +1,6 @@
 ---
-handle: essential-lips-clay
-title: Essential Lips Clay
+handle: essential-lips-mauve
+title: Essential Lips Mauve
 family: essential-lips
 product_type: Batom líquido matte
 sku: null
@@ -9,33 +9,33 @@ url: null
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
 status: dna-v1
-assets_local: assets/products/essential-lips-clay/
-shade: Clay
+assets_local: assets/products/essential-lips-mauve/
+shade: Mauve
 ---
 
-# Essential Lips Clay
+# Essential Lips Mauve
 
 ## Identidade do produto
 
-Batom líquido matte Essential Lips, tom **Clay** — vermelho-terracota escuro. Mesmo packaging da linha (ver [[_family|Essential Lips DNA]]); diferencial exclusivo = cor do líquido.
+Batom líquido matte Essential Lips, tom **Mauve** — ameixa/púrpura arroxeado. Mesmo packaging da linha (ver [[_family|Essential Lips DNA]]); diferencial exclusivo = cor do líquido.
 
 ## Packaging (lock visual)
 
 Ver `_family.md`. Lock:
 
-1. Frasco em vidro/acrílico fosco translúcido, colunar, ombros retos — líquido Clay visível por trás do fosco
+1. Frasco em vidro/acrílico fosco translúcido, colunar, ombros retos — líquido Mauve visível por trás do fosco
 2. Tampa preta cilíndrica com rosca/grip horizontal no topo
 3. Monograma **LF** dourado + wordmark **LF PRO** dourado no corpo do frasco (zona ~65,94×55mm), abaixo do colarinho de duas linhas
-4. Aplicador doefoot preto com ponta em veludo/esponja afunilada, cor Clay
+4. Aplicador doefoot preto com ponta em veludo/esponja afunilada, cor Mauve
 5. Sem texto do nome do tom impresso no frasco
 
-**Assets:** `assets/products/essential-lips-clay/01.jpeg` (still de estúdio — fundo cinza, ver aviso de fundo em `_family.md`).
+**Assets:** `assets/products/essential-lips-mauve/01.jpeg` (still de estúdio — fundo cinza, ver aviso de fundo em `_family.md`).
 
 ## Cor (leitura aproximada do still de estúdio)
 
 | Parte | Cor / hex aprox |
 |-------|-------------------|
-| Líquido / swatch Clay | vermelho-terracota escuro, aprox `#5B081F` |
+| Líquido / swatch Mauve | ameixa/púrpura arroxeado, aprox `#5F203B` |
 | Cap / frasco | packaging padrão da linha — preto + dourado, ver `_family.md` |
 
 **Método:** hex lido por amostragem de pixel da ponta do aplicador em `01.jpeg` (fundo cinza de estúdio, luz não calibrada) — é uma referência direcional, não um Pantone oficial. Validar contra swatch físico ou still com card de cor antes de travar produção final.
@@ -47,10 +47,10 @@ Herdados de `_family.md` (seção "Claims e guardrails de comunicação") — v�
 ## Anti-patterns
 
 - Ver `_family.md` (lista global)
-- próximo de Carmin em still não calibrado — validar diferença com still colorimetricamente calibrado
+- tom mais 'roxo' da linha; grafado como 'Malve' no infográfico de marketing — nome oficial do produto é MAUVE (ver _family.md)
 
 ## Notas para pipeline V1
 
-- Packshot âncora: `assets/products/essential-lips-clay/01.jpeg`
+- Packshot âncora: `assets/products/essential-lips-mauve/01.jpeg`
 - preferred_tracks: T1 + T2; style_override default dark-feed para vídeo social
 - Antes do still final: rodar Ana Produto sobre `01.jpeg` para lock list 1:1 e recompor fundo (still-fonte é cinza de estúdio, não é o fundo final)

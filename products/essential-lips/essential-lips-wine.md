@@ -8,7 +8,7 @@ price: "69.90"
 url: null
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
-status: pre-lancamento-sem-packshot
+status: dna-v1
 assets_local: assets/products/essential-lips-wine/
 shade: Wine
 ---
@@ -17,18 +17,28 @@ shade: Wine
 
 ## Identidade do produto
 
-Batom líquido matte Essential Lips, tom **Wine**. Mesmo packaging da linha (ver [[_family|Essential Lips DNA]]); diferencial exclusivo = cor do líquido.
+Batom líquido matte Essential Lips, tom **Wine** — vinho quase preto, o tom mais escuro e intenso da cartela. Mesmo packaging da linha (ver [[_family|Essential Lips DNA]]); diferencial exclusivo = cor do líquido.
 
-## ⚠️ Sem packshot oficial
+## Packaging (lock visual)
 
-Não há foto real deste SKU ainda em `assets/products/essential-lips-wine/`. Cor abaixo é **estimativa visual a partir do infográfico de lançamento**, não é leitura de packshot — precisa ser confirmada (ou corrigida) por Ana Produto assim que a foto oficial chegar. Não gerar still de entrega em identity lock até lá.
+Ver `_family.md`. Lock:
 
-## Cor (provisória)
+1. Frasco em vidro/acrílico fosco translúcido, colunar, ombros retos — líquido Wine visível por trás do fosco
+2. Tampa preta cilíndrica com rosca/grip horizontal no topo
+3. Monograma **LF** dourado + wordmark **LF PRO** dourado no corpo do frasco (zona ~65,94×55mm), abaixo do colarinho de duas linhas
+4. Aplicador doefoot preto com ponta em veludo/esponja afunilada, cor Wine
+5. Sem texto do nome do tom impresso no frasco
 
-| Parte | Cor / hex aprox (provisório) |
-|-------|-------------------------------|
-| Líquido/swatch Wine | vinho profundo, o tom mais escuro da cartela — não confundir com Carmin (Carmin é vermelho puro, mais claro), aprox `#6B1F2E` |
-| Cap / frasco | packaging padrão da linha — ver `_family.md` |
+**Assets:** `assets/products/essential-lips-wine/01.jpeg` (still de estúdio — fundo cinza, ver aviso de fundo em `_family.md`).
+
+## Cor (leitura aproximada do still de estúdio)
+
+| Parte | Cor / hex aprox |
+|-------|-------------------|
+| Líquido / swatch Wine | vinho quase preto, o tom mais escuro e intenso da cartela, aprox `#1B0410` |
+| Cap / frasco | packaging padrão da linha — preto + dourado, ver `_family.md` |
+
+**Método:** hex lido por amostragem de pixel da ponta do aplicador em `01.jpeg` (fundo cinza de estúdio, luz não calibrada) — é uma referência direcional, não um Pantone oficial. Validar contra swatch físico ou still com card de cor antes de travar produção final.
 
 ## Claims oficiais
 
@@ -37,9 +47,10 @@ Herdados de `_family.md` (seção "Claims e guardrails de comunicação") — v�
 ## Anti-patterns
 
 - Ver `_family.md` (lista global)
-- vinho profundo, o tom mais escuro da cartela — não confundir com Carmin (Carmin é vermelho puro, mais claro)
+- não confundir com Classic Lips Wine (produto diferente, mesma família de nome de cor)
 
 ## Notas para pipeline V1
 
-- Aguardando `assets/products/essential-lips-wine/01.*` para lock de identidade
-- Depois do packshot: rodar Ana Produto e atualizar cor/hex/lock list nesta ficha
+- Packshot âncora: `assets/products/essential-lips-wine/01.jpeg`
+- preferred_tracks: T1 + T2; style_override default dark-feed para vídeo social
+- Antes do still final: rodar Ana Produto sobre `01.jpeg` para lock list 1:1 e recompor fundo (still-fonte é cinza de estúdio, não é o fundo final)
