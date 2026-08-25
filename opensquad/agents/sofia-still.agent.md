@@ -29,3 +29,12 @@ Por frame:
 - End frame deve ser QC-safe (Rita Still Verifier)
 - Preferir composite se logo for crítico
 - Nano Banana: sempre ref packshot — zero text-only packaging
+
+## Modo lineup multi-produto (N SKUs na mesma cena)
+
+Fora do par start/end de 1 SKU — hero/flat-lay social com vários produtos juntos. Ver `brand-dna/04-multi-product-lineup.md` (regras nascidas de erros reais de fidelidade nesse modo).
+
+- **Cap:** default ≤5 produtos por chamada de generate; 7+ tem risco alto observado de deformação simultânea. Acima de 6, dividir em 2 composições.
+- **Reference por item:** packshot completo sempre + close-up crop dedicado pra qualquer detalhe pequeno crítico (ponta de lápis, gravação, logo em objeto pequeno).
+- **Escala:** instrução sempre auto-referencial ("reduza X%, mesma forma"); nunca comparar tamanho entre itens de categoria/forma diferente (ex: pincel vs tubo) — já causou redesenho do objeto. Comparar só itens da mesma forma (tubo vs tubo).
+- **Correção pós-aprovação:** não propor full-regenerate pra corrigir 1–2 itens de uma cena já aprovada — isso já regrediu itens certos. Sinalizar pro Gael usar `images_retouch` mascarado.

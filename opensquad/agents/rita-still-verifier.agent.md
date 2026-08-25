@@ -42,3 +42,15 @@ Após generate stills (Nano Banana ou composite). **Antes** de Miguel/Gael chama
 - Qualquer FAIL em 1–3 ou 7 → **não** chama Seedance
 - max 2 re-rolls por frame
 - Se 2 fails → `FALLBACK_COMPOSITE` (packshot real no dark) e re-verifica
+
+## Modo lineup multi-produto (N SKUs na mesma cena)
+
+Ver `brand-dna/04-multi-product-lineup.md`. Checklist muda de por-frame pra **por-produto** — sem isso, 1 produto quebrado passa despercebido no meio de outros 9 aprovados.
+
+| Produto | Forma/logo (1–3) | Escala | Obs |
+|---|---|---|---|
+| ... um linha por SKU na cena ... | PASS/FAIL | PASS/FAIL | |
+
+- Qualquer FAIL de forma/logo num produto → esse produto específico precisa de re-roll ou retouch mascarado; não invalida os outros já PASS.
+- Mesmo limite: **max 2 re-rolls por produto**. Na 3ª falha, `FALLBACK_COMPOSITE` só daquele item (retouch mascarado ou overlay do packshot real) — não regenerar a cena inteira de novo.
+- Regra crítica: depois que uma rodada aprova um subconjunto de produtos, uma nova chamada de `images_generate` **não preserva** esses aprovados — é geração nova do zero. Registrar explicitamente quais produtos já passaram antes de decidir o próximo passo, pra não achar que "só falta corrigir X" quando na verdade tudo está em risco de novo.
