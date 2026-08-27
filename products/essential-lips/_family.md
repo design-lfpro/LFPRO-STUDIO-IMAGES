@@ -37,6 +37,18 @@ Fonte: fotos reais `assets/products/essential-lips-{tom}/01.jpeg` + desenho de a
 
 **Não confirmado ainda:** acabamento exato do vidro (fosco por jateamento vs. fosco de fábrica), se há brilho/verniz na tampa (parece semi-glossy nas fotos) — validar com Ana Produto still a still.
 
+### Regra — produto aberto sempre com aplicador
+
+Quando o still/vídeo mostra o frasco **aberto** (sem tampa), o **aplicador doefoot precisa aparecer junto** — nunca gerar um frasco aberto sem o aplicador visível (fica com aparência de peça quebrada/incompleta). Se o aplicador não for o foco da cena, a alternativa é deixar o frasco **fechado, com a tampa**. Nunca as duas coisas ao mesmo tempo erradas: frasco aberto + aplicador ausente.
+
+### Regra — escala real do frasco
+
+Frasco é **pequeno e fino**: altura total (com tampa) ~9–10 cm, diâmetro da tampa ~1,7 cm (mais estreita que um polegar). Em qualquer still com mão/modelo segurando o produto, o frasco deve caber entre 2–3 dedos com sobreposição visível — nunca desenhar maior que isso. Referência real: `assets/products/essential-lips-wine/tamanho-real-1.jpeg` e `tamanho-real-2.jpeg` (fotos do frasco fechado numa mão real).
+
+### Regra — fundo padrão da campanha
+
+**Fundo preto sólido (`#0A0A0A`) é o padrão de toda a campanha Essential Lips** (hero de produto, still com modelo, swatch/textura, stories) — só usar outro fundo/cor se for explicitamente pedido para aquela peça específica.
+
 ## Ficha técnica (fonte: infográfico de lançamento)
 
 | Campo | Valor |
@@ -193,3 +205,6 @@ Sensação-alvo: *"Você olha e vê um matte bonito. Você aplica e percebe o co
 - Logo LF PRO alterado ou genérico; monograma fora da zona de impressão (~65,94×55mm no corpo do frasco, nunca na tampa)
 - Usar "Malve" em vez de "Mauve" sem sinalizar a inconsistência (ver seção acima)
 - Fundo cinza de estúdio das fotos-fonte como fundo final de still de entrega (usar dark-feed ou ecommerce off-white conforme brand-dna)
+- Frasco aberto sem o aplicador aparecer junto (ver regra acima — ou aplicador junto, ou frasco fechado com tampa)
+- Frasco desproporcionalmente grande em still com mão/modelo (ver regra de escala real acima)
+- Fundo diferente de preto sólido sem pedido explícito pra aquela peça
