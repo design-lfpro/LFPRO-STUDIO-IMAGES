@@ -37,9 +37,14 @@ Fonte: fotos reais `assets/products/essential-lips-{tom}/01.jpeg` + desenho de a
 
 **Não confirmado ainda:** acabamento exato do vidro (fosco por jateamento vs. fosco de fábrica), se há brilho/verniz na tampa (parece semi-glossy nas fotos) — validar com Ana Produto still a still.
 
-### Regra — produto aberto sempre com aplicador
+### Regra — produto aberto sempre com aplicador (SEM EXCEÇÃO, inclusive na mão de modelo)
 
-Quando o still/vídeo mostra o frasco **aberto** (sem tampa), o **aplicador doefoot precisa aparecer junto** — nunca gerar um frasco aberto sem o aplicador visível (fica com aparência de peça quebrada/incompleta). Se o aplicador não for o foco da cena, a alternativa é deixar o frasco **fechado, com a tampa**. Nunca as duas coisas ao mesmo tempo erradas: frasco aberto + aplicador ausente.
+Em **qualquer** still/vídeo — produto sozinho, still de still-life, still com mão, still com modelo segurando o produto, still de campanha, still de combo — o frasco só pode aparecer de dois jeitos:
+
+1. **Fechado**, com a tampa colocada; ou
+2. **Aberto**, com o **aplicador doefoot visível junto** (na mão, encostado, ou saindo da tampa ao lado).
+
+**Nunca** gerar (ou aceitar) um frasco aberto sem o aplicador aparecer — mesmo que o still seja de uma modelo segurando o produto e o foco seja o rosto dela. Essa regra é um **checklist obrigatório de todo prompt de still de produto/modelo+produto** desta linha, não só de still-life. Declarar explicitamente no prompt qual dos dois estados (fechado OU aberto+aplicador) antes de gerar — nunca deixar implícito.
 
 ### Regra — escala real do frasco
 
