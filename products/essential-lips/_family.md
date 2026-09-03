@@ -62,9 +62,18 @@ Logo distorcido é o erro mais recorrente e mais caro (retrabalho + créditos). 
 
 Incluir esse parágrafo (ou equivalente) em **todo** prompt que tenha o frasco visível de forma legível — não só copiar "gold LF monogram" solto.
 
-**Risco maior em macro/close-up**: quando o logo ocupa boa parte do frame (still de still-life próximo, still boca+produto, still só do gargalo/tampa), a chance de distorção sobe muito — é o cenário de maior risco. Nesses casos:
-- Reforçar a descrição da geometria (acima) com ainda mais ênfase.
-- Como não há como o agente conferir visualmente o resultado antes de entregar (a URL da imagem gerada não é acessível para inspeção), **gerar 1 variação por vez** nesse tipo de still em vez de rodar várias composições diferentes em paralelo — evita gastar crédito em lote quando uma travou o logo. Só passar para o próximo still depois que o time confirmar que o still macro atual ficou fiel.
+**Risco real não é "macro" — é complexidade de cena.** Levantamento de 28/08-03/09: stills de produto puro (2-3 frascos, sem modelo, framing próximo do packshot original) saíram fiéis quase sempre. O que falhou consistentemente:
+- **4+ frascos na mesma geração** (cascata de 8, flat lay de 4) — cada frasco extra dilui a "atenção" do modelo pros detalhes do logo de cada um.
+- **Modelo (rosto/mão fotorreal) + produto no mesmo frame** — a IA prioriza anatomia/pele coerente sobre fidelidade de um elemento pequeno e secundário (o logo), mesmo em enquadramento não-macro.
+
+Nano Banana **não copia pixel do packshot real** — ele reinterpreta a cena inteira a cada geração; quanto mais elementos concorrendo (mais frascos, ou frasco+rosto+mão), maior o erro acumulado no logo. Reforçar a descrição da geometria (acima) ajuda mas **não elimina** o risco nesses cenários.
+
+Diante disso:
+- **Produto puro, hero de packaging**: manter simples — 1-3 frascos por still, sem modelo. É a composição com maior taxa de acerto; preferir sempre que o pedido permitir.
+- **Still com modelo + produto**: aceitar de partida que a taxa de acerto de primeira é baixa — orçar mentalmente 2-3 gerações, não 1. Perguntar ao time antes de rodar 3 variações diferentes de uma vez (evita gasto em lote quando uma trava o logo) — **gerar 1 de cada vez** e só seguir pra próxima depois de confirmação.
+- **Still com 4+ frascos**: quando o pedido não exige literalmente todos juntos numa imagem só, sugerir dividir em 2 gerações menores (ex.: 2×4 em vez de 8×1) antes de tentar o still cheio.
+
+**Gate de verificação — limitação atual:** o pipeline (`tracks/T1/README.md`) prevê uma etapa de still verifier (Rita/Ana Produto) antes de aprovar um still. Hoje essa etapa **não roda de fato** porque o agente não consegue abrir a URL da imagem gerada no Magnific para inspecionar visualmente antes de entregar — o gate real é o olho do time depois que a imagem já saiu. Ciente disso, ao aprovar um still de produto crítico (hero de packaging, still de logo em destaque), o time deve conferir com **zoom específico no logo** antes de aprovar o resto da composição — isola mais rápido se só o logo falhou, sem precisar redescrever o problema do zero.
 
 ### Regra — orientação do aplicador em still boca/rosto
 
