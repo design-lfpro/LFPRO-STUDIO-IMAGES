@@ -1,0 +1,14 @@
+model_id: lfpro-cast-01
+display_name: "Modelo — Trend Bullet Time Café (Essential Lips)"
+apparent_age_range: [null, null]  # a confirmar com o time
+fitzpatrick_approx: []            # a confirmar com o time
+hair: "loira, presa em coque baixo"
+notes: "still de referência: caminhada urbana, blazer preto oversized, óculos escuros, batom vermelho"
+allowed_tracks: [T4-model-portrait]  # uso ad-hoc no trend Bullet Time Café, fora do pipeline V1 formal
+forbidden: [T5-face-proof]
+products_featured: [essential-lips]
+consent:
+  status: confirmed-in-chat
+  confirmed_by: "usuário (mydesign@lfpro.com.br), 2026-09-03"
+  contrato_formal: "a anexar — apenas confirmação verbal registrada até aqui"
+source: "enviado via Google Drive pelo Jonathan/time LF PRO"
