@@ -54,6 +54,22 @@ Frasco é **pequeno e fino**: altura total (com tampa) ~9–10 cm, diâmetro da 
 
 **Fundo preto sólido (`#0A0A0A`) é o padrão de toda a campanha Essential Lips** (hero de produto, still com modelo, swatch/textura, stories) — só usar outro fundo/cor se for explicitamente pedido para aquela peça específica.
 
+### Regra — fidelidade do logo (descrever a geometria, não só "logo dourado")
+
+Logo distorcido é o erro mais recorrente e mais caro (retrabalho + créditos). "Gold LF monogram" sozinho no prompt não é suficiente — a IA precisa da geometria descrita:
+
+> "the LF monogram is two interlocked geometric letterforms — 'L' and 'F' — in gold foil, crisp clean edges, NOT an abstract shape, NOT a generic swirl; below it in smaller gold caps the wordmark 'LF PRO'. Keep both letterforms sharp and legible, exact proportions from the reference photo, no melting, no extra strokes, no blur."
+
+Incluir esse parágrafo (ou equivalente) em **todo** prompt que tenha o frasco visível de forma legível — não só copiar "gold LF monogram" solto.
+
+**Risco maior em macro/close-up**: quando o logo ocupa boa parte do frame (still de still-life próximo, still boca+produto, still só do gargalo/tampa), a chance de distorção sobe muito — é o cenário de maior risco. Nesses casos:
+- Reforçar a descrição da geometria (acima) com ainda mais ênfase.
+- Como não há como o agente conferir visualmente o resultado antes de entregar (a URL da imagem gerada não é acessível para inspeção), **gerar 1 variação por vez** nesse tipo de still em vez de rodar várias composições diferentes em paralelo — evita gastar crédito em lote quando uma travou o logo. Só passar para o próximo still depois que o time confirmar que o still macro atual ficou fiel.
+
+### Regra — orientação do aplicador em still boca/rosto
+
+Quando o aplicador (doefoot) aparece perto da boca da modelo (still de still com produto aberto encostando/aplicando), **a ponta que acumula produto (a esponja/veludo) deve estar virada para o lado da boca/ponto de contato** — nunca de costas ou apontando para longe do rosto. Declarar essa orientação explicitamente no prompt sempre que o still envolver boca + aplicador.
+
 ## Ficha técnica (fonte: infográfico de lançamento)
 
 | Campo | Valor |
