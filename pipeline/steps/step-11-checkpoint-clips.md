@@ -1,5 +1,5 @@
-# Step 11 — montagem
+# Step 11 — checkpoint-clips
 
-Fernanda FFmpeg master
+Aprovar clipes
 
 Ver squad.yaml e pipeline/README do projeto pai.

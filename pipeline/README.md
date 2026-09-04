@@ -36,13 +36,14 @@ packshot real
 [5] checkpoint-shotlist
 [6] still-engineer        → prompts still Nano Banana / composite plan
 [7] generate-stills       → Magnific Nano Banana (ou packshot real composite)
-[8] checkpoint-stills
-[9] motion-engineer       → prompts Seedance i2v por cena
-[10] generate-clips       → Magnific Seedance (simulate → approve → generate)
-[11] checkpoint-clips
-[12] ffmpeg-editor        → concat, grade leve, end card, loudnorm, 9:16
-[13] reviewer             → QC checklist track + brand
-[14] checkpoint-delivery
+[8] still-verify          → Rita (visão) — APPROVE_VIDEO | REROLL_* | FALLBACK_COMPOSITE
+[9] checkpoint-stills     → só aprova com still-verify.md = APPROVE_VIDEO
+[10] motion-engineer      → prompts Kling/Seedance i2v por cena
+[11] generate-clips       → Magnific (simulate → approve → generate)
+[12] checkpoint-clips
+[13] ffmpeg-editor        → concat, grade leve, end card, loudnorm, 9:16
+[14] reviewer             → QC checklist track + brand
+[15] checkpoint-delivery
 ```
 
 ## Princípios (herdados OpenSquad vox/edit-videos)
@@ -69,15 +70,15 @@ output/{timestamp}/
   state.json
 ```
 
-## Scripts (a implementar)
+## Scripts
 
-| Script | Função |
-|--------|--------|
-| `scripts/resolve_packshot.py` | handle → path 01.* |
-| `scripts/composite_dark_hero.py` | packshot + fundo dark + sombra |
-| `scripts/magnific_still.py` | generate image + download |
-| `scripts/magnific_i2v.py` | simulate + generate + poll |
-| `scripts/ffmpeg_assemble.sh` | concat + loudnorm + endcard |
+| Script | Função | Status |
+|--------|--------|--------|
+| `scripts/resolve_packshot.py` | handle → path 01.* | ✅ implementado |
+| `scripts/composite_dark_hero.py` | packshot real + fundo dark-studio + sombra, zero IA (fallback `FALLBACK_COMPOSITE` da Rita / strategy `packshot-composite` da Sofia) | ✅ implementado (requer Pillow + numpy) |
+| `scripts/magnific_still.py` | generate image + download | a implementar |
+| `scripts/magnific_i2v.py` | simulate + generate + poll | a implementar |
+| `scripts/ffmpeg_assemble.sh` | concat + loudnorm + endcard | a implementar |
 
 ## Referência de API Magnific
 

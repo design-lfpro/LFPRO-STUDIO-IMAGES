@@ -15,14 +15,15 @@ Executa geração na Magnific com modelos **LOCKED**.
 
 Doc: `brand-dna/01-modelos-magnific.md`  
 Créditos: `00-inbox/magnific-plano-premium-mais-mapa.md`  
-API: `00-inbox/magnific-kling-video-api.md` (auth/endpoints; motor de vídeo = Seedance)
+API: `00-inbox/magnific-kling-video-api.md` (auth/endpoints; motor de vídeo = Kling 3.0/Seedance 2.0 flexível)
 
 ## Protocolo stills
 1. Receber prompts da Sofia + path do packshot reference
-2. Se strategy = `packshot-composite` → não chama Nano Banana; usa arquivo composite
+2. Se strategy = `packshot-composite` → não chama Nano Banana; rodar `python3 pipeline/scripts/composite_dark_hero.py {handle}` (zero IA, packaging 1:1 do packshot real)
 3. Se strategy = `nano-banana-i2i` → generate com **ref image = packshot**
-4. Download em `output/.../stills/`
-5. Nunca text-to-image sem reference de packaging
+4. Se strategy = `hybrid` → gerar com Nano Banana e, se Rita reprovar 2x, cair pro composite (item 2)
+5. Download em `output/.../stills/`
+6. Nunca text-to-image sem reference de packaging
 
 ## Protocolo vídeo
 1. Exigir `still-verify.md` com `decision: APPROVE_VIDEO`

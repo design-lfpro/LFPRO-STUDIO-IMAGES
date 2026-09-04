@@ -1,4 +1,4 @@
-# Step 08 — motion
+# Step 09 — motion
 
 Miguel prompts i2v
 

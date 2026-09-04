@@ -7,10 +7,11 @@ steps:
   - { id: 4, name: checkpoint-shotlist, type: checkpoint }
   - { id: 5, name: stills, type: agent, agent: sofia-still }
   - { id: 6, name: generate-stills, type: agent, agent: gael-magnific }
-  - { id: 7, name: checkpoint-stills, type: checkpoint }
-  - { id: 8, name: motion, type: agent, agent: miguel-motion }
-  - { id: 9, name: generate-clips, type: agent, agent: gael-magnific }
-  - { id: 10, name: checkpoint-clips, type: checkpoint }
-  - { id: 11, name: montagem, type: agent, agent: fernanda-ffmpeg }
-  - { id: 12, name: review, type: agent, agent: rita-revisao }
-  - { id: 13, name: checkpoint-delivery, type: checkpoint }
+  - { id: 7, name: still-verify, type: agent, agent: rita-still-verifier }
+  - { id: 8, name: checkpoint-stills, type: checkpoint }
+  - { id: 9, name: motion, type: agent, agent: miguel-motion }
+  - { id: 10, name: generate-clips, type: agent, agent: gael-magnific }
+  - { id: 11, name: checkpoint-clips, type: checkpoint }
+  - { id: 12, name: montagem, type: agent, agent: fernanda-ffmpeg }
+  - { id: 13, name: review, type: agent, agent: rita-revisao }
+  - { id: 14, name: checkpoint-delivery, type: checkpoint }

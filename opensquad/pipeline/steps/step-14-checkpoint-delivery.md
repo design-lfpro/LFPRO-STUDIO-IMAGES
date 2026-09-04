@@ -1,4 +1,4 @@
-# Step 13 — checkpoint-delivery
+# Step 14 — checkpoint-delivery
 
 Entrega ou loop de re-roll
 

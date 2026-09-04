@@ -39,6 +39,6 @@ Após generate stills (Nano Banana ou composite). **Antes** de Miguel/Gael chama
 ```
 
 ## Regras
-- Qualquer FAIL em 1–3 ou 7 → **não** chama Seedance
+- Qualquer FAIL em 1–3 ou 7 → **não** chama o vídeo (Kling 3.0 / Seedance 2.0)
 - max 2 re-rolls por frame
-- Se 2 fails → `FALLBACK_COMPOSITE` (packshot real no dark) e re-verifica
+- Se 2 fails → `FALLBACK_COMPOSITE`: Gael roda `python3 pipeline/scripts/composite_dark_hero.py {handle}` (packshot real sobre dark, zero IA — logo/pote/cor idênticos por definição) e Rita re-verifica o resultado

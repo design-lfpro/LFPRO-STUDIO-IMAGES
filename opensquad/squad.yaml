@@ -131,34 +131,39 @@ pipeline:
       agent: "gael-magnific"
       file: "pipeline/steps/step-06-generate-stills.md"
     - step: 7
+      name: "still-verify"
+      type: "agent"
+      agent: "rita-still-verifier"
+      file: "pipeline/steps/step-07-still-verify.md"
+    - step: 8
       name: "checkpoint-stills"
       type: "checkpoint"
-      file: "pipeline/steps/step-07-checkpoint-stills.md"
-    - step: 8
+      file: "pipeline/steps/step-08-checkpoint-stills.md"
+    - step: 9
       name: "motion"
       type: "agent"
       agent: "miguel-motion"
-      file: "pipeline/steps/step-08-motion.md"
-    - step: 9
+      file: "pipeline/steps/step-09-motion.md"
+    - step: 10
       name: "generate-clips"
       type: "agent"
       agent: "gael-magnific"
-      file: "pipeline/steps/step-09-generate-clips.md"
-    - step: 10
+      file: "pipeline/steps/step-10-generate-clips.md"
+    - step: 11
       name: "checkpoint-clips"
       type: "checkpoint"
-      file: "pipeline/steps/step-10-checkpoint-clips.md"
-    - step: 11
+      file: "pipeline/steps/step-11-checkpoint-clips.md"
+    - step: 12
       name: "montagem"
       type: "agent"
       agent: "fernanda-ffmpeg"
-      file: "pipeline/steps/step-11-montagem.md"
-    - step: 12
+      file: "pipeline/steps/step-12-montagem.md"
+    - step: 13
       name: "review"
       type: "agent"
       agent: "rita-revisao"
-      file: "pipeline/steps/step-12-review.md"
-    - step: 13
+      file: "pipeline/steps/step-13-review.md"
+    - step: 14
       name: "checkpoint-delivery"
       type: "checkpoint"
-      file: "pipeline/steps/step-13-checkpoint-delivery.md"
+      file: "pipeline/steps/step-14-checkpoint-delivery.md"

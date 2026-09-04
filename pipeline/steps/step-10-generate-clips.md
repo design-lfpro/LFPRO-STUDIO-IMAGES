@@ -1,4 +1,4 @@
-# Step 09 — generate-clips
+# Step 10 — generate-clips
 
 Gael simulate+generate i2v
 

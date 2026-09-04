@@ -41,7 +41,7 @@ Plataforma: **Magnific only** (não kie.ai neste projeto).
 | Proibido | Text-to-image **sem** reference do packaging (redezenha logo) |
 
 ### Quando NÃO usar Nano Banana
-- Se o still for **composite determinístico** do packshot real no fundo dark (zero risco de logo) — aí skip generate de imagem e usa o composite como frame
+- Se o still for **composite determinístico** do packshot real no fundo dark (zero risco de logo) — aí skip generate de imagem e usa `pipeline/scripts/composite_dark_hero.py {handle}` como frame
 - Estratégia da Sofia: `packshot-composite` | `nano-banana-i2i` | `hybrid`
 
 ---
