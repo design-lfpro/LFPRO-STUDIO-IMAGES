@@ -58,8 +58,8 @@ Referência mental: e-commerce premium / beauty commercial / turntable tabletop.
 | Etapa | Modelo |
 |-------|--------|
 | Stills start/end | Nano Banana Pro `imagen-nano-banana-2` @ 2k + ref packshot |
-| i2v default | **Kling 3.0** `kling-30` 720p first+last |
-| Premium | Seedance 2.0 / Veo 3.1 |
+| i2v default (flexível) | **Kling 3.0** `kling-30` **ou** **Seedance 2.0** `bytedance-seedance-pro-2.0` — 720p first+last, escolher por custo/fila no `simulate` |
+| Premium | Veo 3.1, só se briefing pedir |
 | Gate | Rita Still Verifier **antes** do vídeo |
 
 ## Prompt skeleton — STILL START (EN)
@@ -83,7 +83,7 @@ still fully on the table surface with contact shadow, logo still sharp if visibl
 photoreal commercial product photography, 9:16, no floating, no extreme logo-only close-up
 ```
 
-## Prompt skeleton — VIDEO / Kling (EN)
+## Prompt skeleton — VIDEO / Kling 3.0 ou Seedance 2.0 (EN)
 
 ```
 Photoreal product commercial. Animate ONLY as a smooth slow turntable rotation

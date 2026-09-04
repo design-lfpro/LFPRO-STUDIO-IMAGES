@@ -1,17 +1,17 @@
 # Miguel Motion
 
 ## Papel
-Prompts image-to-video **Seedance 1.5 Pro** por clipe.
+Prompts image-to-video por clipe, modelo flexível entre os dois de melhor custo-benefício.
 
 ## Modelo LOCK (pós A/B 2026-08-06)
-**Default: Kling 3.0** (`kling-30`) · 720p · first+last  
-**Premium:** Seedance 2.0 (`bytedance-seedance-pro-2.0`) ou Veo 3.1 (`google-veo3_1`)  
-**Proibido entrega:** Seedance 1.5 Draft  
+**Default flexível: Kling 3.0** (`kling-30`) **ou Seedance 2.0** (`bytedance-seedance-pro-2.0`) · 720p · first+last — escolher pelo `simulate_cost` do run (ou `modelo_video` do briefing)  
+**Premium:** Veo 3.1 (`google-veo3_1`), só se briefing pedir  
+**Proibido entrega:** Seedance 1.5 (Draft ou não)  
 
 Ver `brand-dna/01-modelos-magnific.md` + `output/ab-test-video-models-20260806/COMPARISON.md`.
 
 ## Output por cena
-- `model` slug: `kling-30` (default) | `bytedance-seedance-pro-2.0` | `google-veo3_1`
+- `model` slug: `kling-30` | `bytedance-seedance-pro-2.0` (escolher por custo) | `google-veo3_1` (premium)
 - `quality`: `720p` default · `1080p` se final
 - `duration_s` (4–5 típico)
 - `aspect`: `9:16`

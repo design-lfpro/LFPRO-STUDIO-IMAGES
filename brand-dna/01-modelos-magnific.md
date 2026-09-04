@@ -1,20 +1,20 @@
 ---
-tags: [lfpro-studio, magnific, seedance, nano-banana]
+tags: [lfpro-studio, magnific, seedance, kling, nano-banana]
 status: locked-v1
-updated: 2026-08-06
+updated: 2026-09-04
 decided_by: Jonathan
 ---
 
 # Modelos Magnific — LOCK V1
 
-Stack **fixada** do LFPro Studio. Agents **não** escolhem modelo livremente no V1.
+Stack **fixada** do LFPro Studio pra stills. Pra vídeo, o V1 trava a **dupla** de melhor custo-benefício e deixa a escolha entre elas livre por run — agents não "testam modelo novo por conta própria", mas também não ficam presos a um único motor de vídeo.
 
 | Etapa | Modelo | Slug Magnific (referência) | Papel |
 |-------|--------|----------------------------|-------|
 | **Frames / stills** | **Google Nano Banana Pro** | `imagen-nano-banana-2` @ 2k · fallback `imagen-nano-banana-2-flash` | Keyframes start/end |
-| **Vídeo (i2v) DEFAULT** | **Kling 3.0** | `kling-30` · 720p · first+last | Product motion (melhor custo/qualidade no A/B 2026-08-06) |
-| **Vídeo premium** | **Seedance 2.0** ou **Veo 3.1** | `bytedance-seedance-pro-2.0` · `google-veo3_1` | Flagship; mais créditos |
-| **NÃO usar** | Seedance 1.5 **Draft** | `bytedance-seedance-pro-1.5` + Draft | Qualidade baixa (teste falhou) |
+| **Vídeo (i2v) DEFAULT — flexível** | **Kling 3.0** *ou* **Seedance 2.0** | `kling-30` · `bytedance-seedance-pro-2.0` | 720p · first+last · escolher por custo/fila no `simulate` |
+| **Vídeo premium** | **Veo 3.1** | `google-veo3_1` | Flagship; só se briefing pedir explicitamente (mais créditos) |
+| **NÃO usar** | Seedance 1.5 (com ou sem **Draft**) | `bytedance-seedance-pro-1.5` | Qualidade baixa (reprovado em A/B 2026-08-06) |
 
 A/B: `output/ab-test-video-models-20260806/COMPARISON.md`
 
@@ -46,27 +46,27 @@ Plataforma: **Magnific only** (não kie.ai neste projeto).
 
 ---
 
-## 2. Seedance 1.5 Pro — vídeo
+## 2. Kling 3.0 / Seedance 2.0 — vídeo (flexível)
 
 ### Por que
-- Um dos melhores da Magnific pra motion controlado de produto
-- OpenSquad já tem gramática madura de Seedance (empty frame / first-last no vox; aqui adaptar a **product lock**)
-- Draft tier na Magnific pode ser **ilimitado** (com ou sem áudio) — bom pra teste
-- 720p/1080p cobram créditos — usar no master final
+- Os dois com melhor custo/qualidade no A/B 2026-08-06 pra motion controlado de produto
+- Escolha entre os dois é por **custo/fila no momento do run** (rodar `simulate` nos dois se houver dúvida) — não é "testar modelo novo", é usar a dupla já validada
+- OpenSquad já tem gramática madura de i2v (empty frame / first-last no vox; aqui adaptada a **product lock**)
+- 720p/1080p cobram créditos — usar 720p em teste, 1080p só no master final se pedido
 
 ### Defaults V1
 
 | Param | Valor |
 |-------|--------|
-| Modelo | **Seedance 1.5 Pro** (`bytedance-seedance-pro-1.5`) |
-| Modo teste / draft | resolution **`Draft`** |
+| Modelo | **`kling-30`** ou **`bytedance-seedance-pro-2.0`** (escolher por custo/fila) |
+| Modo teste | **`720p`** (draft quando o modelo escolhido oferecer) |
 | Modo entrega | **`720p`** default; **`1080p`** se briefing `final` |
 | Duração por clipe | **4–5s** |
 | Aspect | **9:16** |
-| Áudio nativo Seedance | **off** no V1 |
+| Áudio nativo | **off** no V1 |
 | Input | **OBRIGATÓRIO first + last frame** (nunca só start) |
 | Motion | pó / luz / parallax mínimo; **sem** extreme close no logo |
-| Simulate / créditos | reportar custo; sessão MCP pode consumir créditos mesmo Premium+ |
+| Simulate / créditos | reportar custo dos dois candidatos antes de gerar; sessão MCP pode consumir créditos mesmo Premium+ |
 
 ### First + last frame (OBRIGATÓRIO no V1)
 
@@ -92,7 +92,7 @@ Camera motion minimal; never extreme close-up on lid logo.
 Optional soft powder dust only if consistent with frames.
 ```
 
-### Gate de verificação (ANTES do Seedance)
+### Gate de verificação (ANTES do vídeo)
 
 Agente **Rita / still-verifier** avalia cada still com visão:
 
@@ -104,19 +104,20 @@ Agente **Rita / still-verifier** avalia cada still com visão:
 6. Sem texto hallucinado no packaging  
 7. End frame **não** é extreme close de logo  
 
-**PASS** → Seedance. **FAIL** → re-roll still (máx 2) ou composite packshot real. **Nunca** gerar vídeo com still FAIL.
+**PASS** → segue pro i2v (Kling 3.0 ou Seedance 2.0). **FAIL** → re-roll still (máx 2) ou composite packshot real. **Nunca** gerar vídeo com still FAIL.
 ---
 
 ## 3. O que fica de fora no V1 (não misturar)
 
 | Modelo | Status |
 |--------|--------|
-| Kling 2.5 / 3.0 | Backup só se Seedance falhar 2× no mesmo clipe |
+| Seedance 1.5 (Draft ou não) | Proibido — reprovado no A/B |
+| Kling 2.5 | Não default (usar Kling 3.0) |
 | Hailuo / Wan | Não default |
 | Flux / Seedream / GPT-Image | Não default de still (Nano Banana locked) |
-| Veo | Não V1 product |
+| Veo 3.1 | Não é default de vídeo — só premium sob pedido explícito do briefing |
 
-Se backup Kling for necessário: anotar no `review.md` e no `magnific-requests.json`.
+Se Veo 3.1 for usado: anotar no `review.md` e no `magnific-requests.json`.
 
 ---
 
@@ -134,7 +135,7 @@ packshot real (site)
   checkpoint stills (humano)
         │
         ▼
-  Seedance 1.5 Pro i2v (Draft teste → 720p/1080p final)
+  Kling 3.0 ou Seedance 2.0 i2v (escolha por custo/fila → 720p/1080p final)
         │
         ▼
   checkpoint clips
@@ -150,17 +151,17 @@ packshot real (site)
 | Etapa | Expectativa |
 |-------|-------------|
 | Nano Banana 2k | Ilimitado (dentro do cap unlimited mensal) |
-| Seedance Draft | Ilimitado no tier draft |
-| Seedance 720p | ~400 cr / clip (mapa mai/2026 — sempre simulate) |
-| Seedance 1080p | ~440 cr / clip (+ áudio x2 se ligar) |
+| Kling 3.0 720p | Cobra créditos — **sempre `simulate` antes de gerar** |
+| Seedance 2.0 720p | Cobra créditos — **sempre `simulate` antes de gerar** |
+| 1080p (qualquer um) | Mais caro que 720p (+ áudio x2 se ligar) |
 
-Fonte: `00-inbox/magnific-plano-premium-mais-mapa.md`
+Como o custo dos dois motores muda com frequência, **não fixar número aqui** — rodar `simulate_cost` nos dois candidatos no momento do run e registrar o valor real em `review.md`. Referência de mapa de créditos: `00-inbox/magnific-plano-premium-mais-mapa.md`.
 
 ---
 
 ## 6. Instrução para agents
 
 - **Sofia Still:** modelo de imagem = Nano Banana apenas  
-- **Miguel Motion:** modelo de vídeo = Seedance 1.5 Pro apenas  
-- **Gael Magnific:** executa só esses dois; não “melhorar” com outro modelo sem override humano no briefing  
-- **Léo / Briefing:** pergunta opcional `qualidade_video: draft | 720p | 1080p` (default draft em teste, 720p em entrega)
+- **Miguel Motion:** modelo de vídeo = Kling 3.0 **ou** Seedance 2.0 — escolhe por custo/fila do `simulate`, nunca Seedance 1.5  
+- **Gael Magnific:** executa só os modelos desta tabela; não "melhorar" com outro modelo (Hailuo, Wan, Veo fora de premium, etc.) sem override humano no briefing  
+- **Léo / Briefing:** pergunta `modelo_video: kling-30 | seedance-2.0` (opcional, default = mais barato no `simulate` do dia) + `qualidade_video: 720p | 1080p` (default 720p em entrega)

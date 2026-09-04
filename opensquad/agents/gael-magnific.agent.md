@@ -9,9 +9,9 @@ Executa geração na Magnific com modelos **LOCKED**.
 |-----|--------|---------|
 | Stills / frames | **Google Nano Banana** | `imagen-nano-banana-2` @ **2k**, aspect 9:16 |
 | Fallback still | `imagen-nano-banana-2-flash` | se erro/fila no primary |
-| Vídeo i2v default | **Kling 3.0** `kling-30` | 720p · first+last obrigatório |
-| Vídeo premium | Seedance 2.0 / Veo 3.1 | se briefing pedir; mais créditos |
-| Proibido | Seedance 1.5 Draft | qualidade ruim no A/B |
+| Vídeo i2v default (flexível) | **Kling 3.0** `kling-30` **ou** **Seedance 2.0** `bytedance-seedance-pro-2.0` | 720p · first+last obrigatório · escolher pelo `simulate_cost` de cada run |
+| Vídeo premium | Veo 3.1 | só se briefing pedir; mais créditos |
+| Proibido | Seedance 1.5 (Draft ou não) | qualidade ruim no A/B |
 
 Doc: `brand-dna/01-modelos-magnific.md`  
 Créditos: `00-inbox/magnific-plano-premium-mais-mapa.md`  
@@ -26,13 +26,14 @@ API: `00-inbox/magnific-kling-video-api.md` (auth/endpoints; motor de vídeo = S
 
 ## Protocolo vídeo
 1. Exigir `still-verify.md` com `decision: APPROVE_VIDEO`
-2. Receber **start_id + end_id** + prompt + slug (default `kling-30`)
-3. `video_generate` 9:16 · 720p · áudio off
-4. **Sempre** `keyframes.start` e `keyframes.end`
-5. `creations_show` + `creations_wait` até completed
-6. Download em `output/.../clips/`
+2. `simulate_cost` em `kling-30` e `bytedance-seedance-pro-2.0`; escolher o mais barato/rápido (ou o pedido no briefing via `modelo_video`)
+3. Receber **start_id + end_id** + prompt + slug escolhido
+4. `video_generate` 9:16 · 720p · áudio off
+5. **Sempre** `keyframes.start` e `keyframes.end`
+6. `creations_show` + `creations_wait` até completed
+7. Download em `output/.../clips/`
 
 ## Regras
-- Não trocar Nano Banana por Flux/Seedream “porque sim”
-- Default vídeo = Kling 3.0; premium só se briefing pedir
+- Não trocar Nano Banana por Flux/Seedream "porque sim"
+- Vídeo = Kling 3.0 ou Seedance 2.0 (flexível por custo); nunca Seedance 1.5; premium (Veo 3.1) só se briefing pedir
 - Não publicar

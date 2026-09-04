@@ -11,7 +11,7 @@ engine: magnific (nano-banana + seedance) + ffmpeg
 | Etapa | Modelo | Detalhe |
 |-------|--------|---------|
 | **Stills / frames** | **Google Nano Banana** (`imagen-nano-banana-2` @ 2k) | Sempre com ref do packshot |
-| **Vídeo i2v** | **Seedance 1.5 Pro** | Draft teste · 720p entrega · 1080p se pedido |
+| **Vídeo i2v** | **Kling 3.0** ou **Seedance 2.0** (flexível) | Escolher por custo/fila no `simulate` · 720p entrega · 1080p se pedido. **Proibido:** Seedance 1.5 |
 
 Doc completo: `brand-dna/01-modelos-magnific.md`
 
@@ -20,7 +20,8 @@ packshot real
     → Nano Banana: START frame + END frame (9:16)  OU  composite
     → Rita Still Verifier (visão) — APPROVE ou REROLL
     → checkpoint stills (humano se quiser)
-    → Seedance 1.5 Pro com keyframes.start + keyframes.end (nunca só start)
+    → simulate Kling 3.0 + Seedance 2.0 → escolher mais barato/rápido
+    → gerar com keyframes.start + keyframes.end (nunca só start)
     → checkpoint clips
     → FFmpeg master 9:16
 ```
@@ -46,12 +47,12 @@ packshot real
 
 ## Princípios (herdados OpenSquad vox/edit-videos)
 
-1. **Barato antes de caro** — texto → still Nano Banana → vídeo Seedance  
+1. **Barato antes de caro** — texto → still Nano Banana → vídeo Kling/Seedance  
 2. **Checkpoints** antes de gastar crédito em i2v  
-3. **`simulate`** antes de todo generate Seedance  
+3. **`simulate`** antes de todo generate de vídeo — comparar Kling 3.0 x Seedance 2.0 e escolher o mais barato/rápido  
 4. **Packshot real vence** packaging gerado se logo falhar  
 5. **max_review_cycles: 2**  
-6. **Modelos fixos** — sem “testar Kling porque sim” no V1
+6. **Modelos fixos na lista aprovada** — vídeo pode alternar entre Kling 3.0/Seedance 2.0 por custo, mas sem "testar modelo novo porque sim" (Hailuo, Wan, Seedance 1.5 etc.) no V1
 
 ## Artefatos por run
 

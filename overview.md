@@ -71,7 +71,7 @@ lfpro-studio/
 |--------|------------|
 | Orquestração | OpenSquad (agents + pipeline + checkpoints) |
 | Geração stills/frames | Magnific → **Google Nano Banana** (`imagen-nano-banana-2` @ 2k) |
-| Geração vídeo i2v | Magnific → **Seedance 1.5 Pro** (Draft teste / 720p entrega) |
+| Geração vídeo i2v | Magnific → **Kling 3.0** ou **Seedance 2.0** (flexível por custo/fila, 720p entrega) — Seedance 1.5 proibido |
 | Montagem | FFmpeg (concat, loudnorm, end card, 9:16) |
 | Doc modelos | [[brand-dna/01-modelos-magnific\|Modelos LOCK]] |
 | Verdade do produto | Packshot oficial do site (nunca redesenhar packaging) |

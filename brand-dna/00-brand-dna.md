@@ -117,18 +117,19 @@ Detalhe por SKU: `products/**`.
 
 ## 5. Gramática de motion (V1)
 
-Para Magnific i2v a partir de still on-brand:
+Regra genérica de marca — **o track sempre pode especializar/sobrepor isto** (ex.: T1 exige turntable, não é só push-in). Ver `tracks/T*/README.md` antes de escrever o prompt.
 
 | Permitido | Proibido |
 |-----------|----------|
-| Micro push-in 3–8% | Orbit 360 agressivo |
-| Slow parallax de profundidade | Camera shake handheld UGC |
-| Partículas sutis de pó (Soft Eye/Finish) | Explosões de glitter |
-| Swatch “living” gloss leve | Morphing de packaging |
-| Tampa / pump já no still (não animar logo) | Mãos deformadas com 6 dedos (T3 exige QC) |
-| Hold final 0.8–1.5s no hero frame | Zoom crash, whip pan |
+| Slow turntable / orbit 120–360° legível (hero T1) | Camera shake handheld UGC |
+| Micro push-in 3–8% (detail shots / T2 macro) | Explosões de glitter |
+| Slow parallax de profundidade | Morphing de packaging |
+| Partículas sutis de pó (Soft Eye/Finish) | Mãos deformadas com 6 dedos (T3 exige QC) |
+| Swatch “living” gloss leve | Zoom crash, whip pan, crash zoom no logo |
+| Tampa / pump já no still (não animar logo) | Motion cuja **única** ação seja powder dust ou micro push (T1 exige giro legível) |
+| Hold final 0.8–1.5s no hero frame | Produto flutuando sem superfície/contato |
 
-**Empty-frame / first-last:** usar quando o modelo Magnific suportar keyframes; senão, still estável + motion mínimo no prompt (`locked product, fixed logo, no deformation`).
+**Empty-frame / first-last:** usar quando o modelo Magnific suportar keyframes (Kling 3.0 / Seedance 2.0 no V1); senão, still estável + motion mínimo no prompt (`locked product, fixed logo, no deformation`).
 
 ---
 

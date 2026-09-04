@@ -14,7 +14,7 @@ decisions:
   architecture: "1 squad de marca + fichas de produto + tracks T1–T5. Não criar squad por SKU."
   generation_engine: "Magnific only (não kie.ai). Modelos LOCKED — ver brand-dna/01-modelos-magnific.md"
   models_image: "Google Nano Banana — default imagen-nano-banana-2 @ 2k; fallback imagen-nano-banana-2-flash. Sempre com reference do packshot. Composite packshot real é alternativa sem IA."
-  models_video: "Default Kling 3.0 (kling-30) 720p first+last. Premium: Seedance 2.0 ou Veo 3.1. Proibido Seedance 1.5 Draft. OBRIGATÓRIO keyframes.start + end. A/B 2026-08-06 em output/ab-test-video-models-20260806/."
+  models_video: "Flexível entre os dois melhores custo-benefício: Kling 3.0 (kling-30) ou Seedance 2.0 (bytedance-seedance-pro-2.0), 720p first+last, escolha por simulate/custo. Premium: Veo 3.1 só sob pedido do briefing. Proibido Seedance 1.5 (Draft ou não). OBRIGATÓRIO keyframes.start + end. A/B 2026-08-06 em output/ab-test-video-models-20260806/."
   still_gate: "Rita Still Verifier avalia start e end com visão ANTES do Seedance. FAIL em logo/packaging/end-close → re-roll ou composite; nunca vídeo com still FAIL."
   identity_lock: "assets/products/{handle}/01.* é a verdade do packaging. Se IA deformar logo LF monogram gold, re-roll Nano Banana ou composite com packshot real."
   v1_scope: "Tracks T1 e T2 only. Sem full face makeup proof. Sem before/after. First+last frames obrigatórios."

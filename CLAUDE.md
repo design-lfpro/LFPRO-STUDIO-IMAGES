@@ -16,7 +16,7 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 3. **Não gerar full-face makeup proof no V1.** Tracks T5 bloqueados.
 4. **Produto = ficha**, não squad. Um squad `lfpro-studio`, N fichas.
 5. **Magnific** é o motor de geração (não kie.ai neste projeto).
-6. **Modelos LOCK V1:** stills = **Google Nano Banana** (`imagen-nano-banana-2` @ 2k); vídeo = **Seedance 1.5 Pro** (Draft teste / 720p entrega). Ver `brand-dna/01-modelos-magnific.md`.
+6. **Modelos LOCK V1:** stills = **Google Nano Banana** (`imagen-nano-banana-2` @ 2k); vídeo = **flexível entre os dois melhores custo-benefício** — **Kling 3.0** (`kling-30`) ou **Seedance 2.0** (`bytedance-seedance-pro-2.0`), 720p, escolha por run. **Proibido:** Seedance 1.5 (Draft ou não) — reprovado em A/B por qualidade. Ver `brand-dna/01-modelos-magnific.md`.
 7. **FFmpeg** fecha master 9:16; IA gera clipes atômicos 4–8s.
 8. Responder em **PT-BR**; prompts de imagem/vídeo em **EN**.
 

@@ -63,8 +63,9 @@ Tokens ficam em `~/.grok/mcp_credentials.json` (0600).
 |----------|-----------------|
 | `images_generate` | Still Nano Banana (frame) |
 | `images_models_list` / `images_models_show` | Confirmar slug Nano Banana |
-| `video_generate` | Seedance i2v |
-| `video_models_list` / `video_models_show` | Confirmar Seedance 1.5 Pro |
+| `video_generate` | Kling 3.0 ou Seedance 2.0 i2v (escolha por custo) |
+| `video_models_list` / `video_models_show` | Confirmar slug `kling-30` / `bytedance-seedance-pro-2.0` |
+| `simulate_cost` | Comparar custo Kling 3.0 x Seedance 2.0 antes de gerar |
 | `creations_wait` / `creation_status` | Poll até ready |
 | `creations_request_upload` + upload + finalize | Subir packshot como reference |
 | `account_balance` | Créditos antes do run |
@@ -74,7 +75,7 @@ Tokens ficam em `~/.grok/mcp_credentials.json` (0600).
 Ver `brand-dna/01-modelos-magnific.md`:
 
 - Stills → **Nano Banana** (`imagen-nano-banana-2` @ 2k)
-- Vídeo → **Seedance 1.5 Pro** (Draft / 720p)
+- Vídeo → **Kling 3.0** (`kling-30`) ou **Seedance 2.0** (`bytedance-seedance-pro-2.0`), flexível por custo/fila, 720p. **Proibido:** Seedance 1.5
 
 ## Conta
 

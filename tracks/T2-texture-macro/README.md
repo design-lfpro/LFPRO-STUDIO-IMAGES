@@ -35,11 +35,11 @@ Prova **sensorial** da fórmula sem full face: pó pulverulento, creme batido, s
 | Etapa | Modelo |
 |-------|--------|
 | Still macro | **Nano Banana** 2k + ref swatch/packshot |
-| i2v | **Seedance 1.5 Pro** (Draft/720p) |
+| i2v | **Kling 3.0** ou **Seedance 2.0** (flexível por custo/fila, 720p) — nunca Seedance 1.5 |
 
 Ver `brand-dna/01-modelos-magnific.md`.
 
-## Motion permitido (Seedance)
+## Motion permitido (i2v)
 
 - Falling powder particles (soft, not explosion)
 - Cream peak soft jiggle
