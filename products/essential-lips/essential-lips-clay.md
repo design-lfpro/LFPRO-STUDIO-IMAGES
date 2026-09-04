@@ -31,7 +31,11 @@ Ver `_family.md`. Lock:
 
 **Assets:** `assets/products/essential-lips-clay/01.jpeg` (still de estúdio — fundo cinza, ver aviso de fundo em `_family.md`).
 
-## Cor (leitura aproximada do still de estúdio)
+## Cor
+
+**Descrição oficial (fonte: Direcionamento Time Essential Lips):** Tom terracota, quente. Com toque avermelhado.
+
+### Leitura aproximada do still de estúdio (hex direcional)
 
 | Parte | Cor / hex aprox |
 |-------|-------------------|

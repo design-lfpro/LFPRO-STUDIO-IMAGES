@@ -31,7 +31,11 @@ Ver `_family.md`. Lock:
 
 **Assets:** `assets/products/essential-lips-malt/01.jpeg` (still de estúdio — fundo cinza, ver aviso de fundo em `_family.md`).
 
-## Cor (leitura aproximada do still de estúdio)
+## Cor
+
+**Descrição oficial (fonte: Direcionamento Time Essential Lips):** Tom rosado terroso, quente. Com toque de marrom.
+
+### Leitura aproximada do still de estúdio (hex direcional)
 
 | Parte | Cor / hex aprox |
 |-------|-------------------|
