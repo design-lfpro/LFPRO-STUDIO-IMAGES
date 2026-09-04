@@ -50,15 +50,21 @@ Em **qualquer** still/vídeo — produto sozinho, still de still-life, still com
 
 Frasco é **pequeno e fino**: altura total (com tampa) ~9–10 cm, diâmetro da tampa ~1,7 cm (mais estreita que um polegar). Em qualquer still com mão/modelo segurando o produto, o frasco deve caber entre 2–3 dedos com sobreposição visível — nunca desenhar maior que isso. Referência real: `assets/products/essential-lips-wine/tamanho-real-1.jpeg` e `tamanho-real-2.jpeg` (fotos do frasco fechado numa mão real).
 
+**Regra — proporção travada (erro confirmado: frasco sai ora esticado, ora curto demais).** Não basta dar altura/diâmetro em cm soltos — declarar a **proporção** explicitamente, porque a IA erra escala mesmo tendo os números:
+
+> "the bottle's height-to-width ratio is fixed at approximately 5.5:1 — a slim, elongated column, not stubby or squat, and not stretched thinner/taller than that ratio. The cap is roughly one-third of the total bottle height. Match these proportions exactly to the reference photo — do not lengthen, shorten, widen, or narrow the silhouette."
+
+Incluir essa frase (ou equivalente) junto da descrição de escala em todo prompt com o frasco visível — a régua em cm sozinha não é suficiente.
+
 ### Regra — fundo padrão da campanha
 
 **Fundo preto sólido (`#0A0A0A`) é o padrão de toda a campanha Essential Lips** (hero de produto, still com modelo, swatch/textura, stories) — só usar outro fundo/cor se for explicitamente pedido para aquela peça específica.
 
 ### Regra — fidelidade do logo (descrever a geometria, não só "logo dourado")
 
-Logo distorcido é o erro mais recorrente e mais caro (retrabalho + créditos). "Gold LF monogram" sozinho no prompt não é suficiente — a IA precisa da geometria descrita:
+Logo distorcido é o erro mais recorrente e mais caro (retrabalho + créditos). "Gold LF monogram" sozinho no prompt não é suficiente — a IA precisa da geometria descrita, e a versão abaixo já foi endurecida depois de ver erros reais (texto espelhado/invertido, símbolo virando losango/quadrado genérico):
 
-> "the LF monogram is two interlocked geometric letterforms — 'L' and 'F' — in gold foil, crisp clean edges, NOT an abstract shape, NOT a generic swirl; below it in smaller gold caps the wordmark 'LF PRO'. Keep both letterforms sharp and legible, exact proportions from the reference photo, no melting, no extra strokes, no blur."
+> "the LF monogram is a two-letter geometric logotype — 'L' and 'F' interlocked in a tall, narrow, architectural/deco construction, flat gold foil color (not chrome, not 3D, not a gradient), crisp straight edges. It is NOT a diamond, NOT a shield, NOT a wreath, NOT a swirl, NOT a generic abstract mark — it is specifically the two letterforms L and F and nothing else. Directly below it, in smaller gold capital letters, the wordmark 'LF PRO' — reading correctly left-to-right, never mirrored, never backwards, never reversed. Reproduce this exact logotype faithfully from the reference photo — same proportions, same letterforms, same relative size to the bottle — do not substitute, simplify, or reinterpret it into a different symbol."
 
 Incluir esse parágrafo (ou equivalente) em **todo** prompt que tenha o frasco visível de forma legível — não só copiar "gold LF monogram" solto.
 
