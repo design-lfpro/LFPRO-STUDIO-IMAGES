@@ -62,6 +62,8 @@ Logo distorcido é o erro mais recorrente e mais caro (retrabalho + créditos). 
 
 Incluir esse parágrafo (ou equivalente) em **todo** prompt que tenha o frasco visível de forma legível — não só copiar "gold LF monogram" solto.
 
+**Regra — a tampa é PRETA, o dourado é só no logo.** Erro recorrente confirmado visualmente (03/09): a tampa sai dourada/rose-gold inteira, ou até branca/creme, em vez de preta — provavelmente porque "gold rim light" + "gold LF monogram" no mesmo prompt faz a IA "vazar" o dourado pra tampa toda. Incluir sempre, de forma explícita e separada: *"the cap is solid glossy BLACK plastic/lacquer — NEVER gold, NEVER rose-gold, NEVER white or cream. Gold appears ONLY on the printed monogram and wordmark on the bottle body, nowhere else on the packaging."*
+
 **Risco real não é "macro" — é complexidade de cena.** Levantamento de 28/08-03/09: stills de produto puro (2-3 frascos, sem modelo, framing próximo do packshot original) saíram fiéis quase sempre. O que falhou consistentemente:
 - **4+ frascos na mesma geração** (cascata de 8, flat lay de 4) — cada frasco extra dilui a "atenção" do modelo pros detalhes do logo de cada um.
 - **Modelo (rosto/mão fotorreal) + produto no mesmo frame** — a IA prioriza anatomia/pele coerente sobre fidelidade de um elemento pequeno e secundário (o logo), mesmo em enquadramento não-macro.
