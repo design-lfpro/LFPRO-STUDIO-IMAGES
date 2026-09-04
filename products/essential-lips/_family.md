@@ -10,7 +10,7 @@ updated: 2026-08-20
 
 # Família `essential-lips`
 
-Batom líquido **matte** LF PRO. Linha nova (lançamento 09/09) — 8 tons, do nude ao vermelho intenso. Volume 4,5 mL, aplicador doefoot de precisão.
+Batom líquido **matte** LF PRO. Linha nova (lançamento 09/09) — 8 tons, do nude ao vermelho intenso. Volume 4,5 mL, aplicador flocado (veludo) de precisão.
 
 ## Assets — packshot real disponível
 
@@ -32,7 +32,11 @@ Fonte: fotos reais `assets/products/essential-lips-{tom}/01.jpeg` + desenho de a
 2. **Tampa**: preta, cilíndrica, com rosca/ranhura horizontal visível na parte superior (textura de grip); rosqueia sobre o gargalo do frasco.
 3. **Impressão no corpo do frasco** (não na tampa): monograma **LF** dourado estilizado (duas letras entrelaçadas, ligeiramente itálico) centralizado, com wordmark **"LF PRO"** dourado em caixa alta logo abaixo, menor. Zona de impressão ~65,94 mm largura × 55 mm altura (spec de arte do fornecedor).
 4. Duas linhas horizontais finas (stripe dourado/preto) demarcam uma faixa de ~14 mm entre o ombro do frasco (base da tampa) e a área do monograma — visível nas fotos como um "colarinho" logo abaixo da rosca.
-5. **Aplicador (doefoot)**: haste preta fina + ponta oval afunilada em veludo/esponja fiapada (formato "doefoot" clássico), destacável, mostrada separada do frasco nas fotos de still — fica dentro da tampa quando fechado. **Confirmado por foto real do produto físico (03/09):** a textura fiapada/afelpada do veludo aparece **mesmo com produto aplicado em cima** — não é uma cúpula lisa e uniformemente brilhante (a referência tipo Summer Fridays usada em alguns prompts é mais lisa que o real); a aplicação real sai um pouco irregular/manchada na transição haste-produto. Descrever assim em prompts de still de aplicador: "the velvet fiber texture of the doe-foot tip remains visible through the product coating, not a smooth glossy dome — slightly uneven/streaked product coverage near the base, like a real-world application, not a perfect studio dip."
+5. **Aplicador**: haste preta fina + ponta oval alongada em **veludo flocado/chenille** (fibra fina cobrindo toda a superfície da ponta, não uma pá lisa), destacável, mostrada separada do frasco nas fotos de still — fica dentro da tampa quando fechado.
+
+**Regra — termo certo é "flocked velvet wand", NUNCA "doe-foot" no prompt de geração.** Erro identificado em 03/09: "doe-foot applicator" é um termo técnico específico da indústria pra aplicador **liso**, tipo pá/espátula achatada (o formato clássico de gloss) — não é o nosso. O nosso aplicador é **flocado** (fibra de veludo cobrindo a ponta inteira). Usar "doe-foot" + "textura fibrosa" no mesmo prompt são instruções conflitantes (uma puxa pra forma lisa, outra pra fibrosa) e é provável causa dos erros de forma/acabamento nas gerações de still de aplicador. **A partir de agora usar sempre "flocked velvet wand" ou "chenille flocked tip applicator"** — nunca "doe-foot" — em qualquer prompt de still com o aplicador visível.
+
+**Confirmado por foto real do produto físico (03/09):** a fibra de veludo cobre a ponta **inteira**, de forma uniforme, do topo à base — não existe zona lisa/glossy separada. O brilho do produto molhado aparece como **muitos pontos pequenos de brilho espalhados nas pontinhas das fibras** (como um chenille/pompom encharcado de tinta pegando luz), nunca como uma cúpula lisa única. Descrever assim em prompts de still de aplicador: *"the tip is covered in dense flocked velvet/chenille fiber texture across its ENTIRE surface, top to bottom, uniformly — no smooth glossy dome or bald patch anywhere. The wet product creates many tiny scattered specular highlights on individual fiber tips across the whole surface, not one big glossy highlight blob. Elongated oval/bullet silhouette, rounded-tapered at the top, consistent fuzzy density along its whole length."*
 6. Sem texto do nome do tom impresso no frasco (a identificação de tom é só por cor do líquido + rótulo/caixa secundária).
 
 **Não confirmado ainda:** acabamento exato do vidro (fosco por jateamento vs. fosco de fábrica), se há brilho/verniz na tampa (parece semi-glossy nas fotos) — validar com Ana Produto still a still.
@@ -42,7 +46,7 @@ Fonte: fotos reais `assets/products/essential-lips-{tom}/01.jpeg` + desenho de a
 Em **qualquer** still/vídeo — produto sozinho, still de still-life, still com mão, still com modelo segurando o produto, still de campanha, still de combo — o frasco só pode aparecer de dois jeitos:
 
 1. **Fechado**, com a tampa colocada; ou
-2. **Aberto**, com o **aplicador doefoot visível junto** (na mão, encostado, ou saindo da tampa ao lado).
+2. **Aberto**, com o **aplicador flocado visível junto** (na mão, encostado, ou saindo da tampa ao lado).
 
 **Nunca** gerar (ou aceitar) um frasco aberto sem o aplicador aparecer — mesmo que o still seja de uma modelo segurando o produto e o foco seja o rosto dela. Essa regra é um **checklist obrigatório de todo prompt de still de produto/modelo+produto** desta linha, não só de still-life. Declarar explicitamente no prompt qual dos dois estados (fechado OU aberto+aplicador) antes de gerar — nunca deixar implícito.
 
@@ -87,7 +91,7 @@ Diante disso:
 
 ### Regra — orientação do aplicador em still boca/rosto
 
-Quando o aplicador (doefoot) aparece perto da boca da modelo (still de still com produto aberto encostando/aplicando), **a ponta que acumula produto (a esponja/veludo) deve estar virada para o lado da boca/ponto de contato** — nunca de costas ou apontando para longe do rosto. Declarar essa orientação explicitamente no prompt sempre que o still envolver boca + aplicador.
+Quando o aplicador (flocked velvet wand) aparece perto da boca da modelo (still de still com produto aberto encostando/aplicando), **a ponta que acumula produto (a esponja/veludo) deve estar virada para o lado da boca/ponto de contato** — nunca de costas ou apontando para longe do rosto. Declarar essa orientação explicitamente no prompt sempre que o still envolver boca + aplicador.
 
 ## Ficha técnica (fonte: infográfico de lançamento)
 
