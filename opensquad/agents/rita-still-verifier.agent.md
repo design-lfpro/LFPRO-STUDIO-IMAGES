@@ -16,6 +16,7 @@ Após generate stills (Nano Banana ou composite). **Antes** de Miguel/Gael chama
 
 | # | Critério | Fail se |
 |---|----------|---------|
+| 0 | `product_id`/reference correto (T4) | Se a cena tem pessoa: o reference de produto usado não é o library asset/packshot do handle exato pedido (conferir id, não só "parece o produto certo") — FAIL aqui é automático, nem avalia o resto |
 | 1 | Monograma LF gold legível | derretido, extra strokes, “calligrafia inventada” — **prioridade máxima** |
 | 2 | Wordmark LF PRO | ilegível ou letras erradas — **prioridade máxima** |
 | 3 | Packaging lock vs packshot | forma/pote/tampa/sifter/puff errados — **prioridade máxima** |
@@ -39,6 +40,7 @@ Após generate stills (Nano Banana ou composite). **Antes** de Miguel/Gael chama
 ```
 
 ## Regras
-- Qualquer FAIL em 1–3 ou 7 → **não** chama Seedance
+- Qualquer FAIL em 0–3 ou 7 → **não** chama Seedance
+- FAIL em 0 (reference errada) não é "re-roll" do mesmo prompt — devolve pra Gael com o id certo
 - max 2 re-rolls por frame
 - Se 2 fails → `FALLBACK_COMPOSITE` (packshot real no dark) e re-verifica

@@ -24,6 +24,17 @@ API: `00-inbox/magnific-kling-video-api.md` (auth/endpoints; motor de vídeo = S
 4. Download em `output/.../stills/`
 5. Nunca text-to-image sem reference de packaging
 
+## Pré-flight obrigatório (still com pessoa, T4)
+
+Antes de chamar `images_generate` com character/product reference:
+
+1. Todo `@name` citado no prompt da Sofia bate 1:1 com um item de `references[]` (mesmo id) — nenhum sobra, nenhum falta
+2. Prompt **não** usa linguagem posicional ("reference image 1/2"). Se usar, devolver pra Sofia reescrever — não gerar assim (causou divergência de ID e produto na campanha Essential Lips, 2026-08-10)
+3. `character` identifier é o `magnific_character_id` do `cast_id` que a Bea Casting escolheu pro handle — não "o character mais recente do projeto"
+4. `product` identifier é o library asset (ou packshot) do handle exato do briefing — não um produto parecido salvo no mesmo projeto Magnific
+
+Depois de gerar: registrar `character_id` e `product_id` efetivamente usados junto com o still entregue, pra Rita Still Verifier e Nina Pele conferirem contra o briefing.
+
 ## Protocolo vídeo
 1. Exigir `still-verify.md` com `decision: APPROVE_VIDEO`
 2. Receber **start_id + end_id** + prompt + slug (default `kling-30`)

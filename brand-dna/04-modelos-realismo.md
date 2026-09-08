@@ -77,5 +77,20 @@ Contratos antigos (Drive, 2024–2025) foram fechados para **still/vídeo conven
 - [x] Piso de idade (30+) aprovado — **exceção registrada** para a campanha Sculpt Brow (0813): 3 modelos IA já geradas (`assets/cast/sculpt-brow-modelo-*`) ficam como estão (leitura ~28-35), decisão de 2026-08-10. **A partir da próxima campanha, gerar já buscando leitura 32+.**
 - [ ] Escolher 2–4 modelos do histórico (contratação real, Drive) para virar `assets/cast/` oficial (uma por tom) — em paralelo ao cast 100% IA do Sculpt Brow, não em substituição
 - [ ] Confirmar direito de uso por IA dos contratos antigos
-- [ ] Cadastrar characters no Magnific library (hoje só existe `lu-golden`; os 3 do Sculpt Brow ficaram pendentes — upload direto bloqueado pela política de rede da sessão, ver `assets/cast/*/meta.yaml` campo `magnific_character_id`)
+- [x] Characters do Sculpt Brow cadastrados no Magnific library (`sculpt-brow-modelo-{light,medium,dark}`, ids 2151468/2151475/2151480) — `magnific_character_id` preenchido em `assets/cast/*/meta.yaml`
 - [ ] Trazer os testes manuais recentes do Drive ("movimento sutil da modelo" etc.) para dentro do pipeline documentado, com QC da Nina Pele
+
+## 6. Erros conhecidos (troubleshooting)
+
+### Divergência de identidade/produto por reference mal referenciada (2026-08-10, campanha Essential Lips)
+
+**Sintoma:** still com modelo + produto saiu com rosto e/ou produto diferentes do esperado, mesmo usando os characters/produtos certos como reference.
+
+**Causa raiz:** prompt escrito com linguagem posicional — "Reference image 1 is the ONLY source of truth for the product" — mas **image 1** no array de `references[]` era a foto da modelo, não o produto. Texto e ordem real das referências não batiam, então a Nano Banana recebeu instrução contraditória sobre o que travar em quê.
+
+**Correção aplicada nos agentes** (`sofia-still`, `gael-magnific`, `rita-still-verifier`, `nina-pele`):
+- Prompt nunca mais usa "reference image N" — sempre `@<name>` do library asset (character/product), que o Magnific resolve automaticamente pro reference certo, eliminando o risco de descompasso entre texto e array.
+- `references[]` sempre tipado (`character` / `product`), nunca genérico.
+- Produto também vira library asset (`library_create type=product`) a partir do packshot oficial, não só imagem solta.
+- Gael faz pré-flight: todo `@name` do prompt bate 1:1 com um id em `references[]`.
+- Rita Still Verifier e Nina Pele ganharam item **0** no checklist: conferir que o `character_id`/`product_id` efetivamente usado é o que o briefing pediu — FAIL aqui é automático, nem avalia a imagem em si.

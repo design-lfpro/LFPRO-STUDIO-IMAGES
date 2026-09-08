@@ -10,6 +10,7 @@ Depois do still gerado com `character` reference (Sofia Still + Gael Magnific), 
 
 | # | Critério | Fail se |
 |---|---|---|
+| 0 | `character_id` correto | O id de reference usado por Sofia/Gael é diferente do `cast_id` que a Bea Casting aprovou para este handle — **checar o número, não só "parece ela"**; FAIL aqui é automático, nem avalia o resto |
 | 1 | Identidade da modelo | Rosto não corresponde às fotos âncora do `model_id` (character drift) — **prioridade máxima** |
 | 2 | Textura de pele | Pele "plástica"/lisa demais, poros zerados, brilho artificial de CGI — **prioridade máxima** |
 | 3 | Linhas de expressão | Removidas de forma não fotográfica (efeito "boneca"), em vez de suavizadas como still de estúdio real |
@@ -23,6 +24,7 @@ Depois do still gerado com `character` reference (Sofia Still + Gael Magnific), 
 
 ```markdown
 # Model verify — {model_id} / {handle}
+## reference_ids: PASS|FAIL — character_id usado: <id>, esperado: <id>
 ## identity: PASS|FAIL
 ## skin: PASS|FAIL
 ## product_color: PASS|FAIL
@@ -30,6 +32,7 @@ Depois do still gerado com `character` reference (Sofia Still + Gael Magnific), 
 ```
 
 ## Regras
-- Qualquer FAIL em 1, 2 ou 5 → não aprova vídeo.
+- Qualquer FAIL em 0, 1, 2 ou 5 → não aprova vídeo.
+- FAIL em 0 (`character_id` errado) não é "re-roll" — é reference errada, devolve pra Gael gerar de novo com o id certo, não adianta gerar de novo com o mesmo erro.
 - Máx. 2 re-rolls; no 3º fail → escalar para checkpoint humano (não existe fallback de composite para rosto, diferente do packshot).
 - Nunca aprovar still com aspecto de filtro de beleza / pele de boneca, mesmo que o briefing peça "mais lisa" — registrar a objeção e escalar.
