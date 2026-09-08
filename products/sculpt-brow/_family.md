@@ -41,11 +41,11 @@ Sem sessão de campanha própria ainda rodada nesta pasta — **seguir o padrão
 - **Óleo de Mamona**: hidrata, promove maciez.
 - **Vitamina E**: ação antioxidante e proteção.
 
-## Claims de performance (fonte: material de lançamento — ainda sem "Direcionamento" formal tipo o do Essential Lips)
+## Claims de performance (oficiais — confirmado pelo time)
 
 ✓ Super macia · ✓ Desliza facilmente · ✓ Não puxa os fios · ✓ Esfuma com facilidade · ✓ Resistente à água · ✓ Resistente à oleosidade · ✓ Não transfere · ✓ Acabamento matte natural
 
-**Atenção — diferença em relação ao Essential Lips:** o material de lançamento desta linha já traz "não transfere" e "resistente à água/oleosidade" como afirmações diretas, sem o mesmo texto de ressalva/guardrail que existe pro Essential Lips (que tem um documento formal "Direcionamento Time Essential Lips v2" travando esses claims). **Não existe ainda um documento equivalente pra Sculpt Brow.** Antes de usar essas frases como estão em peça de consumidor, vale confirmar com o time se há teste/substanciação por trás, ou se aplica o mesmo cuidado do Essential Lips (comunicar como característica técnica da fórmula, não garantia absoluta). Sinalizando aqui em vez de assumir.
+Claims confirmados como oficiais pelo time (03/09) — usar como estão em qualquer peça de comunicação desta linha, sem necessidade da ressalva/guardrail que existe pro Essential Lips.
 
 ## Anti-patterns
 

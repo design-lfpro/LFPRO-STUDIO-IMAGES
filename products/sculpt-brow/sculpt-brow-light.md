@@ -34,4 +34,4 @@ Ver `_family.md`. Lock:
 
 ## Claims oficiais
 
-Herdados de `_family.md` — ver seção "Claims de performance" e a ressalva sobre falta de documento de guardrails formal para esta linha (diferente do Essential Lips). Nenhum claim específico de tom além da indicação de fototipo/cor de fio acima.
+Herdados de `_family.md` — ver seção "Claims de performance" (oficiais, confirmados pelo time). Nenhum claim específico de tom além da indicação de fototipo/cor de fio acima.
