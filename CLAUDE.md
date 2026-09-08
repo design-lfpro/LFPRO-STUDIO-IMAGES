@@ -31,6 +31,7 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 | `opensquad/` | Squad pronto para copiar p/ `/home/projects/opensquad/squads/lfpro-studio` |
 | `assets/products/{handle}/` | Imagens oficiais do site |
 | `assets/catalog/` | JSON catálogo |
+| `pipeline/COMO-SINCRONIZAR-SHOPIFY.md` | **Produto novo/recém-lançado?** Passo a passo pra puxar dados reais (preço, SKU, imagens) do site — necessário porque a nuvem não acessa `lfpro.com.br` |
 
 ## Input canônico de um run V1
 
