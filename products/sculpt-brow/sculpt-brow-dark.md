@@ -8,7 +8,7 @@ product_type: Lapiseira Retrátil para Sobrancelhas
 shade: Dark
 role: lápis para sobrancelha
 status: dna-v1-parcial
-url: null
+url: https://lfpro.com.br/products/sculpt-brow-dark
 packshot: assets/products/sculpt-brow-dark/01.png
 assets_dir: assets/products/sculpt-brow-dark/
 v1_tracks: [T1-product-hero, T4-model-portrait]
@@ -19,7 +19,7 @@ blocked_tracks: [T5-face-proof]
 
 Lapiseira retrátil para sobrancelhas LF PRO — tom **Dark**. Ver DNA: [[_family|Sculpt Brow]].
 
-**Produto real, já publicado no site (R$ 89,90).** Packshot local publicado a partir do Drive. SKU e URL exata ainda pendentes. Não inventar.
+**Produto real, já publicado no site (R$ 89,90).** Packshot local publicado a partir do Drive. SKU ainda pendente (URL confirmada). Não inventar.
 
 ## Packaging lock
 
@@ -61,7 +61,7 @@ Beauty portrait of a dark-skinned model touching/framing her eyebrow, well-groom
 
 - Redesenhar formato do lápis ou lettering
 - Trocar cor do pigmento
-- Inventar SKU ou URL exata
+- Inventar SKU
 - Full-face proof (T5 bloqueado)
 
 ## Relacionados
@@ -72,4 +72,4 @@ Beauty portrait of a dark-skinned model touching/framing her eyebrow, well-groom
 ## Notas V1
 
 - Packshot local publicado (`01.png`), fonte: Drive pasta FOTO PRODUTO
-- Preço e claims confirmados via screenshot da página real; SKU e URL exata ainda pendentes
+- Preço e claims confirmados via screenshot da página real; SKU ainda pendente (URL confirmada)

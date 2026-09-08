@@ -16,15 +16,15 @@ handles:
 
 Linha de **lapiseira retrátil para sobrancelhas** LF PRO — **produto real, já publicado no site** (confirmado via screenshot da página em 2026-09-08). 3 tons: Light, Medium, Dark.
 
-## ⚠️ Pendências restantes (não inventar)
+## ⚠️ Pendência restante (não inventar)
 
 - **SKU:** ainda não confirmado — não aparece no site nem nos nomes de arquivo da pasta do Drive. Pendente.
-- **URL exata:** não confirmada. Provável padrão `https://lfpro.com.br/products/sculpt-brow-{light|medium|dark}` — **não usar até confirmação**.
 
 ## ✅ Resolvido (2026-09-08)
 
 - **Nomes dos tons:** Light, Medium, Dark
 - **Preço:** R$ 89,90 (mesmo nos 3 tons) — confirmado via screenshot da página real
+- **URL:** confirmada pelo usuário — `https://lfpro.com.br/products/sculpt-brow-{light|medium|dark}`
 - **Claims:** descrição completa, ativos, FAQ "como escolher minha cor" — confirmado via screenshot (ver seção Claims)
 - **Mecanismo do produto:** é uma **lapiseira retrátil** (twist-up) com ponta chanfrada de dupla função — corrigido via screenshot (não é lápis de madeira apontável)
 - **"JC" no packaging:** não existe — legenda automática do Magnific leu errado o monograma LF
@@ -110,12 +110,12 @@ LF PRO Sculpt Brow retractable eyebrow pencil identity lock: slim cylindrical tw
 - Redesenhar formato da lapiseira, cor do corpo ou lettering
 - Tratar como lápis de madeira apontável (é retrátil/twist-up)
 - Trocar hex entre tons
-- Inventar SKU ou URL exata
+- Inventar SKU
 - Assumir/afirmar collab "JC" (não existe)
 - Full-face proof (T5 bloqueado)
 
 ## Notas V1
 
-- Cadastro fechado com dados reais: preço, claims, mecanismo, guia de cor (screenshot da página) + packshot local e hex por tom (pasta do Drive)
-- Só falta: SKU e URL exata do produto
+- Cadastro fechado com dados reais: preço, URL, claims, mecanismo, guia de cor (screenshot + confirmação do usuário) + packshot local e hex por tom (pasta do Drive)
+- Só falta: SKU
 - 3 modelos (`sculpt-brow-modelo-{light,medium,dark}`) e o library product asset `@sculpt-brow-pencil` já cadastrados no Magnific
