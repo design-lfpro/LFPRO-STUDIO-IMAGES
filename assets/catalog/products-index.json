@@ -10009,5 +10009,617 @@
     ],
     "body_text": "O Gel de Limpeza LF PRO foi desenvolvido para elevar sua rotina de cuidados com a pele. Ideal para a limpeza do rosto e remoção de maquiagem, ele proporciona uma higienização suave, sem danificar sua pele. Nossa fórmula exclusiva foi projetada para retirar as impurezas profundamente, ao mesmo tempo em que preserva a barreira protetora natural da pele, proporcionando uma limpeza eficaz e gentil. Após cada aplicação, você sentirá a pele mais suave e revitalizada, acompanhada por uma sensação de frescor e bem-estar, que transformará seu conceito de skincare. Torne a limpeza diária do seu rosto uma experiência de luxo, com nosso Gel de Limpeza Facial, e descubra como é simples conquistar uma pele radiante e saudável! Conheça os principais ativos: Ácido Hialurônico: hidrata e aumenta a viçosidade e a elasticidade da pele Óleo de Coco: atua na hidratação da pele Extrato de Aloe Vera: hidrata, acalma e regenera a pele Poliquatérnio: preserva a barreira protetora da pele Peso líquido: 120 g Dermatologicamente testado Produto Vegano, Sem Parabenos e Cruelty Free *A cor pode variar de acordo com as configurações do monitor",
     "url": "https://lfpro.com.br/products/gel-de-limpeza-facial"
+  },
+  {
+    "id": 10365514088728,
+    "handle": "sculpt-brow-dark",
+    "title": "Sculpt Brow Dark - Lapiseira para Sobrancelhas",
+    "product_type": "Sobrancelha",
+    "vendor": "LF PRO ",
+    "tags": "brow, dark, escuro, lapis para sobrancelha, lapis para sobrancelhas, lapis sobrancelha, lapiseira, lapiseira para sobrancelhas, lapiseira retratil, lapiseira sobrancelhas, maquiagem, retrátil, sculpt, sculpt brow, sobrancelha",
+    "status": "active",
+    "variants_count": 1,
+    "variants": [
+      {
+        "id": 52476801581336,
+        "title": "Default Title",
+        "sku": "12768",
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": null
+      }
+    ],
+    "options": [
+      {
+        "id": 12958986371352,
+        "product_id": 10365514088728,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images_count": 14,
+    "images": [
+      {
+        "id": 53745628119320,
+        "product_id": 10365514088728,
+        "position": 1,
+        "created_at": "2026-08-10T15:03:05-03:00",
+        "updated_at": "2026-08-10T15:03:06-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPTBROWDARKPRODUTO.png?v=1786384986",
+        "variant_ids": []
+      },
+      {
+        "id": 53756339421464,
+        "product_id": 10365514088728,
+        "position": 2,
+        "created_at": "2026-08-12T14:25:08-03:00",
+        "updated_at": "2026-08-12T14:25:10-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-dark-modelo.png?v=1786555510",
+        "variant_ids": []
+      },
+      {
+        "id": 53756342010136,
+        "product_id": 10365514088728,
+        "position": 3,
+        "created_at": "2026-08-12T14:25:32-03:00",
+        "updated_at": "2026-08-12T14:25:33-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Dark-Antes-Depois.png?v=1786555533",
+        "variant_ids": []
+      },
+      {
+        "id": 53756337881368,
+        "product_id": 10365514088728,
+        "position": 4,
+        "created_at": "2026-08-12T14:24:25-03:00",
+        "updated_at": "2026-08-12T14:24:26-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Ponta-Chanfrada.png?v=1786555466",
+        "variant_ids": []
+      },
+      {
+        "id": 53756341813528,
+        "product_id": 10365514088728,
+        "position": 5,
+        "created_at": "2026-08-12T14:25:25-03:00",
+        "updated_at": "2026-08-12T14:25:26-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-dark-textura.png?v=1786555526",
+        "variant_ids": []
+      },
+      {
+        "id": 53745880334616,
+        "product_id": 10365514088728,
+        "position": 6,
+        "created_at": "2026-08-10T16:38:18-03:00",
+        "updated_at": "2026-08-10T16:38:20-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPT_BROW_DARK_CHANFRADO.png?v=1786390700",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338536728,
+        "product_id": 10365514088728,
+        "position": 7,
+        "created_at": "2026-08-12T14:24:36-03:00",
+        "updated_at": "2026-08-12T14:24:38-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Ativos.png?v=1786555478",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338897176,
+        "product_id": 10365514088728,
+        "position": 8,
+        "created_at": "2026-08-12T14:24:46-03:00",
+        "updated_at": "2026-08-12T14:24:48-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-texturas.png?v=1786555488",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338471192,
+        "product_id": 10365514088728,
+        "position": 9,
+        "created_at": "2026-08-12T14:24:35-03:00",
+        "updated_at": "2026-08-12T14:24:37-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-diferenciais.png?v=1786555477",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338766104,
+        "product_id": 10365514088728,
+        "position": 10,
+        "created_at": "2026-08-12T14:24:40-03:00",
+        "updated_at": "2026-08-12T14:24:41-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Dark-modelos.png?v=1786555481",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338864408,
+        "product_id": 10365514088728,
+        "position": 11,
+        "created_at": "2026-08-12T14:24:44-03:00",
+        "updated_at": "2026-08-12T14:24:46-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-03-tons.png?v=1786555486",
+        "variant_ids": []
+      },
+      {
+        "id": 53756346958104,
+        "product_id": 10365514088728,
+        "position": 12,
+        "created_at": "2026-08-12T14:26:20-03:00",
+        "updated_at": "2026-08-12T14:26:21-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Dark-2.png?v=1786555581",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338929944,
+        "product_id": 10365514088728,
+        "position": 13,
+        "created_at": "2026-08-12T14:24:50-03:00",
+        "updated_at": "2026-08-12T14:24:52-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-remodela.png?v=1786555492",
+        "variant_ids": []
+      },
+      {
+        "id": 53756347089176,
+        "product_id": 10365514088728,
+        "position": 14,
+        "created_at": "2026-08-12T14:26:21-03:00",
+        "updated_at": "2026-08-12T14:26:23-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow.png?v=1786555583",
+        "variant_ids": []
+      }
+    ],
+    "body_text": "O destaque do seu olhar está nos detalhes A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos. Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: criar traços delicados com efeito fio a fio ou preencher as sobrancelhas para uma definição mais uniforme e intensa . A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para desenhar e preencher. Com longa duração, resistência e fórmula que não transfere, permite construir a intensidade aos poucos para alcançar desde uma definição suave até um resultado mais marcado, sempre preservando a naturalidade. Disponível em 3 tons estratégicos de subtom frio , adapta-se a diferentes cores de cabelo e níveis de contraste, evitando aquele aspecto excessivamente quente ou artificial. O resultado são sobrancelhas naturalmente definidas, equilibradas e expressivas, capazes de transformar todo o olhar. O que torna a Sculpt Brow única Ponta chanfrada de dupla função: permite criar efeito fio a fio ou preencher e definir as sobrancelhas. Você escolhe o acabamento de acordo com o resultado que deseja. Acabamento natural: intensidade construível para preencher exatamente onde precisa, sem deixar a sobrancelha pesada ou artificial. Performance de longa duração: fórmula resistente, que não transfere e mantém a definição com acabamento mate natural ao longo do dia. Aplicação fácil e precisa: textura macia para deslizar e firme na medida certa para desenhar com controle. Ativos de alta performance Óleo de Mamona: hidrata e nutre os fios, garantindo maciez e conforto durante e após o uso. Vitamina E: antioxidante que protege os fios e a pele da sobrancelha do ressecamento. Vitamina C: protege a fórmula e os fios sem ressecar, mais um cuidado que vai além da maquiagem. Fórmula Anidra: sem água na composição, o que garante maior estabilidade, durabilidade e resistência ao longo do dia.",
+    "url": "https://lfpro.com.br/products/sculpt-brow-dark"
+  },
+  {
+    "id": 10365514055960,
+    "handle": "sculpt-brow-light",
+    "title": "Sculpt Brow Light - Lapiseira para Sobrancelhas",
+    "product_type": "Sobrancelha",
+    "vendor": "LF PRO ",
+    "tags": "brow, claro, lapis para sobrancelha, lapis para sobrancelhas, lapis sobrancelha, lapiseira, lapiseira para sobrancelhas, lapiseira retratil, lapiseira sobrancelhas, light, maquiagem, retrátil, sculpt, sculpt brow, sobrancelha",
+    "status": "active",
+    "variants_count": 1,
+    "variants": [
+      {
+        "id": 52476801548568,
+        "title": "Default Title",
+        "sku": "12766",
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": null
+      }
+    ],
+    "options": [
+      {
+        "id": 12958986338584,
+        "product_id": 10365514055960,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images_count": 14,
+    "images": [
+      {
+        "id": 53730759672088,
+        "product_id": 10365514055960,
+        "position": 1,
+        "created_at": "2026-08-07T11:46:47-03:00",
+        "updated_at": "2026-08-07T11:46:48-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPTBROWLIGHTPRODUTO.png?v=1786114008",
+        "variant_ids": []
+      },
+      {
+        "id": 53756339192088,
+        "product_id": 10365514055960,
+        "position": 2,
+        "created_at": "2026-08-12T14:25:04-03:00",
+        "updated_at": "2026-08-12T14:25:06-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-light-modelo.png?v=1786555506",
+        "variant_ids": []
+      },
+      {
+        "id": 53756341879064,
+        "product_id": 10365514055960,
+        "position": 3,
+        "created_at": "2026-08-12T14:25:29-03:00",
+        "updated_at": "2026-08-12T14:25:31-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Light-Antes-Depois.png?v=1786555531",
+        "variant_ids": []
+      },
+      {
+        "id": 53756337881368,
+        "product_id": 10365514055960,
+        "position": 4,
+        "created_at": "2026-08-12T14:24:25-03:00",
+        "updated_at": "2026-08-12T14:24:26-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Ponta-Chanfrada.png?v=1786555466",
+        "variant_ids": []
+      },
+      {
+        "id": 53756341682456,
+        "product_id": 10365514055960,
+        "position": 5,
+        "created_at": "2026-08-12T14:25:22-03:00",
+        "updated_at": "2026-08-12T14:25:24-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-light-textura.png?v=1786555524",
+        "variant_ids": []
+      },
+      {
+        "id": 53730759737624,
+        "product_id": 10365514055960,
+        "position": 6,
+        "created_at": "2026-08-07T11:46:50-03:00",
+        "updated_at": "2026-08-07T11:46:51-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPTBROWLIGHTCHANFRADO.png?v=1786114011",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338536728,
+        "product_id": 10365514055960,
+        "position": 7,
+        "created_at": "2026-08-12T14:24:36-03:00",
+        "updated_at": "2026-08-12T14:24:38-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Ativos.png?v=1786555478",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338897176,
+        "product_id": 10365514055960,
+        "position": 8,
+        "created_at": "2026-08-12T14:24:46-03:00",
+        "updated_at": "2026-08-12T14:24:48-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-texturas.png?v=1786555488",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338471192,
+        "product_id": 10365514055960,
+        "position": 9,
+        "created_at": "2026-08-12T14:24:35-03:00",
+        "updated_at": "2026-08-12T14:24:37-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-diferenciais.png?v=1786555477",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338766104,
+        "product_id": 10365514055960,
+        "position": 10,
+        "created_at": "2026-08-12T14:24:40-03:00",
+        "updated_at": "2026-08-12T14:24:41-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Dark-modelos.png?v=1786555481",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338864408,
+        "product_id": 10365514055960,
+        "position": 11,
+        "created_at": "2026-08-12T14:24:44-03:00",
+        "updated_at": "2026-08-12T14:24:46-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-03-tons.png?v=1786555486",
+        "variant_ids": []
+      },
+      {
+        "id": 53756346892568,
+        "product_id": 10365514055960,
+        "position": 12,
+        "created_at": "2026-08-12T14:26:17-03:00",
+        "updated_at": "2026-08-12T14:26:18-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-light-2.png?v=1786555578",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338929944,
+        "product_id": 10365514055960,
+        "position": 13,
+        "created_at": "2026-08-12T14:24:50-03:00",
+        "updated_at": "2026-08-12T14:24:52-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-remodela.png?v=1786555492",
+        "variant_ids": []
+      },
+      {
+        "id": 53756347089176,
+        "product_id": 10365514055960,
+        "position": 14,
+        "created_at": "2026-08-12T14:26:21-03:00",
+        "updated_at": "2026-08-12T14:26:23-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow.png?v=1786555583",
+        "variant_ids": []
+      }
+    ],
+    "body_text": "O destaque do seu olhar está nos detalhes A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos. Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: criar traços delicados com efeito fio a fio ou preencher as sobrancelhas para uma definição mais uniforme e intensa . A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para desenhar e preencher. Com longa duração, resistência e fórmula que não transfere, permite construir a intensidade aos poucos para alcançar desde uma definição suave até um resultado mais marcado, sempre preservando a naturalidade. Disponível em 3 tons estratégicos de subtom frio , adapta-se a diferentes cores de cabelo e níveis de contraste, evitando aquele aspecto excessivamente quente ou artificial. O resultado são sobrancelhas naturalmente definidas, equilibradas e expressivas, capazes de transformar todo o olhar. O que torna a Sculpt Brow única Ponta chanfrada de dupla função: permite criar efeito fio a fio ou preencher e definir as sobrancelhas. Você escolhe o acabamento de acordo com o resultado que deseja. Acabamento natural: intensidade construível para preencher exatamente onde precisa, sem deixar a sobrancelha pesada ou artificial. Performance de longa duração: fórmula resistente, que não transfere e mantém a definição com acabamento mate natural ao longo do dia. Aplicação fácil e precisa: textura macia para deslizar e firme na medida certa para desenhar com controle. Ativos de alta performance Óleo de Mamona: hidrata e nutre os fios, garantindo maciez e conforto durante e após o uso. Vitamina E: antioxidante que protege os fios e a pele da sobrancelha do ressecamento. Vitamina C: protege a fórmula e os fios sem ressecar, mais um cuidado que vai além da maquiagem. Fórmula Anidra: sem água na composição, o que garante maior estabilidade, durabilidade e resistência ao longo do dia.",
+    "url": "https://lfpro.com.br/products/sculpt-brow-light"
+  },
+  {
+    "id": 10365514023192,
+    "handle": "sculpt-brow-medium",
+    "title": "Sculpt Brow Medium - Lapiseira para Sobrancelhas",
+    "product_type": "Sobrancelha",
+    "vendor": "LF PRO ",
+    "tags": "brow, lapis para sobrancelha, lapis para sobrancelhas, lapis sobrancelha, lapiseira, lapiseira para sobrancelhas, lapiseira retratil, lapiseira sobrancelhas, maquiagem, medio, medium, retrátil, sculpt, sculpt brow, sobrancelha",
+    "status": "active",
+    "variants_count": 1,
+    "variants": [
+      {
+        "id": 52476801515800,
+        "title": "Default Title",
+        "sku": "12767",
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": null
+      }
+    ],
+    "options": [
+      {
+        "id": 12958986305816,
+        "product_id": 10365514023192,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images_count": 14,
+    "images": [
+      {
+        "id": 53745602658584,
+        "product_id": 10365514023192,
+        "position": 1,
+        "created_at": "2026-08-10T14:42:14-03:00",
+        "updated_at": "2026-08-10T14:42:15-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPTBROWMEDIUMPRODUTO.png?v=1786383735",
+        "variant_ids": []
+      },
+      {
+        "id": 53756339355928,
+        "product_id": 10365514023192,
+        "position": 2,
+        "created_at": "2026-08-12T14:25:06-03:00",
+        "updated_at": "2026-08-12T14:25:08-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-medium-modelo.png?v=1786555508",
+        "variant_ids": []
+      },
+      {
+        "id": 53756341944600,
+        "product_id": 10365514023192,
+        "position": 3,
+        "created_at": "2026-08-12T14:25:30-03:00",
+        "updated_at": "2026-08-12T14:25:32-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Medium-Antes-Depois.png?v=1786555532",
+        "variant_ids": []
+      },
+      {
+        "id": 53756337881368,
+        "product_id": 10365514023192,
+        "position": 4,
+        "created_at": "2026-08-12T14:24:25-03:00",
+        "updated_at": "2026-08-12T14:24:26-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Ponta-Chanfrada.png?v=1786555466",
+        "variant_ids": []
+      },
+      {
+        "id": 53756341747992,
+        "product_id": 10365514023192,
+        "position": 5,
+        "created_at": "2026-08-12T14:25:24-03:00",
+        "updated_at": "2026-08-12T14:25:25-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-medium-textura.png?v=1786555525",
+        "variant_ids": []
+      },
+      {
+        "id": 53745602724120,
+        "product_id": 10365514023192,
+        "position": 6,
+        "created_at": "2026-08-10T14:42:17-03:00",
+        "updated_at": "2026-08-10T14:42:18-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPTBROWMEDIUMCHANFRADO.png?v=1786383738",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338536728,
+        "product_id": 10365514023192,
+        "position": 7,
+        "created_at": "2026-08-12T14:24:36-03:00",
+        "updated_at": "2026-08-12T14:24:38-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Ativos.png?v=1786555478",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338897176,
+        "product_id": 10365514023192,
+        "position": 8,
+        "created_at": "2026-08-12T14:24:46-03:00",
+        "updated_at": "2026-08-12T14:24:48-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-texturas.png?v=1786555488",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338471192,
+        "product_id": 10365514023192,
+        "position": 9,
+        "created_at": "2026-08-12T14:24:35-03:00",
+        "updated_at": "2026-08-12T14:24:37-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-diferenciais.png?v=1786555477",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338766104,
+        "product_id": 10365514023192,
+        "position": 10,
+        "created_at": "2026-08-12T14:24:40-03:00",
+        "updated_at": "2026-08-12T14:24:41-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Dark-modelos.png?v=1786555481",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338864408,
+        "product_id": 10365514023192,
+        "position": 11,
+        "created_at": "2026-08-12T14:24:44-03:00",
+        "updated_at": "2026-08-12T14:24:46-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-03-tons.png?v=1786555486",
+        "variant_ids": []
+      },
+      {
+        "id": 53756346925336,
+        "product_id": 10365514023192,
+        "position": 12,
+        "created_at": "2026-08-12T14:26:17-03:00",
+        "updated_at": "2026-08-12T14:26:19-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-Medium-2.png?v=1786555579",
+        "variant_ids": []
+      },
+      {
+        "id": 53756338929944,
+        "product_id": 10365514023192,
+        "position": 13,
+        "created_at": "2026-08-12T14:24:50-03:00",
+        "updated_at": "2026-08-12T14:24:52-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow-remodela.png?v=1786555492",
+        "variant_ids": []
+      },
+      {
+        "id": 53756347089176,
+        "product_id": 10365514023192,
+        "position": 14,
+        "created_at": "2026-08-12T14:26:21-03:00",
+        "updated_at": "2026-08-12T14:26:23-03:00",
+        "alt": null,
+        "width": 1600,
+        "height": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/Sculpt-Brow.png?v=1786555583",
+        "variant_ids": []
+      }
+    ],
+    "body_text": "O destaque do seu olhar está nos detalhes A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos. Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: criar traços delicados com efeito fio a fio ou preencher as sobrancelhas para uma definição mais uniforme e intensa . A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para desenhar e preencher. Com longa duração, resistência e fórmula que não transfere, permite construir a intensidade aos poucos para alcançar desde uma definição suave até um resultado mais marcado, sempre preservando a naturalidade. Disponível em 3 tons estratégicos de subtom frio , adapta-se a diferentes cores de cabelo e níveis de contraste, evitando aquele aspecto excessivamente quente ou artificial. O resultado são sobrancelhas naturalmente definidas, equilibradas e expressivas, capazes de transformar todo o olhar. O que torna a Sculpt Brow única Ponta chanfrada de dupla função: permite criar efeito fio a fio ou preencher e definir as sobrancelhas. Você escolhe o acabamento de acordo com o resultado que deseja. Acabamento natural: intensidade construível para preencher exatamente onde precisa, sem deixar a sobrancelha pesada ou artificial. Performance de longa duração: fórmula resistente, que não transfere e mantém a definição com acabamento mate natural ao longo do dia. Aplicação fácil e precisa: textura macia para deslizar e firme na medida certa para desenhar com controle. Ativos de alta performance Óleo de Mamona: hidrata e nutre os fios, garantindo maciez e conforto durante e após o uso. Vitamina E: antioxidante que protege os fios e a pele da sobrancelha do ressecamento. Vitamina C: protege a fórmula e os fios sem ressecar, mais um cuidado que vai além da maquiagem. Fórmula Anidra: sem água na composição, o que garante maior estabilidade, durabilidade e resistência ao longo do dia.",
+    "url": "https://lfpro.com.br/products/sculpt-brow-medium"
   }
 ]

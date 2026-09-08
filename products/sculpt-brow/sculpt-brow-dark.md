@@ -3,13 +3,16 @@ handle: sculpt-brow-dark
 title: "Sculpt Brow Dark"
 family: sculpt-brow
 product_type: "Lapiseira para Sobrancelha"
-url: "pending-launch-2026-09-09"
+url: "https://lfpro.com.br/products/sculpt-brow-dark"
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
-status: dna-v1-pre-launch
+status: dna-v1
 launch_date: 2026-09-09
 assets_local: assets/products/sculpt-brow-dark/
 shade: Dark
+shopify_id: 10365514088728
+shopify_sku: "12768"
+price_brl: "89.90"
 ---
 
 # Sculpt Brow Dark
