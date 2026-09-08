@@ -1,8 +1,9 @@
 ---
 family: sculpt-brow
 title: Sculpt Brow
-product_type: Lápis para Sobrancelha
-status: novo-produto-pendente-cadastro
+product_type: Lapiseira Retrátil para Sobrancelhas
+price: "89.90"
+status: dna-v1-parcial
 preferred_tracks: [T1-product-hero, T4-model-portrait]
 blocked_tracks: [T5-face-proof]
 handles:
@@ -13,22 +14,26 @@ handles:
 
 # Sculpt Brow — DNA de família
 
-Linha de **lápis para sobrancelha** LF PRO. **Produto novo — sem ficha/catálogo prévio neste repo.** Catalogado a partir de fotos reais já enviadas anteriormente ao Magnific (uploads do usuário, projeto "SOCIAL MEDIA"), não a partir de Drive nesta sessão.
+Linha de **lapiseira retrátil para sobrancelhas** LF PRO — **produto real, já publicado no site** (confirmado via screenshot da página em 2026-09-08). 3 tons: Light, Medium, Dark.
 
-## ⚠️ Pendências desta cadastro (não inventar)
+## ⚠️ Pendências (não inventar)
 
-- **Nomes oficiais dos tons — CONFIRMADO (2026-09-08):** ​**Light, Medium, Dark**.
-- **SKU e preço:** não encontrados — produto não está no catálogo Shopify (`assets/catalog/products-index.json`) nem tem página no site.
-- **"JC" no packaging — RESOLVIDO (2026-09-08):** usuário confirmou que "JC" **não existe** no produto real — a legenda automática do Magnific na foto `SCULPT BROW DIVERSAS 04` leu errado o **monograma LF** (logo da marca) como se fosse texto "JC". É o logo LF de sempre, não uma collab. Removida a suposição de collab.
-- **Packshot binário:** os arquivos de referência estão hospedados no Magnific (uploads do usuário), mas esta sessão não conseguiu baixar o binário para `assets/products/` (host `pikaso.cdnpk.net` bloqueado pela política de rede do sandbox — mesma limitação de outras sessões). Os links `webUrl` abaixo servem como referência até o usuário reenviar as fotos via Google Drive (mesmo fluxo usado para Essential Lips) para publicarmos o arquivo local oficial.
+- **Nomes oficiais dos tons — CONFIRMADO:** ​**Light, Medium, Dark**.
+- **Preço — CONFIRMADO via screenshot da página real:** R$ 89,90 (mesmo preço nos 3 tons — visto no seletor de cor do Medium e nos produtos relacionados Dark/Light).
+- **Claims — CONFIRMADO via screenshot** (descrição completa, ativos, FAQ "como escolher minha cor") — ver seção Claims abaixo.
+- **Mecanismo do produto — CORRIGIDO via screenshot:** é uma **lapiseira retrátil** (twist-up), não um lápis de madeira apontável como eu tinha registrado antes. Ponta chanfrada de dupla função (fio a fio ou preenchimento).
+- **SKU:** ainda não confirmado — não aparece no screenshot da página (site não exibe SKU publicamente). Pendente.
+- **URL exata:** não capturada no screenshot (sem barra de endereço visível). Provável padrão `https://lfpro.com.br/products/sculpt-brow-{light|medium|dark}` — **não confirmado, não usar até o usuário confirmar o slug real**.
+- **"JC" no packaging — RESOLVIDO:** usuário confirmou que "JC" **não existe** no produto real — a legenda automática do Magnific na foto `SCULPT BROW DIVERSAS 04` leu errado o **monograma LF** (logo da marca) como se fosse texto "JC". É o logo LF de sempre, não uma collab.
+- **Packshot binário:** os arquivos de referência estão hospedados no Magnific (uploads do usuário), mas esta sessão não conseguiu baixar o binário para `assets/products/` (host `pikaso.cdnpk.net` bloqueado pela política de rede do sandbox). O site oficial (`lfpro.com.br`) também está bloqueado para fetch direto nesta sessão. Os links `webUrl` abaixo servem como referência até o usuário reenviar as fotos via Google Drive (mesmo fluxo usado para Essential Lips) para publicarmos o arquivo local oficial + SKU + URL exata.
 
 ## Packaging (lock visual) — NUNCA redesenhar
 
 | Elemento | Lock |
 |----------|------|
-| **Corpo** | Lápis fino, cilíndrico, casing preto matte |
+| **Formato** | **Lapiseira retrátil** (twist-up), corpo fino cilíndrico, casing preto matte — não é lápis de madeira apontável |
 | **Logo/texto** | Lettering gold foil `SCULPT BROW` ao longo do corpo |
-| **Ponta** | Afiada, revela o pigmento colorido do tom (marrom/grafite/bege conforme o tom) |
+| **Ponta** | **Chanfrada de dupla função** (dual-angled tip) — permite traço fio a fio ou preenchimento; revela o pigmento colorido do tom |
 | **Fundo referência** | Bege/branco, still de estúdio |
 
 ## Tons — Light, Medium, Dark (confirmado pelo usuário)
@@ -68,24 +73,50 @@ Linha de **lápis para sobrancelha** LF PRO. **Produto novo — sem ficha/catál
 
 - `@sculpt-brow-pencil` (id 2262864) — criado a partir de `vumR99ca47`
 
-## Claims (site — sem inventar)
+## Claims (site — confirmado via screenshot da página real, 2026-09-08)
 
-- **Nenhum claim oficial disponível** — produto sem página publicada, sem body_text
+**Descrição:**
+- "O destaque do seu olhar está nos detalhes."
+- "A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos."
+- "Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: criar traços delicados com efeito fio a fio ou preencher as sobrancelhas para uma definição mais uniforme ou intensa."
+- "A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para desenhar com naturalidade."
+- "Com longa duração, resistência e fórmula que não transfere, permite retomar e intensificar aos poucos para alcançar desde uma definição suave até um resultado mais marcado, sempre preservando a naturalidade."
+- "Disponível em 3 tons estratégicos de subtom frio, adaptados a diferentes tons de cabelo e nível de contraste."
+- "O resultado são sobrancelhas naturalmente definidas, equilibradas e expressivas, capazes de transformar todo o olhar."
+
+**O que torna a Sculpt Brow única:**
+- Ponta chanfrada de dupla função: efeito fio a fio ou preenchimento/definição, à escolha
+- Acabamento natural: intensidade construível, sem aspecto pesado ou artificial
+- Performance de longa duração: fórmula resistente, não transfere, acabamento matte o dia todo
+- Aplicação fácil e precisa: textura macia para deslizar, firme para desenhar com controle
+
+**Ativos de alta performance:**
+- Óleo de Mamona: hidrata e nutre os fios
+- Vitamina E: antioxidante, protege fios e pele da sobrancelha do ressecamento
+- Vitamina C: protege a fórmula
+- Fórmula Anidra: sem água na composição — maior estabilidade, durabilidade e resistência
+
+**Como escolher sua cor (FAQ do site):**
+> "Observe principalmente a cor dos cabelos, o subtom e o contraste da sobrancelha. Light é indicada para tons claros e baixo contraste, Medium para tons médios e médio contraste e Dark para tons escuros e alto contraste."
+
+Isso confirma o pareamento correto para T4 (model portrait): modelo de cabelo/pele clara → Light; médio → Medium; escuro → Dark. Já bate com os 3 library assets `sculpt-brow-modelo-{light,medium,dark}` já cadastrados no Magnific.
 
 ## Prompt anchors (EN) — família
 
 ```
-LF PRO Sculpt Brow eyebrow pencil identity lock: slim cylindrical pencil, matte black casing, gold foil lettering "SCULPT BROW" along the barrel, sharpened tip revealing pigment color, off-white or beige studio background, photorealistic product photo, no redesign of shape or logo, exact tip color per shade.
+LF PRO Sculpt Brow retractable eyebrow pencil identity lock: slim cylindrical twist-up mechanical pencil, matte black casing, gold foil lettering "SCULPT BROW" along the barrel, dual-angled chiseled tip revealing pigment color, off-white or beige studio background, photorealistic product photo, no redesign of shape or logo, exact tip color per shade.
 ```
 
 ## Anti-patterns
 
-- Redesenhar formato do lápis, cor do corpo ou lettering
-- Inventar nomes de tons, SKU ou preço
-- Assumir/afirmar collab "JC" sem confirmação
+- Redesenhar formato da lapiseira, cor do corpo ou lettering
+- Tratar como lápis de madeira apontável (é retrátil/twist-up)
+- Inventar SKU ou URL exata
+- Assumir/afirmar collab "JC" (não existe)
 - Full-face proof (T5 bloqueado)
 
 ## Notas V1
 
-- Cadastro iniciado a partir de imagens já existentes no Magnific (não desta sessão) — sem arquivo físico ainda em `assets/products/sculpt-brow/`
-- Próximo passo sugerido: usuário reenviar fotos oficiais via Drive (com nomes de tom no arquivo, como foi feito com Essential Lips) para completar o cadastro com packshot local + hex reais + nomes de tom confirmados
+- Cadastro complementado com dados reais da página do produto (screenshot, 2026-09-08): preço, claims completos, mecanismo correto, guia de escolha de cor
+- Ainda faltam: SKU, URL exata, packshot local (`assets/products/sculpt-brow-{tom}/`), hex reais por tom
+- Próximo passo: usuário enviar link da pasta do Drive com as fotos oficiais (nomeadas por tom) para fechar isso
