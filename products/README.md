@@ -12,6 +12,7 @@ Cada família tem `_family.md` (packaging compartilhado) + um `.md` por `handle`
 | po-soft-finish | 5 | `po-soft-finish/` |
 | classic-lips | 6 | `classic-lips/` |
 | essential-lips | 8 (pré-lançamento 09/09) | `essential-lips/` |
+| sculpt-brow | 3 (lançamento recente, ainda fora do catálogo mestre) | `sculpt-brow/` |
 | lip-combo | 6 | `lip-combo/` |
 | cream-color | 8 | `cream-color/` |
 | kit-cream-color | 6+ | `kit-cream-color/` |
