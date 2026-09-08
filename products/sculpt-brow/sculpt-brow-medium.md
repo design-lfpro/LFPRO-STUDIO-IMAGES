@@ -9,7 +9,7 @@ shade: Medium
 role: lápis para sobrancelha
 status: dna-v1-parcial
 url: null
-packshot: null
+packshot: assets/products/sculpt-brow-medium/01.png
 assets_dir: assets/products/sculpt-brow-medium/
 v1_tracks: [T1-product-hero, T4-model-portrait]
 blocked_tracks: [T5-face-proof]
@@ -19,22 +19,25 @@ blocked_tracks: [T5-face-proof]
 
 Lapiseira retrátil para sobrancelhas LF PRO — tom **Medium**. Ver DNA: [[_family|Sculpt Brow]].
 
-**Produto real, já publicado no site (R$ 89,90 confirmado via screenshot) — packshot local e SKU ainda pendentes.** Não inventar.
+**Produto real, já publicado no site (R$ 89,90).** Packshot local publicado a partir do Drive. SKU e URL exata ainda pendentes. Não inventar.
 
 ## Packaging lock
 
 - **Lapiseira retrátil** (twist-up), corpo fino cilíndrico, casing preto matte — não é lápis de madeira apontável
 - Lettering gold foil `SCULPT BROW` ao longo do corpo
-- Ponta chanfrada de dupla função (fio a fio ou preenchimento) revela pigmento castanho médio
+- Ponta chanfrada de dupla função (fio a fio ou preenchimento) revela pigmento castanho acinzentado / taupe (hex aprox. `#655C5A`)
 - Fundo referência: bege/branco
 
-## ⚠️ Sem still de produto isolado confirmado
+## Cor (hex aproximado — packshot real)
 
-Só temos uma foto de modelo (aplicando/tocando a sobrancelha) com o nome de arquivo confirmando este tom — não há packshot do lápis sozinho identificado para Medium ainda.
+| Elemento | Hex aprox. | Descrição |
+|----------|------------|-----------|
+| **Ponta/pigmento** | `#655C5A` | castanho acinzentado / taupe |
 
 ## Referência real
 
-- Modelo, foco na sobrancelha (nome do arquivo confirma o tom): https://www.magnific.com/app/creation/rglYYXtxtc
+- Packshot oficial: `assets/products/sculpt-brow-medium/01.png` (fonte: Drive, pasta FOTO PRODUTO)
+- Magnific: https://www.magnific.com/app/creation/rglYYXtxtc
 
 ## Claims (site — confirmado via screenshot, 2026-09-08)
 
@@ -45,7 +48,7 @@ Mesma descrição/ativos da família — ver [[_family|Sculpt Brow]] para o text
 ### T1 — product hero
 
 ```
-LF PRO Sculpt Brow Medium eyebrow pencil, slim cylindrical twist-up mechanical pencil, matte black casing, gold foil lettering "SCULPT BROW" along the barrel, dual-angled chiseled tip revealing medium brown pigment, off-white or beige studio background, soft light, photorealistic ecommerce product photo, exact pencil shape and logo, no redesign
+LF PRO Sculpt Brow Medium eyebrow pencil, slim cylindrical twist-up mechanical pencil, matte black casing, gold foil lettering "SCULPT BROW" along the barrel, dual-angled chiseled tip revealing cool taupe-brown pigment (#655C5A), off-white or beige studio background, soft light, photorealistic ecommerce product photo, exact pencil shape and logo, no redesign
 ```
 
 ### T4 — model portrait
@@ -68,6 +71,5 @@ Beauty portrait of a medium-skinned model touching/framing her eyebrow, well-gro
 
 ## Notas V1
 
-- 0 assets locais ainda — packshot pendente de reenvio via Drive
-- Preço e claims confirmados via screenshot da página real (2026-09-08); SKU e URL exata ainda pendentes
-- Falta still de produto isolado para este tom
+- Packshot local publicado (`01.png`), fonte: Drive pasta FOTO PRODUTO
+- Preço e claims confirmados via screenshot da página real; SKU e URL exata ainda pendentes
