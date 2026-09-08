@@ -4,8 +4,8 @@ title: Sculpt Brow Dark
 family: sculpt-brow
 product_type: Lapiseira retrátil para sobrancelhas
 sku: null
-price: null
-url: null
+price: "89.90"
+url: https://lfpro.com.br/products/sculpt-brow-dark
 status: dna-v1
 assets_local: assets/products/sculpt-brow-dark/
 shade: Dark

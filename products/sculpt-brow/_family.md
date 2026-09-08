@@ -37,9 +37,16 @@ Sem sessão de campanha própria ainda rodada nesta pasta — **seguir o padrão
 
 ## Fórmula / diferenciais
 
-- **Fórmula anidra** (sem água) — "clean beauty": 100% vegana, sem fragrância, sem conservantes.
-- **Óleo de Mamona**: hidrata, promove maciez.
-- **Vitamina E**: ação antioxidante e proteção.
+- **Fórmula anidra** (sem água) — "clean beauty": 100% vegana, sem fragrância, sem conservantes. Sem água na composição garante maior estabilidade, durabilidade e resistência ao longo do dia.
+- **Óleo de Mamona**: hidrata e nutre os fios, garantindo maciez e conforto durante o uso.
+- **Vitamina E**: ação antioxidante, protege os fios e a pele da sobrancelha do ressecamento.
+- **Vitamina C** (confirmado na página de venda, não estava no material de lançamento original): protege a fórmula e os fios sem ressecar.
+
+## Preço e link (confirmado — página de venda, 03/09)
+
+R$ 89,90 (à vista/1x sem juros) — mesmo preço nos 3 tons. Páginas: `lfpro.com.br/products/sculpt-brow-{light,medium,dark}`.
+
+**Catálogo JSON:** os 3 SKUs já foram adicionados em `assets/catalog/{families,products-index,products-full,claims-slim,download-manifest}.json`, no mesmo formato dos outros 91 SKUs — mas com `id`/`sku` do Shopify como `null` (não confirmados; o site está bloqueado pra fetch automático nesta sessão) e imagens apontando pro packshot local do repo, não pro CDN Shopify real. Cada entrada tem um campo `_note` explicando isso. Atualizar com os IDs reais quando o time tiver acesso ao admin do Shopify ou puder colar o JSON do produto.
 
 ## Claims de performance (oficiais — confirmado pelo time)
 

@@ -2012,5 +2012,44 @@
       "05.webp": 129867
     },
     "primary": "01.png"
+  },
+  {
+    "handle": "sculpt-brow-light",
+    "title": "Sculpt Brow Light - Lapiseira Para Sobrancelhas",
+    "type": "Lapiseira",
+    "local_images": [
+      "01.png"
+    ],
+    "bytes": {
+      "01.png": 94912
+    },
+    "primary": "01.png",
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
+  },
+  {
+    "handle": "sculpt-brow-medium",
+    "title": "Sculpt Brow Medium - Lapiseira Para Sobrancelhas",
+    "type": "Lapiseira",
+    "local_images": [
+      "01.png"
+    ],
+    "bytes": {
+      "01.png": 96072
+    },
+    "primary": "01.png",
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
+  },
+  {
+    "handle": "sculpt-brow-dark",
+    "title": "Sculpt Brow Dark - Lapiseira Para Sobrancelhas",
+    "type": "Lapiseira",
+    "local_images": [
+      "01.png"
+    ],
+    "bytes": {
+      "01.png": 94024
+    },
+    "primary": "01.png",
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
   }
 ]

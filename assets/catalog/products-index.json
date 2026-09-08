@@ -10009,5 +10009,155 @@
     ],
     "body_text": "O Gel de Limpeza LF PRO foi desenvolvido para elevar sua rotina de cuidados com a pele. Ideal para a limpeza do rosto e remoção de maquiagem, ele proporciona uma higienização suave, sem danificar sua pele. Nossa fórmula exclusiva foi projetada para retirar as impurezas profundamente, ao mesmo tempo em que preserva a barreira protetora natural da pele, proporcionando uma limpeza eficaz e gentil. Após cada aplicação, você sentirá a pele mais suave e revitalizada, acompanhada por uma sensação de frescor e bem-estar, que transformará seu conceito de skincare. Torne a limpeza diária do seu rosto uma experiência de luxo, com nosso Gel de Limpeza Facial, e descubra como é simples conquistar uma pele radiante e saudável! Conheça os principais ativos: Ácido Hialurônico: hidrata e aumenta a viçosidade e a elasticidade da pele Óleo de Coco: atua na hidratação da pele Extrato de Aloe Vera: hidrata, acalma e regenera a pele Poliquatérnio: preserva a barreira protetora da pele Peso líquido: 120 g Dermatologicamente testado Produto Vegano, Sem Parabenos e Cruelty Free *A cor pode variar de acordo com as configurações do monitor",
     "url": "https://lfpro.com.br/products/gel-de-limpeza-facial"
+  },
+  {
+    "id": null,
+    "handle": "sculpt-brow-light",
+    "title": "Sculpt Brow Light - Lapiseira Para Sobrancelhas",
+    "product_type": "Lapiseira",
+    "vendor": "LF PRO ",
+    "tags": [
+      "sobrancelha",
+      "lapiseira",
+      "brow",
+      "sculpt brow",
+      "make up",
+      "makeup",
+      "lapiseira para sobrancelhas"
+    ],
+    "status": "active",
+    "variants_count": 1,
+    "variants": [
+      {
+        "id": null,
+        "title": "Default Title",
+        "sku": null,
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": true
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images_count": 1,
+    "images": [
+      {
+        "id": null,
+        "src": "../products/sculpt-brow-light/01.png",
+        "src_download": "../products/sculpt-brow-light/01.png",
+        "width": null,
+        "height": null,
+        "position": 1,
+        "variant_ids": []
+      }
+    ],
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
+  },
+  {
+    "id": null,
+    "handle": "sculpt-brow-medium",
+    "title": "Sculpt Brow Medium - Lapiseira Para Sobrancelhas",
+    "product_type": "Lapiseira",
+    "vendor": "LF PRO ",
+    "tags": [
+      "sobrancelha",
+      "lapiseira",
+      "brow",
+      "sculpt brow",
+      "make up",
+      "makeup",
+      "lapiseira para sobrancelhas"
+    ],
+    "status": "active",
+    "variants_count": 1,
+    "variants": [
+      {
+        "id": null,
+        "title": "Default Title",
+        "sku": null,
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": true
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images_count": 1,
+    "images": [
+      {
+        "id": null,
+        "src": "../products/sculpt-brow-medium/01.png",
+        "src_download": "../products/sculpt-brow-medium/01.png",
+        "width": null,
+        "height": null,
+        "position": 1,
+        "variant_ids": []
+      }
+    ],
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
+  },
+  {
+    "id": null,
+    "handle": "sculpt-brow-dark",
+    "title": "Sculpt Brow Dark - Lapiseira Para Sobrancelhas",
+    "product_type": "Lapiseira",
+    "vendor": "LF PRO ",
+    "tags": [
+      "sobrancelha",
+      "lapiseira",
+      "brow",
+      "sculpt brow",
+      "make up",
+      "makeup",
+      "lapiseira para sobrancelhas"
+    ],
+    "status": "active",
+    "variants_count": 1,
+    "variants": [
+      {
+        "id": null,
+        "title": "Default Title",
+        "sku": null,
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": true
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images_count": 1,
+    "images": [
+      {
+        "id": null,
+        "src": "../products/sculpt-brow-dark/01.png",
+        "src_download": "../products/sculpt-brow-dark/01.png",
+        "width": null,
+        "height": null,
+        "position": 1,
+        "variant_ids": []
+      }
+    ],
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
   }
 ]

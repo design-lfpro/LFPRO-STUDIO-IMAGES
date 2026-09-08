@@ -677,5 +677,28 @@
       "images": 6,
       "url": "https://lfpro.com.br/products/serum-facial-acido-salicilico"
     }
+  ],
+  "sculpt-brow": [
+    {
+      "handle": "sculpt-brow-light",
+      "title": "Sculpt Brow Light - Lapiseira Para Sobrancelhas",
+      "type": "Lapiseira",
+      "images": 1,
+      "url": "https://lfpro.com.br/products/sculpt-brow-light"
+    },
+    {
+      "handle": "sculpt-brow-medium",
+      "title": "Sculpt Brow Medium - Lapiseira Para Sobrancelhas",
+      "type": "Lapiseira",
+      "images": 1,
+      "url": "https://lfpro.com.br/products/sculpt-brow-medium"
+    },
+    {
+      "handle": "sculpt-brow-dark",
+      "title": "Sculpt Brow Dark - Lapiseira Para Sobrancelhas",
+      "type": "Lapiseira",
+      "images": 1,
+      "url": "https://lfpro.com.br/products/sculpt-brow-dark"
+    }
   ]
 }

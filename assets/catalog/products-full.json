@@ -12023,5 +12023,158 @@
         ]
       }
     ]
+  },
+  {
+    "id": null,
+    "title": "Sculpt Brow Light - Lapiseira Para Sobrancelhas",
+    "handle": "sculpt-brow-light",
+    "body_html": "<p>Marrom claro com subtom frio</p>\n<p dir=\"ltr\">A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos.</p>\n<p dir=\"ltr\">Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: crie traços delicados para efeito fio a fio ou preencha as sobrancelhas para uma definição mais uniforme e intensa.</p>\n<p dir=\"ltr\">A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para preencher.</p>\n<p dir=\"ltr\">Com longa duração e resistência, a fórmula não transfere e permite retomar e intensificar o resultado ao longo do dia, sempre preservando a naturalidade.</p>\n<p dir=\"ltr\">Disponível em 3 tons estratégicos de subtom frio, adaptados às diferentes cores de cabelo e níveis de contraste.</p>\n<h2 dir=\"ltr\"><span>O que torna a Sculpt Brow única</span></h2>\n<ul>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Ponta chanfrada de dupla função</span><br><span>Permite criar efeito fio a fio ou definir e preencher as sobrancelhas — você escolhe o resultado.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Acabamento natural</span><br><span>Intensidade construtível para preencher exatamente onde precisa, sem efeito artificial.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Performance de longa duração</span><br><span>Fórmula resistente, que não transfere e mantém a definição do começo ao fim do dia.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Aplicação fácil e precisa</span><br><span>Textura macia para deslizar e firme na medida certa para você ter controle.</span></p></li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos de alta performance</span></h2>\n<ul>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Óleo de Mamona:</span> hidrata e nutre os fios, garantindo maciez e conforto durante o uso.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Vitamina E:</span> antioxidante que protege os fios e a pele da sobrancelha do ressecamento.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Vitamina C:</span> protege a fórmula e os fios sem ressecar.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Fórmula Anidra:</span> sem água na composição, o que garante maior estabilidade, durabilidade e resistência ao longo do dia.</p></li>\n</ul>",
+    "published_at": null,
+    "created_at": null,
+    "updated_at": "2026-09-03",
+    "vendor": "LF PRO ",
+    "product_type": "Lapiseira",
+    "tags": [
+      "sobrancelha",
+      "lapiseira",
+      "brow",
+      "sculpt brow",
+      "make up",
+      "makeup",
+      "lapiseira para sobrancelhas"
+    ],
+    "variants": [
+      {
+        "id": null,
+        "title": "Default Title",
+        "sku": null,
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": true
+      }
+    ],
+    "images": [
+      {
+        "id": null,
+        "src": "../products/sculpt-brow-light/01.png",
+        "src_download": "../products/sculpt-brow-light/01.png",
+        "width": null,
+        "height": null,
+        "position": 1,
+        "variant_ids": []
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
+  },
+  {
+    "id": null,
+    "title": "Sculpt Brow Medium - Lapiseira Para Sobrancelhas",
+    "handle": "sculpt-brow-medium",
+    "body_html": "<p>Marrom médio com subtom frio</p>\n<p dir=\"ltr\">A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos.</p>\n<p dir=\"ltr\">Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: crie traços delicados para efeito fio a fio ou preencha as sobrancelhas para uma definição mais uniforme e intensa.</p>\n<p dir=\"ltr\">A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para preencher.</p>\n<p dir=\"ltr\">Com longa duração e resistência, a fórmula não transfere e permite retomar e intensificar o resultado ao longo do dia, sempre preservando a naturalidade.</p>\n<p dir=\"ltr\">Disponível em 3 tons estratégicos de subtom frio, adaptados às diferentes cores de cabelo e níveis de contraste.</p>\n<h2 dir=\"ltr\"><span>O que torna a Sculpt Brow única</span></h2>\n<ul>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Ponta chanfrada de dupla função</span><br><span>Permite criar efeito fio a fio ou definir e preencher as sobrancelhas — você escolhe o resultado.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Acabamento natural</span><br><span>Intensidade construtível para preencher exatamente onde precisa, sem efeito artificial.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Performance de longa duração</span><br><span>Fórmula resistente, que não transfere e mantém a definição do começo ao fim do dia.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Aplicação fácil e precisa</span><br><span>Textura macia para deslizar e firme na medida certa para você ter controle.</span></p></li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos de alta performance</span></h2>\n<ul>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Óleo de Mamona:</span> hidrata e nutre os fios, garantindo maciez e conforto durante o uso.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Vitamina E:</span> antioxidante que protege os fios e a pele da sobrancelha do ressecamento.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Vitamina C:</span> protege a fórmula e os fios sem ressecar.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Fórmula Anidra:</span> sem água na composição, o que garante maior estabilidade, durabilidade e resistência ao longo do dia.</p></li>\n</ul>",
+    "published_at": null,
+    "created_at": null,
+    "updated_at": "2026-09-03",
+    "vendor": "LF PRO ",
+    "product_type": "Lapiseira",
+    "tags": [
+      "sobrancelha",
+      "lapiseira",
+      "brow",
+      "sculpt brow",
+      "make up",
+      "makeup",
+      "lapiseira para sobrancelhas"
+    ],
+    "variants": [
+      {
+        "id": null,
+        "title": "Default Title",
+        "sku": null,
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": true
+      }
+    ],
+    "images": [
+      {
+        "id": null,
+        "src": "../products/sculpt-brow-medium/01.png",
+        "src_download": "../products/sculpt-brow-medium/01.png",
+        "width": null,
+        "height": null,
+        "position": 1,
+        "variant_ids": []
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
+  },
+  {
+    "id": null,
+    "title": "Sculpt Brow Dark - Lapiseira Para Sobrancelhas",
+    "handle": "sculpt-brow-dark",
+    "body_html": "<p>Marrom profundo acinzentado com subtom frio</p>\n<p dir=\"ltr\">A Sculpt Brow é uma lapiseira retrátil para sobrancelhas desenvolvida para preencher, definir e desenhar os fios com precisão, enquanto sua fórmula enriquecida com ativos de cuidado ajuda a manter os fios hidratados e protegidos.</p>\n<p dir=\"ltr\">Sua ponta chanfrada de dupla função oferece precisão e controle para você escolher o acabamento ideal: crie traços delicados para efeito fio a fio ou preencha as sobrancelhas para uma definição mais uniforme e intensa.</p>\n<p dir=\"ltr\">A textura equilibra maciez e firmeza na medida certa: desliza com facilidade, sem perder a precisão necessária para preencher.</p>\n<p dir=\"ltr\">Com longa duração e resistência, a fórmula não transfere e permite retomar e intensificar o resultado ao longo do dia, sempre preservando a naturalidade.</p>\n<p dir=\"ltr\">Disponível em 3 tons estratégicos de subtom frio, adaptados às diferentes cores de cabelo e níveis de contraste.</p>\n<h2 dir=\"ltr\"><span>O que torna a Sculpt Brow única</span></h2>\n<ul>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Ponta chanfrada de dupla função</span><br><span>Permite criar efeito fio a fio ou definir e preencher as sobrancelhas — você escolhe o resultado.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Acabamento natural</span><br><span>Intensidade construtível para preencher exatamente onde precisa, sem efeito artificial.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Performance de longa duração</span><br><span>Fórmula resistente, que não transfere e mantém a definição do começo ao fim do dia.</span></p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Aplicação fácil e precisa</span><br><span>Textura macia para deslizar e firme na medida certa para você ter controle.</span></p></li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos de alta performance</span></h2>\n<ul>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Óleo de Mamona:</span> hidrata e nutre os fios, garantindo maciez e conforto durante o uso.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Vitamina E:</span> antioxidante que protege os fios e a pele da sobrancelha do ressecamento.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Vitamina C:</span> protege a fórmula e os fios sem ressecar.</p></li>\n<li dir=\"ltr\"><p dir=\"ltr\"><span>Fórmula Anidra:</span> sem água na composição, o que garante maior estabilidade, durabilidade e resistência ao longo do dia.</p></li>\n</ul>",
+    "published_at": null,
+    "created_at": null,
+    "updated_at": "2026-09-03",
+    "vendor": "LF PRO ",
+    "product_type": "Lapiseira",
+    "tags": [
+      "sobrancelha",
+      "lapiseira",
+      "brow",
+      "sculpt brow",
+      "make up",
+      "makeup",
+      "lapiseira para sobrancelhas"
+    ],
+    "variants": [
+      {
+        "id": null,
+        "title": "Default Title",
+        "sku": null,
+        "option1": "Default Title",
+        "price": "89.90",
+        "available": true
+      }
+    ],
+    "images": [
+      {
+        "id": null,
+        "src": "../products/sculpt-brow-dark/01.png",
+        "src_download": "../products/sculpt-brow-dark/01.png",
+        "width": null,
+        "height": null,
+        "position": 1,
+        "variant_ids": []
+      }
+    ],
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "_note": "Cadastro manual em 03/09 a partir da página de venda (lfpro.com.br/products/sculpt-brow-medium) e material de lançamento no Drive — Shopify product/variant id e SKU reais não confirmados (site bloqueado para fetch automático nesta sessão); imagens apontam para o packshot local do repo, não para CDN Shopify real."
   }
 ]
