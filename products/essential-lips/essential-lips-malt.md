@@ -4,9 +4,9 @@ family: essential-lips
 title: "Essential Lips Malt"
 sku: "A DEFINIR"
 price: "A DEFINIR"
-product_type: Gloss Labial
+product_type: Batom Líquido Matte
 shade: Malt
-role: gloss labial líquido
+role: batom líquido matte
 status: novo-produto-pendente-cadastro
 url: null
 packshot: assets/products/essential-lips-malt/01.png
@@ -17,7 +17,7 @@ blocked_tracks: [T5-face-proof]
 
 # Essential Lips Malt
 
-Gloss labial líquido LF PRO Essential Lips — tom **Malt**. Ver DNA: [[_family|Essential Lips]].
+Batom líquido matte LF PRO Essential Lips — tom **Malt**. Ver DNA: [[_family|Essential Lips]].
 
 **Produto novo, ainda sem página em lfpro.com.br** — SKU e preço pendentes de cadastro. Não inventar.
 
@@ -41,7 +41,8 @@ Gloss labial líquido LF PRO Essential Lips — tom **Malt**. Ver DNA: [[_family
 
 ## Textura
 
-- Gloss líquido, acabamento espelhado/glossy dentro do tubo
+- **Batom líquido matte.** O sheen visível é do líquido dentro do tubo (reflexo natural de fluido em recipiente translúcido) — NÃO é o acabamento final.
+- **Na pele: matte aveludado, zero brilho.** Nunca renderizar lábios glossy/brilhantes com este produto.
 - Sem macro de swatch aplicado disponível ainda
 
 ## Estúdio
@@ -59,13 +60,13 @@ Gloss labial líquido LF PRO Essential Lips — tom **Malt**. Ver DNA: [[_family
 ### T1 — product hero
 
 ```
-LF PRO Essential Lips Malt lip gloss tube, slim cylindrical bullet-bottom tube, frosted translucent grey-tinted plastic body showing intense raspberry-pink liquid gloss (#D45567), glossy piano-black cap approx 40 percent of tube length, thin silver ring at cap-body seam, warm gold interlocked LF monogram centered, LF PRO gold wordmark below monogram, seamless off-white #FAFAF8 studio, soft beauty lighting, three-quarter or straight-on packshot, photorealistic ecommerce product photo, exact tube shape and logo, no redesign
+LF PRO Essential Lips Malt liquid matte lipstick tube, SMALL slim cylindrical bullet-bottom tube (compact, approx 9-10cm tall, NOT an oversized bottle), frosted translucent grey-tinted plastic body showing intense raspberry-pink liquid (#D45567), glossy piano-black cap approx 40 percent of tube length, thin silver ring at cap-body seam, warm gold interlocked LF monogram centered, LF PRO gold wordmark below monogram, seamless off-white #FAFAF8 studio, soft beauty lighting, three-quarter or straight-on packshot, photorealistic ecommerce product photo, exact tube shape and logo, no redesign. If lips are shown in the scene: matte velvety finish, zero shine, zero gloss sheen.
 ```
 
 ### T2 — texture macro
 
 ```
-extreme close-up liquid lip gloss LF PRO Essential Lips Malt, intense raspberry-pink tone #D45567, glossy mirror-like liquid sheen, no face, no hands, photorealistic beauty texture macro
+extreme close-up liquid matte lipstick LF PRO Essential Lips Malt, intense raspberry-pink tone #D45567, liquid sheen inside tube only (final skin finish is matte velvety, not glossy), no face, no hands, photorealistic beauty texture macro
 ```
 
 ## Anti-patterns

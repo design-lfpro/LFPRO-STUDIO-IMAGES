@@ -1,7 +1,7 @@
 ---
 family: essential-lips
 title: Essential Lips
-product_type: Gloss Labial
+product_type: Batom Líquido Matte
 status: novo-produto-pendente-cadastro
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
@@ -18,7 +18,13 @@ handles:
 
 # Essential Lips — DNA de família
 
-Linha de **gloss labial líquido** LF PRO, 8 tons. **Produto novo — ainda não publicado em lfpro.com.br**, catalogado a partir de fotos de produto internas (Google Drive LF PRO, pasta "FOTO PRODUTO / SITE"), sem página no site ainda. SKU, preço e claims oficiais **não existem publicamente ainda** — não inventar, aguardar cadastro Shopify.
+Linha de **batom líquido matte** LF PRO, 8 tons. **Correção 2026-09-08:** o produto NÃO é gloss — é fórmula líquida de acabamento **matte/aveludado**. O líquido parece brilhante *dentro do tubo de vidro/plástico* (reflexo natural de qualquer líquido), mas **seca matte na pele — sem brilho, sem sheen espelhado nos lábios**. Nunca gerar lábios brilhantes/glossy com este produto. **Produto novo — ainda não publicado em lfpro.com.br**, catalogado a partir de fotos de produto internas (Google Drive LF PRO, pasta "FOTO PRODUTO / SITE"), sem página no site ainda. SKU, preço e claims oficiais **não existem publicamente ainda** — não inventar, aguardar cadastro Shopify.
+
+## Escala real (proporção) — NUNCA inflar o tamanho
+
+- Tubo **pequeno**, compacto: comprimento aprox. **9–10 cm**, diâmetro do corpo aprox. **1,8–2,2 cm** — do tamanho de um marcador de texto fino ou batom comum, NUNCA do tamanho de um frasco de perfume/base.
+- Referência de escala real (produto na mão): ver creation `KLLmtUjkqp` no Magnific — aplicador/tubo close-up segurado por uma mão, mostra a proporção real do dedo vs. tubo.
+- Em still solo (packshot) sem mão/rosto na cena, não há escala de referência — mas em qualquer composição com mão/modelo, o tubo deve ocupar uma fração pequena da palma, dedos claramente maiores que a largura do tubo, nunca um objeto grande sendo "abraçado" pela mão inteira.
 
 ## Packaging (lock visual) — NUNCA redesenhar
 
@@ -52,8 +58,10 @@ Linha de **gloss labial líquido** LF PRO, 8 tons. **Produto novo — ainda não
 
 ## Textura
 
-- Gloss líquido, aparência espelhada/glossy dentro do tubo (não temos ainda macro de textura/swatch aplicado — se surgir arquivo "TEXTURA" na pasta de origem, complementar depois)
+- **Batom líquido matte.** Dentro do tubo o líquido tem sheen natural de fluido (reflexo de qualquer líquido em recipiente translúcido) — isso NÃO é o acabamento final na pele.
+- **Aplicado nos lábios: matte aveludado, zero brilho, zero sheen espelhado.** Nunca renderizar "glossy lips" / "shiny lips" para este produto.
 - Sem glitter chunky aparente nas fotos disponíveis
+- Ainda não temos macro de textura/swatch aplicado — se surgir arquivo "TEXTURA" na pasta de origem, complementar depois
 
 ## Estúdio
 
@@ -70,7 +78,7 @@ Linha de **gloss labial líquido** LF PRO, 8 tons. **Produto novo — ainda não
 ## Prompt anchors (EN) — família
 
 ```
-LF PRO Essential Lips lip gloss tube identity lock: slim cylindrical bullet-bottom tube, frosted translucent grey-tinted plastic body showing colored liquid gloss inside, glossy piano-black cap approx 40 percent of tube length, thin subtle silver ring at cap-body seam, warm gold interlocked LF monogram centered on tube body, LF PRO gold wordmark letter-spaced below monogram, off-white #FAFAF8 seamless studio background, soft beauty lighting, photorealistic ecommerce product photo, exact shade liquid color per SKU, no redesign of tube shape or logo
+LF PRO Essential Lips liquid matte lipstick tube identity lock: SMALL slim cylindrical bullet-bottom tube, approx 9-10cm tall (compact, pocket-size, NOT an oversized bottle), frosted translucent grey-tinted plastic body showing colored liquid inside, glossy piano-black cap approx 40 percent of tube length, thin subtle silver ring at cap-body seam, warm gold interlocked LF monogram centered on tube body, LF PRO gold wordmark letter-spaced below monogram, off-white #FAFAF8 seamless studio background, soft beauty lighting, photorealistic ecommerce product photo, exact shade liquid color per SKU, no redesign of tube shape or logo. If lips are shown: matte velvety finish, zero shine, zero gloss sheen — this is a liquid MATTE lipstick, never render glossy/shiny lips.
 ```
 
 ## Anti-patterns
