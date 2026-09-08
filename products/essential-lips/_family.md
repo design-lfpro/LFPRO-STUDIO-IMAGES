@@ -74,6 +74,12 @@ Logo distorcido é o erro mais recorrente e mais caro (retrabalho + créditos). 
 
 Incluir esse parágrafo (ou equivalente) em **todo** prompt que tenha o frasco visível de forma legível — não só copiar "gold LF monogram" solto.
 
+**Correção de geometria (confirmado por zoom em foto real, 03/09) — a descrição acima estava imprecisa no tipo de traço.** O logo NÃO é feito de traços retos tipo bloco sans-serif — tem curva sim. Geometria exata:
+
+> "the monogram is built from TWO tall vertical strokes side by side, each curving smoothly outward at the bottom into an elegant flourish/swash (like a graceful, rounded letterform, not a rigid straight bar) — these two curved strokes together read as a stylized 'L'. Overlapping to the right of these curved strokes are TWO solid gold triangular wedges/pennant shapes (like small sails or flags) — one larger triangle positioned higher, one smaller triangle positioned lower/mid-height — each with a flat vertical edge on its outer right side, tapering to a sharp point on the left where it touches the curved strokes. These two triangles together read as a stylized 'F'. The overall mark is tall and narrow, combining smooth curved strokes (the L) with sharp angular triangular flags (the F) — flat gold foil, no gradient, no chrome. Below it, smaller gold capital letters spell 'LF PRO' with wide letter spacing."
+
+Essa é a descrição que deve substituir/complementar a anterior daqui pra frente — reforça que o traço da letra tem curva, e detalha os dois triângulos sólidos como elemento distintivo do "F".
+
 **Regra — a tampa é PRETA, o dourado é só no logo.** Erro recorrente confirmado visualmente (03/09): a tampa sai dourada/rose-gold inteira, ou até branca/creme, em vez de preta — provavelmente porque "gold rim light" + "gold LF monogram" no mesmo prompt faz a IA "vazar" o dourado pra tampa toda. Incluir sempre, de forma explícita e separada: *"the cap is solid glossy BLACK plastic/lacquer — NEVER gold, NEVER rose-gold, NEVER white or cream. Gold appears ONLY on the printed monogram and wordmark on the bottle body, nowhere else on the packaging."*
 
 **Risco real não é "macro" — é complexidade de cena.** Levantamento de 28/08-03/09: stills de produto puro (2-3 frascos, sem modelo, framing próximo do packshot original) saíram fiéis quase sempre. O que falhou consistentemente:
