@@ -21,6 +21,8 @@ Cada família tem `_family.md` (packaging compartilhado) + um `.md` por `handle`
 | primers-prep | 4 | `primers-prep/` |
 | paleta-sombras | 2 | `paleta-sombras/` |
 | lapis-olhos / labios | 6 | `lapis-*` |
+| essential-lips ⚠️ pré-lançamento 09/09/2026 | 8 | `essential-lips/` |
+| sculpt-brow ⚠️ pré-lançamento 09/09/2026 | 3 | `sculpt-brow/` |
 | skincare / outros | resto | ver `assets/catalog/families.json` |
 
 ## Assets
