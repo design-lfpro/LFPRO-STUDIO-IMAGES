@@ -46,6 +46,8 @@ LF PRO lip pencil identity lock: matte black pencil, gold text "LÁPIS PARA LÁB
 - Não confundir com lápis de olhos
 - Não omitir color tip
 - Não inventar tons além de Caramelo/Chocolate/Magenta
+- **Não perder acentos no texto** — falha observada (2026-09-08): "LAPIS PARA LABIOS" sem acento; correto é sempre **LÁPIS PARA LÁBIOS**
+- **Não inventar frisos/anéis dourados no corpo** — falha observada; o corpo é liso, só tem o texto vertical + monograma, nada de hardware metálico extra
 
 ## Notas V1
 

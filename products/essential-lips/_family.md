@@ -85,6 +85,8 @@ LF PRO Essential Lips liquid matte lipstick tube identity lock: SMALL slim cylin
 
 - Redesenhar formato do tubo, tampa ou aplicador
 - Logo prata/branco ou monograma inventado
+- **Monograma lido como "LV" ou outra marca** — falha observada (2026-09-08) na geração do Rose; é sempre LF, re-roll se sair ambíguo
+- **Hex code (`#XXXXXX`) impresso como texto no produto** — falha observada; hex é só referência de prompt, nunca aparece no packaging
 - Inventar claims, SKU, preço ou nome de fórmula
 - Trocar cor do líquido entre tons
 - Full-face / lip-proof V1 (T5 bloqueado)

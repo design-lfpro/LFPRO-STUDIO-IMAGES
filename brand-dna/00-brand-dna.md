@@ -92,8 +92,12 @@ Observado nos assets:
 - Relogo inventado, “LFPro” colado, logo branco em fundo branco  
 - Substituir monograma por texto genérico “PRO”  
 - Logo desproporcional ou flutuando errado na tampa  
+- **Monograma lido como outra marca** — falha recorrente: o modelo confunde o LF com “LV” (Louis Vuitton) ou outro par de letras de luxo genérico. Tratar como FAIL de prioridade máxima, igual a logo deformado.
+- **Hardware/frisos inventados** — anéis metálicos, gravações ou detalhes que não existem no packshot real (ex: friso dourado em lápis que é corpo liso). Só reproduzir o que a referência mostra.
+- **Hex code impresso como texto no produto** — `#XXXXXX` nunca deve aparecer como arte/etiqueta no packaging; é só referência interna do prompt.
+- **Texto PT-BR sem acento** — qualquer texto do produto (ex: “LÁPIS PARA LÁBIOS”, “LÁPIS PARA OLHOS”) precisa manter acentuação correta; “LAPIS PARA LABIOS” sem acento é FAIL.
 
-**Regra de pipeline:** se o modelo deformar logo → **re-roll** ou compor packshot real via overlay (preferível).
+**Regra de pipeline:** se o modelo deformar logo (incluindo confundir com outra marca) → **re-roll** ou compor packshot real via overlay (preferível).
 
 ---
 
