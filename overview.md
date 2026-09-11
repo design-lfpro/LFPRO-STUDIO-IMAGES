@@ -98,6 +98,7 @@ duration_s: 12
 - [[brand-dna/00-brand-dna|Brand DNA]]
 - [[tracks/README|Tracks]]
 - [[pipeline/README|Pipeline V1]]
+- [[pipeline/README-social-copy|Pipeline texto para social]]
 - [[opensquad/squad.yaml|Squad OpenSquad]]
 - [[_research/instagram/studio-formats|Formatos estúdio IG]]
 
@@ -107,6 +108,7 @@ duration_s: 12
 - [x] Scrape catálogo + download 552 imagens
 - [x] Brand DNA + tracks + pipeline docs + OpenSquad scaffold
 - [x] Fichas DNA ricas por família/SKU (91 SKUs + families)
+- [x] Fluxo de texto para social (copy) wired — 6 agentes (Vini/Theo/Bia/Duda/Cacá/Léa) + `pipeline_social_copy`
 - [ ] Wiring Magnific + FFmpeg executável
 - [ ] Primeiro golden path Soft Eye T1 renderizado
 - [ ] Cast library V2 (fotos de modelo enviadas pelo cliente)

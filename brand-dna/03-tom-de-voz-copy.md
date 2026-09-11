@@ -30,3 +30,12 @@ Resumo: **tom confiante e desejável das marcas grandes + didática e CTA claro 
 ## Regra de claims (reforço)
 
 Todo texto de copy segue a regra 2 do `CLAUDE.md`: **claims só do `body_text` do site ou da ficha do produto.** Nenhum agente de texto tem autonomia para inventar benefício, resultado ou comparação.
+
+## Peças gráficas (stories / carrossel)
+
+Regras de formatação específicas pra peça estática (story, carrossel) — diferente de legenda de feed, onde emoji e tom mais solto continuam valendo:
+
+- **Sem emojis** no texto da peça.
+- **Sem travessão (—)**. Usar vírgula, ponto ou dois-pontos no lugar.
+- **CTA aparece só na peça final** da sequência — as demais só constroem o argumento.
+- **Termos internos de produção nunca vão pro texto público** (ex.: "Onda N" é só rótulo de agenda interna, nunca aparece na peça).

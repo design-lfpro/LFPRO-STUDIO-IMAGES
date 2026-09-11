@@ -1,0 +1,10 @@
+name: lfpro-studio-social-copy-v1
+orchestrator: lea-orquestradora
+max_review_cycles: 2
+steps:
+  - { id: 1, name: pauta, type: agent, agent: vini-estrategista, optional: true }
+  - { id: 2, name: ganchos, type: agent, agent: theo-ganchos }
+  - { id: 3, name: legenda, type: agent, agent: bia-legendas }
+  - { id: 4, name: revisao, type: agent, agent: duda-revisao }
+  - { id: 5, name: layout, type: agent, agent: caca-layout }
+  - { id: 6, name: checkpoint-entrega, type: checkpoint }
