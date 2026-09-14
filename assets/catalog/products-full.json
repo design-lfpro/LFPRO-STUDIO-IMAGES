@@ -12743,5 +12743,1157 @@
       "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/SCULPTBROWMEDIUMPRODUTO.png?v=1786383735",
       "variant_ids": []
     }
+  },
+  {
+    "id": 10367202722072,
+    "title": "Essential Lips Wine",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:03:58-03:00",
+    "handle": "essential-lips-wine",
+    "updated_at": "2026-09-14T16:25:25-03:00",
+    "published_at": "2026-09-09T11:59:17-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom alta pigmentação, batom frio, batom liquido, batom liquido frio, batom liquido mate, batom liquido matte, batom liquido matte batom liquido, batom longa duração, batom matte, batom matte confortável”, batom matte frio, batom matte líquido, batom vinho, batom vinho ameixa, batom wine, batons liquido batom matte líquido, Essential Lips, longa duração, matte batom, matte confortável, natom liquido mate, wine",
+    "variants": [
+      {
+        "id": 52483006071064,
+        "product_id": 10367202722072,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12710",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:03:58-03:00",
+        "updated_at": "2026-09-14T16:25:25-03:00",
+        "taxable": false,
+        "barcode": "7898715201118",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960894058776,
+        "product_id": 10367202722072,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53880263246104,
+        "product_id": 10367202722072,
+        "position": 1,
+        "created_at": "2026-08-31T12:08:20-03:00",
+        "updated_at": "2026-08-31T12:08:22-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINEPRODUTO2.png?v=1788188902",
+        "variant_ids": []
+      },
+      {
+        "id": 53880263377176,
+        "product_id": 10367202722072,
+        "position": 2,
+        "created_at": "2026-08-31T12:08:26-03:00",
+        "updated_at": "2026-08-31T12:08:28-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINEMODELOCLARO.png?v=1788188908",
+        "variant_ids": []
+      },
+      {
+        "id": 53880263278872,
+        "product_id": 10367202722072,
+        "position": 3,
+        "created_at": "2026-08-31T12:08:22-03:00",
+        "updated_at": "2026-08-31T12:08:24-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINETEXTURA.png?v=1788188904",
+        "variant_ids": []
+      },
+      {
+        "id": 53880263344408,
+        "product_id": 10367202722072,
+        "position": 4,
+        "created_at": "2026-08-31T12:08:24-03:00",
+        "updated_at": "2026-08-31T12:08:26-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINEPRODUTO.png?v=1788188906",
+        "variant_ids": []
+      },
+      {
+        "id": 53880263475480,
+        "product_id": 10367202722072,
+        "position": 5,
+        "created_at": "2026-08-31T12:08:28-03:00",
+        "updated_at": "2026-08-31T12:08:30-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINEMODELOMEDIO.png?v=1788188910",
+        "variant_ids": []
+      },
+      {
+        "id": 53880263541016,
+        "product_id": 10367202722072,
+        "position": 6,
+        "created_at": "2026-08-31T12:08:30-03:00",
+        "updated_at": "2026-08-31T12:08:32-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINEMODELOESCURO.png?v=1788188912",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53880263246104,
+      "product_id": 10367202722072,
+      "position": 1,
+      "created_at": "2026-08-31T12:08:20-03:00",
+      "updated_at": "2026-08-31T12:08:22-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/08WINEPRODUTO2.png?v=1788188902",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202623768,
+    "title": "Essential Lips Rose",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:03:29-03:00",
+    "handle": "essential-lips-rose",
+    "updated_at": "2026-09-14T16:25:30-03:00",
+    "published_at": "2026-09-09T11:59:17-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, base matte, batom, batom alta pigmentação, batom aveludado, batom confortável, batom cremoso, batom liquido, batom liquido mate, batom liquido matte, batom liquido matte batom liquido, batom liquido rosa, batom liquido rosa queimado neutro, batom matte, batom matte confortável”, batom matte líquido, batom rosa, batom rosa queimado, batom soft matte, batom vegano, batons liquido batom matte líquido, batons matte líquido, boca, Essential Lips, lábios, matte, matte batom, matte confortável, rosa, rosa queimado, rosa queimado batom, rosa queimado neutro, textura cremosa, vegano",
+    "variants": [
+      {
+        "id": 52483005939992,
+        "product_id": 10367202623768,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12705",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:03:29-03:00",
+        "updated_at": "2026-09-14T16:25:30-03:00",
+        "taxable": false,
+        "barcode": "7898715201040",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893960472,
+        "product_id": 10367202623768,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53879997956376,
+        "product_id": 10367202623768,
+        "position": 1,
+        "created_at": "2026-08-31T10:18:36-03:00",
+        "updated_at": "2026-08-31T10:18:37-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSEPRODUTO2.png?v=1788182317",
+        "variant_ids": []
+      },
+      {
+        "id": 53879999922456,
+        "product_id": 10367202623768,
+        "position": 2,
+        "created_at": "2026-08-31T10:18:43-03:00",
+        "updated_at": "2026-08-31T10:18:45-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSEMODELOCLARO.png?v=1788182325",
+        "variant_ids": []
+      },
+      {
+        "id": 53879999168792,
+        "product_id": 10367202623768,
+        "position": 3,
+        "created_at": "2026-08-31T10:18:39-03:00",
+        "updated_at": "2026-08-31T10:18:41-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSETEXTURA.png?v=1788182321",
+        "variant_ids": []
+      },
+      {
+        "id": 53879999660312,
+        "product_id": 10367202623768,
+        "position": 4,
+        "created_at": "2026-08-31T10:18:41-03:00",
+        "updated_at": "2026-08-31T10:18:43-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSEPRODUTO.png?v=1788182323",
+        "variant_ids": []
+      },
+      {
+        "id": 53880000610584,
+        "product_id": 10367202623768,
+        "position": 5,
+        "created_at": "2026-08-31T10:18:45-03:00",
+        "updated_at": "2026-08-31T10:18:47-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSEMODELOMEDIO.png?v=1788182327",
+        "variant_ids": []
+      },
+      {
+        "id": 53880000741656,
+        "product_id": 10367202623768,
+        "position": 6,
+        "created_at": "2026-08-31T10:18:47-03:00",
+        "updated_at": "2026-08-31T10:18:49-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSEMODELOESCURO.png?v=1788182329",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53879997956376,
+      "product_id": 10367202623768,
+      "position": 1,
+      "created_at": "2026-08-31T10:18:36-03:00",
+      "updated_at": "2026-08-31T10:18:37-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/02ROSEPRODUTO2.png?v=1788182317",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202591000,
+    "title": "Essential Lips Mauve",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:02:56-03:00",
+    "handle": "essential-lips-mauve",
+    "updated_at": "2026-09-14T16:25:36-03:00",
+    "published_at": "2026-09-09T11:59:16-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom, batom alta pigmentação, batom aveludado, batom liquido, batom liquido mate, batom liquido matte, batom liquido matte batom liquido, batom longa duração, batom malva, batom malva neutro, batom matte, batom matte confortável”, batom matte frio, batom matte líquido, Batom mauve, batom vegano, batons, batons liquido, batons liquido batom matte líquido, batons matte líquido, boca, Essential Lips, filme flexível, intensidade construível, longa duração, lábios, malva frio, malva neutro frio, matte batom, matte confortável, mauve, vegano",
+    "variants": [
+      {
+        "id": 52483005907224,
+        "product_id": 10367202591000,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12707",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:02:56-03:00",
+        "updated_at": "2026-09-14T16:25:36-03:00",
+        "taxable": false,
+        "barcode": "7898715201064",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893894936,
+        "product_id": 10367202591000,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53880188403992,
+        "product_id": 10367202591000,
+        "position": 1,
+        "created_at": "2026-08-31T11:38:55-03:00",
+        "updated_at": "2026-08-31T11:38:56-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVEPRODUTO2.png?v=1788187136",
+        "variant_ids": []
+      },
+      {
+        "id": 53880188862744,
+        "product_id": 10367202591000,
+        "position": 2,
+        "created_at": "2026-08-31T11:39:01-03:00",
+        "updated_at": "2026-08-31T11:39:03-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVEMODELOCLARO.png?v=1788187143",
+        "variant_ids": []
+      },
+      {
+        "id": 53880188469528,
+        "product_id": 10367202591000,
+        "position": 3,
+        "created_at": "2026-08-31T11:38:58-03:00",
+        "updated_at": "2026-08-31T11:39:00-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVETEXTURA.png?v=1788187140",
+        "variant_ids": []
+      },
+      {
+        "id": 53880188535064,
+        "product_id": 10367202591000,
+        "position": 4,
+        "created_at": "2026-08-31T11:38:59-03:00",
+        "updated_at": "2026-08-31T11:39:00-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVEPRODUTO.png?v=1788187140",
+        "variant_ids": []
+      },
+      {
+        "id": 53880189092120,
+        "product_id": 10367202591000,
+        "position": 5,
+        "created_at": "2026-08-31T11:39:03-03:00",
+        "updated_at": "2026-08-31T11:39:05-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVEMODELOMEDIO.png?v=1788187145",
+        "variant_ids": []
+      },
+      {
+        "id": 53880189157656,
+        "product_id": 10367202591000,
+        "position": 6,
+        "created_at": "2026-08-31T11:39:04-03:00",
+        "updated_at": "2026-08-31T11:39:06-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVEMODELOESCURO.png?v=1788187146",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53880188403992,
+      "product_id": 10367202591000,
+      "position": 1,
+      "created_at": "2026-08-31T11:38:55-03:00",
+      "updated_at": "2026-08-31T11:38:56-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/05MAUVEPRODUTO2.png?v=1788187136",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202558232,
+    "title": "Essential Lips Malt",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:02:43-03:00",
+    "handle": "essential-lips-malt",
+    "updated_at": "2026-09-14T16:25:44-03:00",
+    "published_at": "2026-09-09T11:59:14-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom, batom alta pigmentação, batom aveludado, batom liquido, batom liquido mate, batom liquido matte, batom liquido matte batom liquido, batom longa duração, batom mate, batom matte, batom matte confortável”, batom matte líquido, batom rosado, batom rosado quente, batom rosado terroso, batom rosado terroso quente, batom soft matte, batom vegano, batons, batons liquido, batons liquido batom matte líquido, batons matte líquido, boca, cor intensa, Essential Lips, filme flexível, intensidade construível, lábios, malt, matte batom, matte confortável, rosado, rosado quente, rosado terroso, textura cremosa, Tom rosado terroso quente, vegano",
+    "variants": [
+      {
+        "id": 52483005874456,
+        "product_id": 10367202558232,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12699",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:02:43-03:00",
+        "updated_at": "2026-09-14T16:25:44-03:00",
+        "taxable": false,
+        "barcode": "7898715201095",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893862168,
+        "product_id": 10367202558232,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53880159273240,
+        "product_id": 10367202558232,
+        "position": 1,
+        "created_at": "2026-08-31T11:19:33-03:00",
+        "updated_at": "2026-08-31T11:19:34-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTPRODUTO2.png?v=1788185974",
+        "variant_ids": []
+      },
+      {
+        "id": 53880159568152,
+        "product_id": 10367202558232,
+        "position": 2,
+        "created_at": "2026-08-31T11:19:44-03:00",
+        "updated_at": "2026-08-31T11:19:46-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTMODELOCLARO.png?v=1788185986",
+        "variant_ids": []
+      },
+      {
+        "id": 53880159404312,
+        "product_id": 10367202558232,
+        "position": 3,
+        "created_at": "2026-08-31T11:19:37-03:00",
+        "updated_at": "2026-08-31T11:19:39-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTTEXTURA.png?v=1788185979",
+        "variant_ids": []
+      },
+      {
+        "id": 53880159437080,
+        "product_id": 10367202558232,
+        "position": 4,
+        "created_at": "2026-08-31T11:19:38-03:00",
+        "updated_at": "2026-08-31T11:19:40-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTPRODUTO.png?v=1788185980",
+        "variant_ids": []
+      },
+      {
+        "id": 53880159633688,
+        "product_id": 10367202558232,
+        "position": 5,
+        "created_at": "2026-08-31T11:19:46-03:00",
+        "updated_at": "2026-08-31T11:19:48-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTMODELOMEDIO.png?v=1788185988",
+        "variant_ids": []
+      },
+      {
+        "id": 53880159731992,
+        "product_id": 10367202558232,
+        "position": 6,
+        "created_at": "2026-08-31T11:19:48-03:00",
+        "updated_at": "2026-08-31T11:19:50-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTMODELOESCURO.png?v=1788185990",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53880159273240,
+      "product_id": 10367202558232,
+      "position": 1,
+      "created_at": "2026-08-31T11:19:33-03:00",
+      "updated_at": "2026-08-31T11:19:34-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/04MALTPRODUTO2.png?v=1788185974",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202525464,
+    "title": "Essential Lips Clay",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:02:23-03:00",
+    "handle": "essential-lips-clay",
+    "updated_at": "2026-09-14T16:25:49-03:00",
+    "published_at": "2026-09-09T11:59:13-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom alta pigmentação, batom aveludado, batom avermelhado, batom confortável, batom liquido, batom liquido mate, batom liquido matte, batom liquido matte batom liquido, batom liquido terracota quente, batom longa duração, batom mate, batom matte, batom matte avermelhado, batom matte confortável”, batom matte líquido, batom terracota quente, batom terracota quente avermelhado, batom vegano, boca, Essential Lips, filme flexível, intensidade construível, longa duração, lábios, matte confortável, terracota quente avermelhado, vegano",
+    "variants": [
+      {
+        "id": 52483005841688,
+        "product_id": 10367202525464,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12708",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:02:23-03:00",
+        "updated_at": "2026-09-14T16:25:49-03:00",
+        "taxable": false,
+        "barcode": "7898715201071",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893829400,
+        "product_id": 10367202525464,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53880208032024,
+        "product_id": 10367202525464,
+        "position": 1,
+        "created_at": "2026-08-31T11:47:57-03:00",
+        "updated_at": "2026-08-31T11:47:58-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYPRODUTO2.png?v=1788187678",
+        "variant_ids": []
+      },
+      {
+        "id": 53880208326936,
+        "product_id": 10367202525464,
+        "position": 2,
+        "created_at": "2026-08-31T11:48:05-03:00",
+        "updated_at": "2026-08-31T11:48:07-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYMODELOCLARO.png?v=1788187687",
+        "variant_ids": []
+      },
+      {
+        "id": 53880208064792,
+        "product_id": 10367202525464,
+        "position": 3,
+        "created_at": "2026-08-31T11:47:59-03:00",
+        "updated_at": "2026-08-31T11:48:01-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYTEXTURA.png?v=1788187681",
+        "variant_ids": []
+      },
+      {
+        "id": 53880208294168,
+        "product_id": 10367202525464,
+        "position": 4,
+        "created_at": "2026-08-31T11:48:02-03:00",
+        "updated_at": "2026-08-31T11:48:03-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYPRODUTO.png?v=1788187683",
+        "variant_ids": []
+      },
+      {
+        "id": 53880208589080,
+        "product_id": 10367202525464,
+        "position": 5,
+        "created_at": "2026-08-31T11:48:07-03:00",
+        "updated_at": "2026-08-31T11:48:09-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYMODELOMEDIO.png?v=1788187689",
+        "variant_ids": []
+      },
+      {
+        "id": 53880208654616,
+        "product_id": 10367202525464,
+        "position": 6,
+        "created_at": "2026-08-31T11:48:09-03:00",
+        "updated_at": "2026-08-31T11:48:11-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYMODELOESCURO.png?v=1788187691",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53880208032024,
+      "product_id": 10367202525464,
+      "position": 1,
+      "created_at": "2026-08-31T11:47:57-03:00",
+      "updated_at": "2026-08-31T11:47:58-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/06CLAYPRODUTO2.png?v=1788187678",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202459928,
+    "title": "Essential Lips Carmim",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:02:02-03:00",
+    "handle": "essential-lips-carmim",
+    "updated_at": "2026-09-14T16:25:54-03:00",
+    "published_at": "2026-09-09T11:59:12-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom, batom alta pigmentação, batom aveludado, batom confortável, batom liquido, batom liquido mate, batom liquido matte, batom liquido matte batom liquido, batom liquido vermelho, batom longa duração, batom mate, batom mate vermelho, batom matte, batom matte confortável”, batom matte líquido, batom quente, batom vegano, batom vermelho, batom vermelho intenso, batom vermelho intenso quente, batom vermelho matte, batom vermelho vivo, batons, batons liquido, batons liquido batom matte líquido, batons matte líquido, boca, carmim, Essential Lips, intensidade construível, longa duração, lábios, matte confortável, vegano",
+    "variants": [
+      {
+        "id": 52483005743384,
+        "product_id": 10367202459928,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12709",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:02:02-03:00",
+        "updated_at": "2026-09-14T16:25:54-03:00",
+        "taxable": false,
+        "barcode": "7898715201101",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893763864,
+        "product_id": 10367202459928,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53880234901784,
+        "product_id": 10367202459928,
+        "position": 1,
+        "created_at": "2026-08-31T11:58:21-03:00",
+        "updated_at": "2026-08-31T11:58:23-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMPRODUTO2.png?v=1788188303",
+        "variant_ids": []
+      },
+      {
+        "id": 53880235589912,
+        "product_id": 10367202459928,
+        "position": 2,
+        "created_at": "2026-08-31T11:58:29-03:00",
+        "updated_at": "2026-08-31T11:58:31-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMMODELOCLARO.png?v=1788188311",
+        "variant_ids": []
+      },
+      {
+        "id": 53880235295000,
+        "product_id": 10367202459928,
+        "position": 3,
+        "created_at": "2026-08-31T11:58:26-03:00",
+        "updated_at": "2026-08-31T11:58:28-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMTEXTURA.png?v=1788188308",
+        "variant_ids": []
+      },
+      {
+        "id": 53880235426072,
+        "product_id": 10367202459928,
+        "position": 4,
+        "created_at": "2026-08-31T11:58:27-03:00",
+        "updated_at": "2026-08-31T11:58:28-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMPRODUTO.png?v=1788188308",
+        "variant_ids": []
+      },
+      {
+        "id": 53880235786520,
+        "product_id": 10367202459928,
+        "position": 5,
+        "created_at": "2026-08-31T11:58:32-03:00",
+        "updated_at": "2026-08-31T11:58:34-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMMODELOMEDIO.png?v=1788188314",
+        "variant_ids": []
+      },
+      {
+        "id": 53880235819288,
+        "product_id": 10367202459928,
+        "position": 6,
+        "created_at": "2026-08-31T11:58:32-03:00",
+        "updated_at": "2026-08-31T11:58:34-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMMODELOESCURO.png?v=1788188314",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53880234901784,
+      "product_id": 10367202459928,
+      "position": 1,
+      "created_at": "2026-08-31T11:58:21-03:00",
+      "updated_at": "2026-08-31T11:58:23-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/07CARMIMPRODUTO2.png?v=1788188303",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202361624,
+    "title": "Essential Lips Blush",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:01:42-03:00",
+    "handle": "essential-lips-blush",
+    "updated_at": "2026-09-14T16:25:58-03:00",
+    "published_at": "2026-09-09T11:59:11-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom, batom alta pigmentação, batom aveludado, batom confortável, batom liquido mate, batom liquido matte, batom liquido rosa, batom longa duração, batom líquido, batom matte, batom matte confortável”, batom pink, batom rosa, batom vegano, batons, batons liquido, batons liquido batom matte líquido, batons matte líquido, Blush, boca, Essential Lips, filme flexível, intensidade construível, longa duração, lábios, matte batom, matte confortável, rosa, rosa pink, vegano",
+    "variants": [
+      {
+        "id": 52483005448472,
+        "product_id": 10367202361624,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12706",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:01:42-03:00",
+        "updated_at": "2026-09-14T16:25:58-03:00",
+        "taxable": false,
+        "barcode": "7898715201057",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893665560,
+        "product_id": 10367202361624,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53880147116312,
+        "product_id": 10367202361624,
+        "position": 1,
+        "created_at": "2026-08-31T11:06:08-03:00",
+        "updated_at": "2026-08-31T11:06:09-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHPRODUTO2.png?v=1788185169",
+        "variant_ids": []
+      },
+      {
+        "id": 53880147280152,
+        "product_id": 10367202361624,
+        "position": 2,
+        "created_at": "2026-08-31T11:06:15-03:00",
+        "updated_at": "2026-08-31T11:06:17-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHMODELOCLARO.png?v=1788185177",
+        "variant_ids": []
+      },
+      {
+        "id": 53880147149080,
+        "product_id": 10367202361624,
+        "position": 3,
+        "created_at": "2026-08-31T11:06:10-03:00",
+        "updated_at": "2026-08-31T11:06:12-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHTEXTURA.png?v=1788185172",
+        "variant_ids": []
+      },
+      {
+        "id": 53880147247384,
+        "product_id": 10367202361624,
+        "position": 4,
+        "created_at": "2026-08-31T11:06:12-03:00",
+        "updated_at": "2026-08-31T11:06:14-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHPRODUTO.png?v=1788185174",
+        "variant_ids": []
+      },
+      {
+        "id": 53880147312920,
+        "product_id": 10367202361624,
+        "position": 5,
+        "created_at": "2026-08-31T11:06:17-03:00",
+        "updated_at": "2026-08-31T11:06:18-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHMODELOMEDIO.png?v=1788185178",
+        "variant_ids": []
+      },
+      {
+        "id": 53880147378456,
+        "product_id": 10367202361624,
+        "position": 6,
+        "created_at": "2026-08-31T11:06:20-03:00",
+        "updated_at": "2026-08-31T11:06:22-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHMODELOESCURO.png?v=1788185182",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53880147116312,
+      "product_id": 10367202361624,
+      "position": 1,
+      "created_at": "2026-08-31T11:06:08-03:00",
+      "updated_at": "2026-08-31T11:06:09-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/03BLUSHPRODUTO2.png?v=1788185169",
+      "variant_ids": []
+    }
+  },
+  {
+    "id": 10367202263320,
+    "title": "Essential Lips Beige",
+    "body_html": "<p dir=\"ltr\"><span>O </span><span>Essential Lips</span><span> é um batom líquido criado para entregar tudo o que você deseja em um matte, sem abrir mão do conforto.</span></p>\n<p dir=\"ltr\"><span>Sua textura cremosa e fluida desliza facilmente pelos lábios, proporcionando </span><span>alta cobertura, cor intensa e acabamento soft matte aveludado</span><span>.</span></p>\n<p dir=\"ltr\"><span>Sua fórmula conta com tecnologia de formação de filme, que favorece a aderência da cor após a secagem e acompanha o movimento natural dos lábios, contribuindo para mais conforto e um acabamento bonito e uniforme.</span></p>\n<p dir=\"ltr\"><span>Enriquecido com </span><span>Manteiga de Karité e Manteiga de Cacau</span><span>, combina performance e cuidado para uma experiência confortável durante o uso.</span></p>\n<p dir=\"ltr\"><span>Disponível em </span><span>8 tons essenciais</span><span>, do nude ao vermelho intenso, a coleção foi criada para acompanhar diferentes estilos, ocasiões e intensidades.</span></p>\n<p dir=\"ltr\"><span>O resultado é aquele matte que você quer usar: sofisticado, confortável e com uma cor que transforma a maquiagem.</span></p>\n<h2 dir=\"ltr\"><span>O que torna o Essential Lips único<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Matte confortável:</span><span> acabamento soft matte aveludado com uma sensação mais leve e confortável nos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Filme flexível:</span><span> tecnologia desenvolvida para formar uma película que acompanha o movimento natural dos lábios após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Alta cobertura:</span><span> cor intensa desde a aplicação, com possibilidade de construir camadas para personalizar a intensidade.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Textura cremosa e fluida:</span><span> facilita o deslizamento e proporciona aplicação mais uniforme e controlada.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Tecnologia de longa duração:</span><span> sistema volátil e formadores de filme contribuem para aderência e boa permanência da cor.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>8 tons essenciais:</span><span> uma cartela objetiva que transita dos nudes aos tons mais intensos para diferentes estilos e momentos.<br></span></p>\n</li>\n</ul>\n<h2 dir=\"ltr\"><span>Ativos e tecnologias de alta performance<br></span></h2>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Karité:</span><span> ajuda a manter os lábios confortáveis e cuidados durante o uso.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Manteiga de Cacau:</span><span> contribui para nutrição, maciez e conforto dos lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sílica:</span><span> auxilia na construção do acabamento soft matte e do efeito visual aveludado.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Sistema volátil:</span><span> evapora após a aplicação e contribui para a formação do filme colorido sobre os lábios.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Formadores de filme:</span><span> ajudam na aderência e resistência da fórmula após a secagem.</span><span><br></span></p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\" role=\"presentation\"><span>Copolímero elastomérico:</span><span> proporciona flexibilidade ao filme e ajuda a acompanhar o movimento natural dos lábios.</span></p>\n</li>\n</ul>",
+    "vendor": "LF PRO ",
+    "product_type": "Batom",
+    "created_at": "2026-08-06T09:01:21-03:00",
+    "handle": "essential-lips-beige",
+    "updated_at": "2026-09-14T16:26:03-03:00",
+    "published_at": "2026-09-09T11:59:10-03:00",
+    "template_suffix": "novo-padrao-cor",
+    "published_scope": "web",
+    "tags": "alta cobertura, alta pigmentação, batom, batom alta pigmentação, batom aveludado, batom caramelo, batom confortável, batom liquido  batom nude quente, batom liquido mate, batom liquido matte batom liquido, batom longa duração, batom líquido, batom líquido matte, batom mate, batom matte, batom matte confortável”, batom matte líquido, batom nude, batom nude quente, batom soft matte, batom vegano, batons, batons liquido, batons liquido batom matte líquido, batons matte líquido, bege, beige, boca, caramelo, cor intensa, Essential Lips, filme flexível, intensidade construível, longa duração, lábios, matte batom, matte confortável, textura cremosa, vegano",
+    "variants": [
+      {
+        "id": 52483005350168,
+        "product_id": 10367202263320,
+        "title": "Default Title",
+        "price": "69.90",
+        "sku": "12698",
+        "position": 1,
+        "compare_at_price": "69.90",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-08-06T09:01:21-03:00",
+        "updated_at": "2026-09-14T16:26:03-03:00",
+        "taxable": false,
+        "barcode": "7898715201088",
+        "grams": 50,
+        "image_id": null,
+        "weight": 0.05,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "BRL",
+        "compare_at_price_currency": "BRL",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 12960893567256,
+        "product_id": 10367202263320,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 53879790403864,
+        "product_id": 10367202263320,
+        "position": 1,
+        "created_at": "2026-08-31T08:56:34-03:00",
+        "updated_at": "2026-08-31T08:56:35-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGEPRODUTO2.png?v=1788177395",
+        "variant_ids": []
+      },
+      {
+        "id": 53879791255832,
+        "product_id": 10367202263320,
+        "position": 2,
+        "created_at": "2026-08-31T08:56:49-03:00",
+        "updated_at": "2026-08-31T08:56:51-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGEMODELOCLARO.png?v=1788177411",
+        "variant_ids": []
+      },
+      {
+        "id": 53879790567704,
+        "product_id": 10367202263320,
+        "position": 3,
+        "created_at": "2026-08-31T08:56:38-03:00",
+        "updated_at": "2026-08-31T08:56:40-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGETEXTURA.png?v=1788177400",
+        "variant_ids": []
+      },
+      {
+        "id": 53879790600472,
+        "product_id": 10367202263320,
+        "position": 4,
+        "created_at": "2026-08-31T08:56:40-03:00",
+        "updated_at": "2026-08-31T08:56:42-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGEPRODUTO.png?v=1788177402",
+        "variant_ids": []
+      },
+      {
+        "id": 53879791321368,
+        "product_id": 10367202263320,
+        "position": 5,
+        "created_at": "2026-08-31T08:56:49-03:00",
+        "updated_at": "2026-08-31T08:56:51-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGEMODELOMEDIO.png?v=1788177411",
+        "variant_ids": []
+      },
+      {
+        "id": 53879791288600,
+        "product_id": 10367202263320,
+        "position": 6,
+        "created_at": "2026-08-31T08:56:49-03:00",
+        "updated_at": "2026-08-31T08:56:51-03:00",
+        "alt": null,
+        "width": 1080,
+        "height": 1080,
+        "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGEMODELOESCURO.png?v=1788177411",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 53879790403864,
+      "product_id": 10367202263320,
+      "position": 1,
+      "created_at": "2026-08-31T08:56:34-03:00",
+      "updated_at": "2026-08-31T08:56:35-03:00",
+      "alt": null,
+      "width": 1080,
+      "height": 1080,
+      "src": "https://cdn.shopify.com/s/files/1/0698/2808/3992/files/01BEIGEPRODUTO2.png?v=1788177395",
+      "variant_ids": []
+    }
   }
 ]

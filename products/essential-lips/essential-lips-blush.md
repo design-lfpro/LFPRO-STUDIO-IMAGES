@@ -3,14 +3,17 @@ handle: essential-lips-blush
 title: "Essential Lips Blush"
 family: essential-lips
 product_type: "Batom Líquido"
-url: "pending-launch-2026-09-09"
+url: "https://lfpro.com.br/products/essential-lips-blush"
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
-status: dna-v1-pre-launch
+status: dna-v1
 launch_date: 2026-09-09
 assets_local: assets/products/essential-lips-blush/
 shade: Blush
 lipstick_hex_approx: "#C24A73"
+shopify_id: 10367202361624
+shopify_sku: "12706"
+price_brl: "69.90"
 ---
 
 # Essential Lips Blush

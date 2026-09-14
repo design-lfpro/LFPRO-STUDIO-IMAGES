@@ -3,14 +3,17 @@ handle: essential-lips-rose
 title: "Essential Lips Rose"
 family: essential-lips
 product_type: "Batom Líquido"
-url: "pending-launch-2026-09-09"
+url: "https://lfpro.com.br/products/essential-lips-rose"
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
-status: dna-v1-pre-launch
+status: dna-v1
 launch_date: 2026-09-09
 assets_local: assets/products/essential-lips-rose/
 shade: Rose
 lipstick_hex_approx: "#B06B72"
+shopify_id: 10367202623768
+shopify_sku: "12705"
+price_brl: "69.90"
 ---
 
 # Essential Lips Rose

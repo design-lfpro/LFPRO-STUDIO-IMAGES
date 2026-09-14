@@ -3,14 +3,17 @@ handle: essential-lips-mauve
 title: "Essential Lips Mauve"
 family: essential-lips
 product_type: "Batom Líquido"
-url: "pending-launch-2026-09-09"
+url: "https://lfpro.com.br/products/essential-lips-mauve"
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
-status: dna-v1-pre-launch
+status: dna-v1
 launch_date: 2026-09-09
 assets_local: assets/products/essential-lips-mauve/
 shade: Mauve
 lipstick_hex_approx: "#9B4A5E"
+shopify_id: 10367202591000
+shopify_sku: "12707"
+price_brl: "69.90"
 ---
 
 # Essential Lips Mauve

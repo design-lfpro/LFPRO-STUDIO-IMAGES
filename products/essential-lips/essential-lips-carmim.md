@@ -3,14 +3,17 @@ handle: essential-lips-carmim
 title: "Essential Lips Carmim"
 family: essential-lips
 product_type: "Batom Líquido"
-url: "pending-launch-2026-09-09"
+url: "https://lfpro.com.br/products/essential-lips-carmim"
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
-status: dna-v1-pre-launch
+status: dna-v1
 launch_date: 2026-09-09
 assets_local: assets/products/essential-lips-carmim/
 shade: Carmim
 lipstick_hex_approx: "#C21F2C"
+shopify_id: 10367202459928
+shopify_sku: "12709"
+price_brl: "69.90"
 ---
 
 # Essential Lips Carmim
