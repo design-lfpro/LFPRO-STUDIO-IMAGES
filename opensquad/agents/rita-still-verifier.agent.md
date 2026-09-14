@@ -18,7 +18,7 @@ Após generate stills (Nano Banana ou composite). **Antes** de Miguel/Gael chama
 |---|----------|---------|
 | 1 | Monograma LF gold legível | derretido, extra strokes, “calligrafia inventada” — **prioridade máxima** |
 | 1b | Monograma não é outra marca | lido como “LV”, “VL” ou qualquer outro par de letras/marca — falha clássica do modelo confundir com logo de luxo genérico — **prioridade máxima** |
-| 2 | Wordmark LF PRO | ilegível ou letras erradas — **prioridade máxima** |
+| 2 | Wordmark “LF PRO” — **checar por família, não é universal** (ver `brand-dna/00-brand-dna.md` §2.4) | Soft Eye/pincéis/puffs: FAIL se ilegível ou letras erradas. Soft Matte e Primers-Prep (Acqua/Blur/Radiance/Luminous): FAIL se o wordmark **aparecer** — esses produtos só têm o monograma, nenhuma palavra abaixo — **prioridade máxima nos dois sentidos** |
 | 3 | Packaging lock vs packshot | forma/pote/tampa/sifter/puff errados — **prioridade máxima** |
 | 3b | Ambiente | livre (mesa, vanity, pedra, void) — **não bloqueia** se 1–3 PASS |
 | 3c | Hardware inventado | frisos, anéis, gravações ou detalhes metálicos que não existem no packshot real — corpo liso só tem o que a referência mostra |
