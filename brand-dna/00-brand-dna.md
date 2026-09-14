@@ -82,10 +82,23 @@ Observado em **todos** os packshots oficiais baixados:
 
 Observado nos assets:
 
-1. **Monograma LF** — duas letras entrelaçadas/geométricas em **dourado**, centro da tampa ou topo do tubo.  
-2. **Wordmark “LF PRO”** — caixa alta, dourado, frequentemente sob monograma ou vertical no cabo (`LF` monogram + `/ LF PRO`).  
+1. **Monograma LF** — duas letras entrelaçadas/geométricas em **dourado**, centro da tampa ou topo do tubo. Forma exata: um traço curvo estilo "L" cursivo à esquerda entrelaçado com um bloco de arestas retas com dois entalhes horizontais à direita (lê como "F"). **Nunca** redondo, script, círculo, diamante ou "blob" abstrato genérico.
+2. **Wordmark "LF PRO"** — caixa alta, dourado. **NÃO é universal — só existe em famílias específicas.** Ver tabela abaixo. Onde não existe, o produto tem **só o monograma**, sem nenhuma palavra abaixo dele — gerar "LF PRO" nesses casos é FAIL de prioridade máxima (hallucination recorrente do Nano Banana, mesmo com prompt negativo explícito).
 3. Em pincéis: gravação gold no cabo preto + código (`F01`, `C02`, `B03`).  
 4. Em puffs: fita preta com monograma + `LF PRO` em gold.
+
+### 2.4 Tabela — onde o wordmark "LF PRO" existe (crítico, checar antes de gerar)
+
+| Família | Tem wordmark "LF PRO"? | O que tem no lugar |
+|---------|------------------------|---------------------|
+| Soft Eye (pote de pó) | **SIM** — na tampa, ao lado/abaixo do monograma | — |
+| Pincéis (F01, C02, B03) | **SIM** — no cabo, `monograma / LF PRO / código` | — |
+| Puffs | **SIM** — na fita preta | — |
+| Soft Matte (base líquida) | **NÃO** | Só o monograma, direto seguido de "SOFT MATTE / BASE LÍQUIDA" |
+| Primers-Prep (Acqua/Blur/Radiance/Luminous) | **NÃO** | Só o monograma, direto seguido de "MAKEUP PRIMER" |
+| Blend Cream, Cream Color, Corretivo Mousse, Classic/Essential Lips, Lápis, Máscara UP, Esponjas | **Confirmar no packshot da família antes de assumir** — não copiar o padrão de outra família sem checar `01.png` real |
+
+Regra prática pra prompt de IA: quando a família **não** tem wordmark, o prompt deve dizer explicitamente "o único elemento acima do nome do produto é o ícone abstrato do monograma — nunca seguido da palavra PRO ou qualquer wordmark" — repetir essa frase reduz (mas não elimina) a hallucination.
 
 **Proibido em geração:**
 
