@@ -24,9 +24,10 @@ Batom líquido matte LF PRO Essential Lips — tom **Rose**. Ver DNA: [[_family|
 ## Packaging lock (SKU)
 
 - Tubo cilíndrico esguio, fundo arredondado, plástico fosco translúcido acinzentado
-- Tampa preta glossy (~40% do comprimento), friso metálico sutil no encontro tampa-corpo
+- Tampa preta glossy (~40% do comprimento), rosca visível no gargalo (abre parafusando, não é encaixe/click)
 - Monograma LF gold centralizado + wordmark LF PRO gold abaixo
-- Assets: `01.png` packshot off-white
+- **Aplicador (confirmado via `02.png`):** pincel/paleta chata pontiaguda tipo flocado (veludo), preso à tampa — **NÃO é doe-foot esponja arredondada**. Haste preta fina conectando a tampa ao aplicador.
+- Assets: `01.png` packshot fechado off-white; `02.png` aberto + aplicador + swatch (fundo transparente)
 
 ## Cor (hex aproximado — packshot)
 
@@ -43,13 +44,14 @@ Batom líquido matte LF PRO Essential Lips — tom **Rose**. Ver DNA: [[_family|
 
 - **Batom líquido matte.** O sheen visível é do líquido dentro do tubo (reflexo natural de fluido em recipiente translúcido) — NÃO é o acabamento final.
 - **Na pele: matte aveludado, zero brilho.** Nunca renderizar lábios glossy/brilhantes com este produto.
-- Sem macro de swatch aplicado disponível ainda
+- Swatch macro disponível em `02.png`: traço líquido com leve sheen molhado (satin), fluido, diferente do creme opaco de um batom sólido — reflexo é só no swatch fresco, não representa acabamento final na pele
 
 ## Estúdio
 
 | Shot | Uso V1 |
 |------|--------|
-| 01 packshot off-white | **T1 lock** obrigatório |
+| 01 packshot off-white (fechado) | **T1 lock** obrigatório |
+| 02 aberto + aplicador + swatch líquido (fundo transparente) | T1 open-state / T2 texture macro |
 
 ## Claims (site — sem inventar)
 
@@ -84,6 +86,6 @@ extreme close-up liquid matte lipstick LF PRO Essential Lips Rose, dusty rose to
 
 ## Notas V1
 
-- 1 asset (`01.png`)
+- 2 assets (`01.png` fechado, `02.png` aberto + aplicador + swatch)
 - Origem: Google Drive interno LF PRO (pasta FOTO PRODUTO / SITE)
-- Pendências: SKU, preço, URL, claims oficiais, textura/swatch macro
+- Pendências: SKU, preço, URL, claims oficiais
