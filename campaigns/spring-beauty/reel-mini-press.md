@@ -93,7 +93,9 @@ Photoreal factory product commercial in warm natural window light. Smooth, preci
 | S1 v2 | ❌ todos os potes saíram do mesmo tamanho | https://www.magnific.com/app/creation/jUZQWqqLD0 |
 | S1 v3 | ❌ IA não reduziu; base usada para o ajuste manual | https://www.magnific.com/app/creation/79c1BpXJAL |
 | **S1 final** | ✅ ajustado no Photoshop (minis na saída) | https://www.magnific.com/app/creation/8arT5X5IrU |
-| S2 (PS) | ⚠️ a prensa para em cima do pote grande (o pote continua visível) | https://www.magnific.com/app/creation/JN0xnSROq4 |
+| S2 (PS) v1 | ❌ a prensa para em cima do pote grande | https://www.magnific.com/app/creation/JN0xnSROq4 |
+| **S2 final** | ✅ PS: pé da prensa rente à esteira (mesmo formato do S1) | https://www.magnific.com/app/creation/lJGblw6gv9 |
+| S3 (close, prensa embaixo) | aguardando aprovação | https://www.magnific.com/app/creation/ks6Exvg16B |
 
 Refs no Magnific (via CDN Shopify, porque o upload local está bloqueado na rede): `01.png` (identidade) + `05.png` / Info2 (pote fechado + luz quente). O S2 usa o S1 como ref principal.
 
@@ -103,3 +105,5 @@ Ref do mini no Magnific: upload "compact sobre pó com sulco" (= `PRODUTO-CLARO.
 **Aprendizado:** o Nano Banana copia o tamanho dos potes vizinhos. É preciso dizer **quais** potes (posição no quadro) e dar a proporção numérica (mini ≈ ½ do diâmetro; mini ⌀≈1.3×altura; grande ⌀≈2.5×altura).
 
 **Regra do truque:** o Kling só interpola entre os frames, sem "entender" a intenção. A troca grande→mini só fica invisível se, **no frame em que a prensa está embaixo, o pote não aparece de jeito nenhum**. Solução: o pé da prensa vira um **sino/cilindro oco** mais largo e mais alto que o pote grande (igual à Océane). Desce até a esteira, engole o pote e, ao subir, revela o mini.
+
+**C1 (S1→S2):** Kling 3.0, 5s, 720p, 9:16. Simulação: 350 cr. Aguardando OK para gerar.
