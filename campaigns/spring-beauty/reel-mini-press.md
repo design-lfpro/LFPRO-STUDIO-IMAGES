@@ -90,9 +90,12 @@ Photoreal factory product commercial in warm natural window light. Smooth, preci
 |---|---|---|
 | S1 v1 | base aprovada (variação A), sem minis | https://www.magnific.com/app/creation/BhkWqJFoQR |
 | S2 v1 | ❌ descartado (sem minis na saída) | https://www.magnific.com/app/creation/lJGqzUtgv9 |
-| S1 v2 | aguardando aprovação: S1-A + 2 minis na saída | https://www.magnific.com/app/creation/jUZQWqqLD0 |
+| S1 v2 | ❌ todos os potes saíram do mesmo tamanho | https://www.magnific.com/app/creation/jUZQWqqLD0 |
+| S1 v3 | aguardando aprovação: minis com ~½ do diâmetro na saída (inferior esquerda) | https://www.magnific.com/app/creation/79c1BpXJAL |
 
 Refs no Magnific (via CDN Shopify, porque o upload local está bloqueado na rede): `01.png` (identidade) + `05.png` / Info2 (pote fechado + luz quente). O S2 usa o S1 como ref principal.
 
 **Fluxo da esteira:** grandes vêm do fundo (entrada) → prensa → minis saem em direção à câmera (saída).
 Ref do mini no Magnific: upload "compact sobre pó com sulco" (= `PRODUTO-CLARO.png`).
+
+**Aprendizado:** o Nano Banana copia o tamanho dos potes vizinhos. É preciso dizer **quais** potes (posição no quadro) e dar a proporção numérica (mini ≈ ½ do diâmetro; mini ⌀≈1.3×altura; grande ⌀≈2.5×altura).
