@@ -106,4 +106,8 @@ Ref do mini no Magnific: upload "compact sobre pó com sulco" (= `PRODUTO-CLARO.
 
 **Regra do truque:** o Kling só interpola entre os frames, sem "entender" a intenção. A troca grande→mini só fica invisível se, **no frame em que a prensa está embaixo, o pote não aparece de jeito nenhum**. Solução: o pé da prensa vira um **sino/cilindro oco** mais largo e mais alto que o pote grande (igual à Océane). Desce até a esteira, engole o pote e, ao subir, revela o mini.
 
-**C1 (S1→S2):** Kling 3.0, 5s, 720p, 9:16. Simulação: 350 cr. Aguardando OK para gerar.
+**C1 v1 (S1→S2):** Kling 3.0, 5s, 720p, 9:16, 350 cr. https://www.magnific.com/app/creation/iGX76qV3uK
+QC automático (video_analyze):
+- ✅ câmera estática, sol fixo, monograma estável, sem morph nos potes em movimento
+- ⚠️ no final a prensa parece parar **sobre** o pote, com o corpo preto visível entre o pé e a esteira (checar a olho)
+- ⚠️ a mola estica em vez de comprimir; o pote central fica parado enquanto as lâminas deslizam; as engrenagens não giram
