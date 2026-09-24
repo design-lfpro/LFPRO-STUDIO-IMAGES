@@ -81,3 +81,14 @@ Photoreal factory product commercial in warm natural window light. Smooth, preci
 - [ ] Luz natural com sombras de persiana consistentes entre S1–S5
 - [ ] C3 termina ≈ S1 (loop limpo)
 - [ ] Zero texto
+
+## Log de produção
+
+**Regra:** gerar **1 variação por vez** (`count: 1`) para economizar créditos. Nano Banana Pro 2k custa 75 cr/imagem.
+
+| Still | Status | Magnific |
+|---|---|---|
+| S1 | ✅ aprovado (variação A) | https://www.magnific.com/app/creation/BhkWqJFoQR |
+| S2 | aguardando aprovação | https://www.magnific.com/app/creation/lJGqzUtgv9 |
+
+Refs no Magnific (via CDN Shopify, porque o upload local está bloqueado na rede): `01.png` (identidade) + `05.png` / Info2 (pote fechado + luz quente). O S2 usa o S1 como ref principal.
