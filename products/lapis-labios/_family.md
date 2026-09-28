@@ -48,6 +48,10 @@ LF PRO lip pencil identity lock: matte black pencil, gold text "LÁPIS PARA LÁB
 - Não inventar tons além de Caramelo/Chocolate/Magenta
 - **Não perder acentos no texto** — falha observada (2026-09-08): "LAPIS PARA LABIOS" sem acento; correto é sempre **LÁPIS PARA LÁBIOS**
 - **Não inventar frisos/anéis dourados no corpo** — falha observada; o corpo é liso, só tem o texto vertical + monograma, nada de hardware metálico extra
+- **Cone apontado é PRETO, não madeira clara** — falha observada (2026-09-28): IA desenhou cone de madeira bege natural; o real é cone preto fosco com a ponta da mina na cor do tom
+- **Proporção:** lápis muito longo e fino (~20× o diâmetro); a faixa de cor da extremidade traseira ocupa ~8% do comprimento, corte reto
+- **Cap:** curto e mais largo que o corpo (ver packshot solo 01); em composições horizontais preferir **sem cap** — a IA tende a inventar um cap longo e fino
+- **Referência horizontal oficial:** `assets/products/lip-combo-nude-essencial/01.png` (lápis Caramelo deitado + Classic Lips Amber) — usar como ref principal quando o lápis aparecer na horizontal ou em composição com batom
 
 ## Notas V1
 
