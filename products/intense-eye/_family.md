@@ -40,7 +40,7 @@ Packshot oficial isolado por tom, publicado em `assets/products/intense-eye-{tom
 | Tom | Hex aprox. (corpo) | Leitura visual |
 |-----|---------------------|-----------------|
 | **Black** | `#0A0A0A` | preto glossy profundo |
-| **Brown** | `#3B281F` | marrom espresso escuro quente |
+| **Brown** | `#6E5647` | marrom quente médio (corrigido 2026-09-29 — versão anterior `#3B281F` estava errada/escura demais) |
 
 - Texto/monograma gold em ambos os tons: `#C9A227` / `#D4AF37` (padrão de marca)
 - Hex são aproximados (amostra de still, não de fórmula) — mesma ressalva usada nos demais produtos do catálogo

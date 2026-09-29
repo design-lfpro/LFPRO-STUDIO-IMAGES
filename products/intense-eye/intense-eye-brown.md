@@ -23,18 +23,18 @@ Lapiseira retrátil para olhos LF PRO Intense Eye — tom **Brown**. Ver DNA: [[
 
 ## Packaging lock (SKU)
 
-- Lapiseira retrátil (twist-up) cilíndrica fina, casing glossy marrom espresso escuro
+- Lapiseira retrátil (twist-up) cilíndrica fina, casing glossy marrom quente (médio, não espresso escuro)
 - Ponta cônica pontiaguda já estendida, pigmento marrom
 - Friso/rosca de avanço visível no terço inferior do corpo
 - Texto vertical gold `INTENSE EYE` + monograma LF gold (ligature) abaixo, perto da base
 - Tampa cilíndrica marrom glossy separada (mesma cor do corpo), pequeno rebaixo "keyhole" no topo
-- Assets: `01.png` packshot off-white (corpo + tampa)
+- Assets: `01.png` packshot off-white (corpo + tampa) — **atualizado 2026-09-29**, tom corrigido (mais quente que a versão anterior)
 
 ## Cor (hex aproximado — packshot)
 
 | Elemento | Hex aprox. | Descrição |
 |----------|------------|-----------|
-| **Corpo/ponta** | `#3B281F` | marrom espresso escuro quente |
+| **Corpo/ponta** | `#6E5647` | marrom quente médio (corrigido — versão anterior `#3B281F` estava errada/escura demais) |
 | **Logo/texto gold** | `#C9A227` / `#D4AF37` | padrão de marca |
 | **Fundo hero** | `#F7F5F2` | off-white |
 
@@ -58,13 +58,13 @@ Lapiseira retrátil para olhos LF PRO Intense Eye — tom **Brown**. Ver DNA: [[
 ### T1 — product hero
 
 ```
-LF PRO Intense Eye Brown retractable eye pencil, slim cylindrical twist-up mechanical pencil, glossy dark espresso brown casing (#3B281F), gold foil vertical text "INTENSE EYE", gold LF ligature monogram below the text near the base, visible twist/advance mechanism ridge in the lower third, sharp conical brown pigmented tip already extended, matching glossy brown cap resting separately beside the pencil with a small keyhole-shaped recess on top, seamless off-white #F7F5F2 studio background, soft beauty lighting, photorealistic ecommerce product photo, exact shape and logo, no redesign, not a wood pencil.
+LF PRO Intense Eye Brown retractable eye pencil, slim cylindrical twist-up mechanical pencil, glossy warm medium brown casing (#6E5647), gold foil vertical text "INTENSE EYE", gold LF ligature monogram below the text near the base, visible twist/advance mechanism ridge in the lower third, sharp conical brown pigmented tip already extended, matching glossy brown cap resting separately beside the pencil with a small keyhole-shaped recess on top, seamless off-white #F7F5F2 studio background, soft beauty lighting, photorealistic ecommerce product photo, exact shape and logo, no redesign, not a wood pencil.
 ```
 
 ### T2 — texture macro
 
 ```
-extreme close-up LF PRO Intense Eye Brown pencil tip, dark espresso brown pigment #3B281F, sharp conical point, no face, no hands, photorealistic beauty texture macro
+extreme close-up LF PRO Intense Eye Brown pencil tip, warm medium brown pigment #6E5647, sharp conical point, no face, no hands, photorealistic beauty texture macro
 ```
 
 ## Anti-patterns
