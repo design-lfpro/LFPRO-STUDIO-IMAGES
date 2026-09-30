@@ -74,3 +74,18 @@ LF PRO Intense Eye retractable eye pencil identity lock: slim cylindrical twist-
 
 - 2 assets publicados (`01.png` por tom), origem Drive `FOTO PRODUTO`
 - Pendências: SKU, preço, URL, claims oficiais, swatch/textura macro
+
+## Retrato com modelo (T4 antecipado a pedido do cliente)
+
+Personagens cadastradas no Magnific: `intense-eye-modelo-black` (tom Black) e `intense-eye-modelo-brown` (tom Brown). Nunca misturar modelo e tom.
+
+| Regra | Detalhe |
+|-------|---------|
+| **Cor por tom** | Fundo, roupa, unha e make **sempre** na cor do produto: Black = preto · Brown = marrom |
+| **Roupa** | **Exatamente a da foto de personagem** — não descrever/inventar peça nova no prompt |
+| **Escala** | Lapiseira **fina e delicada** (~13 cm, mais fina que um dedo) — nunca maior que a mão/rosto |
+| **Ponta** | Igual ao packshot `01.png` — não inventar ponta de caneta feltro nem cone longo/agulha |
+| **Geração** | **1 imagem por vez** (`count: 1`) |
+| **Pose de referência** | Descrever em texto; não subir imagem com produto/marca de terceiros |
+
+Feedback 2026-09-30 (reprovado): roupa diferente da personagem, produto grande demais na mão, ponta diferente da real.
