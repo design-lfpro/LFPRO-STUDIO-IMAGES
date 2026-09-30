@@ -89,3 +89,6 @@ Personagens cadastradas no Magnific: `intense-eye-modelo-black` (tom Black) e `i
 | **Pose de referência** | Descrever em texto; não subir imagem com produto/marca de terceiros |
 
 Feedback 2026-09-30 (reprovado): roupa diferente da personagem, produto grande demais na mão, ponta diferente da real.
+| **Ponto de contato** | Ponta da lapiseira **na linha dos cílios / delineado do olho** — nunca na sobrancelha (é produto de olho, não de sobrancelha) |
+
+Feedback 2026-09-30 (pose close brown, mão pela direita, mindinho na bochecha): fidelidade de pose **aprovada**; erro = ponta posicionada na cauda da sobrancelha em vez do delineado. Na próxima: "pencil tip touching the upper lash line at the outer corner of the eye, drawing the eyeliner".
