@@ -92,3 +92,13 @@ Personagens cadastradas no Magnific: `intense-eye-modelo-black` (tom Black) e `i
 Feedback 2026-09-30 (reprovado): roupa diferente da personagem, produto grande demais na mão, ponta diferente da real.
 
 Feedback 2026-09-30 (pose close brown, mão pela direita, mindinho na bochecha): fidelidade de pose **aprovada**; erro = ponta posicionada na cauda da sobrancelha em vez do delineado. Na próxima: "pencil tip touching the upper lash line at the outer corner of the eye, drawing the eyeliner".
+
+### Anatomia real (lida do packshot `01.png`) — usar em todo prompt de produto
+
+1. ~55% inferior: corpo cilíndrico reto glossy, texto `INTENSE EYE` gold vertical + monograma LF (glifo fluido tipo fita, **nunca** letras "LF" legíveis)
+2. Colar com **dois anéis finos** em relevo onde o corpo termina
+3. Acima do colar: luva levemente mais fina, mesma cor, afinando **muito gradualmente** no terço superior
+4. Na ponta: só **alguns milímetros** de pigmento, mesma cor — **não** grafite longo exposto, **não** agulha
+5. Tampa: cilindro liso glossy, topo arredondado com furinho, ~1/3 do comprimento
+
+Feedback 2026-10-01 (flat lay 2 cores, luz diagonal): reprovado — embalagem e **ponta** erradas, saiu uma **3ª lapiseira**, monograma virou "LF" legível. Correção: usar packshots como referência `image` direta (uploads `INTENSE EYE BLACK/BROWN PRODUTO.png` no Magnific) além da ficha de produto, travar contagem ("EXACTLY FOUR OBJECTS") e descrever a anatomia acima.
