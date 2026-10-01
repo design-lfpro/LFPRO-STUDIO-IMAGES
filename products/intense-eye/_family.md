@@ -102,3 +102,5 @@ Feedback 2026-09-30 (pose close brown, mão pela direita, mindinho na bochecha):
 5. Tampa: cilindro liso glossy, topo arredondado com furinho, ~1/3 do comprimento
 
 Feedback 2026-10-01 (flat lay 2 cores, luz diagonal): reprovado — embalagem e **ponta** erradas, saiu uma **3ª lapiseira**, monograma virou "LF" legível. Correção: usar packshots como referência `image` direta (uploads `INTENSE EYE BLACK/BROWN PRODUTO.png` no Magnific) além da ficha de produto, travar contagem ("EXACTLY FOUR OBJECTS") e descrever a anatomia acima.
+
+Feedback 2026-10-01 (duas modelos sorrindo, olhando o horizonte): reprovado — **identidade das modelos perdida** (saíram outras pessoas). Causa provável: só refs de personagem da biblioteca + 2 refs de produto diluindo. Correção: passar as **fotos originais das modelos** como referência `image` direta (uploads no Magnific: black = loira, blazer preto, fundo preto, mão no queixo; brown = cabelo castanho preso, blazer marrom, colar dourado, fundo marrom) + bloco "IDENTITY LOCK" no prompt, e omitir produto quando não for necessário.
