@@ -1,0 +1,18 @@
+{
+  "canvas": [1080, 1920],
+  "background": "#050505",
+  "glows": [
+    {"center": [860, 380], "radius": 900, "color": "#1e1e1e"},
+    {"center": [640, 1350], "radius": 900, "color": "#24170f"}
+  ],
+  "items": [
+    {"packshot": "assets/products/intense-eye-black/01.png", "part": 0,
+     "tip": [577, 802], "dir": [-290, 430], "scale": 1.2},
+    {"packshot": "assets/products/intense-eye-black/01.png", "part": 1,
+     "center": [560, 420], "dir": [100, 60], "scale": 1.2},
+    {"packshot": "assets/products/intense-eye-brown/01.png", "part": 0,
+     "tip": [239, 1547], "dir": [-515, 270], "scale": 1.2},
+    {"packshot": "assets/products/intense-eye-brown/01.png", "part": 1,
+     "center": [800, 1500], "dir": [120, -30], "scale": 1.2}
+  ]
+}

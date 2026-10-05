@@ -25,4 +25,4 @@ o formato, o logo e o lettering, e cada tentativa que diverge gasta créditos.
 
 ## Exemplo
 
-`output/intense-eye-hero-black-brown/` (layout.json e v1-composite.png)
+`assets/compositions/intense-eye-hero-black-brown/` (layout.json e v1-composite.png)
