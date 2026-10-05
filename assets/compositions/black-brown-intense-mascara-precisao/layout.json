@@ -1,0 +1,22 @@
+{
+  "canvas": [1080, 1920],
+  "background": "#050505",
+  "glows": [
+    {"center": [540, 520], "radius": 1000, "color": "#1c1c1c"},
+    {"center": [540, 1400], "radius": 1000, "color": "#22160f"}
+  ],
+  "items": [
+    {"packshot": "assets/products/mascara-de-cilios-up-precisao-preta/01.png", "part": 0,
+     "center": [400, 520], "dir": [0, -1], "scale": 0.62},
+    {"packshot": "assets/products/intense-eye-black/01.png", "part": 0,
+     "center": [770, 520], "dir": [0, -1], "scale": 0.85},
+    {"packshot": "assets/products/intense-eye-black/01.png", "part": 1,
+     "center": [870, 740], "dir": [0, -1], "scale": 0.85},
+    {"packshot": "assets/products/mascara-de-cilios-up-precisao-marrom/01.png", "part": 0,
+     "center": [690, 1400], "dir": [0, -1], "scale": 0.62},
+    {"packshot": "assets/products/intense-eye-brown/01.png", "part": 0,
+     "center": [310, 1400], "dir": [0, -1], "scale": 0.85},
+    {"packshot": "assets/products/intense-eye-brown/01.png", "part": 1,
+     "center": [210, 1620], "dir": [0, -1], "scale": 0.85}
+  ]
+}
