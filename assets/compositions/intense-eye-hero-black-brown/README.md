@@ -19,3 +19,9 @@ Lição: a geração com referência (Nano Banana) **não preserva pixels**, ent
 - Refs: só os packshots (@img1 black, @img2 brown); a base composite ficou de fora
 - O prompt define a composição em % do quadro (ponta, ângulo, saída pela borda, zonas vazias para texto e logo) e trava o lettering: sans-serif fino e pequeno, altura de ~1/3 da largura do corpo, monograma do tamanho de 1 letra, tampas sem texto. O negativo proíbe X, cruzamento, serif e "LF" literal.
 - Resultado: https://www.magnific.com/app/creation/ksZS6jy16B (aguardando revisão)
+
+## v3 — montagem do designer + Upscale criativo (2026-10-05)
+- Base: `v2-ref-designer.png`, montagem do designer com os produtos reais e swatches (Magnific `Eby1ipPuuO`)
+- Ferramenta: `images_upscale` (mode creative, 2x, preset ThreeDRenders, creativity 3, resemblance 7, hdr 3, fractality 0); 180 cr no tier M
+- Por quê: o upscale **preserva a composição e o produto** e só eleva o acabamento. Gerar do zero com Nano Banana redesenha o produto.
+- Resultado: https://www.magnific.com/app/creation/aF75NF3fSh (aguardando revisão)
