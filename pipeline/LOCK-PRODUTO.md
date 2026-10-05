@@ -12,7 +12,7 @@ o formato, o logo e o lettering, e cada tentativa que diverge gasta créditos.
    - posiciona, rotaciona e escala cada peça conforme o layout (rascunho do designer)
    - aplica fundo e glow da marca e sombra suave
 2. **Aprovação do layout** sobre o composite. Ajustes de posição são feitos no JSON, sem gastar créditos.
-3. **IA só no ambiente (opcional):** usar o composite como base, editando **apenas o fundo e a luz ambiente**.
+3. **Passada IA (re-render 3D comercial):** o composite vira `@img1` com a ordem de não mover nem adicionar nada; os packshots entram como `@img2..n` + bloco PRODUCT LOCK no prompt. Gerar `count: 1` por vez.
    Depois, **recolar o produto original por cima** com a máscara do composite.
    Se a IA alterar o produto, a recolagem desfaz a alteração.
 4. **Checagem:** logo e lettering precisam ser idênticos aos do packshot. Pela construção, eles são.
