@@ -111,11 +111,33 @@ def render(layout):
         base = base * (1 - w) + np.maximum(base, col) * w
     canvas = Image.fromarray(base.clip(0, 255).astype(np.uint8)).convert("RGBA")
     cache = {}
-    for item in layout["items"]:
+
+    def piece(item):
         p = item["packshot"]
         if p not in cache:
             cache[p] = cutout_parts(p)
-        place(canvas, cache[p][item.get("part", 0)], item)
+        return cache[p][item.get("part", 0)]
+
+    # "floor": {"y": ..., "strength": 0.3, "fade": 350} -> itens com "standing": true
+    # ficam apoiados no piso e ganham reflexo espelhado; os demais vêm por cima.
+    floor = layout.get("floor")
+    standing = [i for i in layout["items"] if floor and i.get("standing")]
+    if standing:
+        layer = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+        for item in standing:
+            place(layer, piece(item), {**item, "shadow": False})
+        fy = floor["y"]
+        refl = layer.crop((0, max(0, fy - (H - fy)), W, fy)).transpose(Image.FLIP_TOP_BOTTOM)
+        ra = np.asarray(refl).astype(np.float32)
+        fade = np.clip(1 - np.arange(ra.shape[0]) / floor.get("fade", 350), 0, 1) * floor.get("strength", 0.3)
+        ra[..., 3] *= fade[:, None]
+        refl = Image.fromarray(ra.astype(np.uint8), "RGBA").filter(ImageFilter.GaussianBlur(floor.get("blur", 2)))
+        canvas.alpha_composite(refl, (0, fy))
+        canvas.alpha_composite(layer)
+    for item in layout["items"]:
+        if item in standing:
+            continue
+        place(canvas, piece(item), item)
     return canvas.convert("RGB")
 
 
