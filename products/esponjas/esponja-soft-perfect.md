@@ -57,7 +57,7 @@ Puff de **veludo alemão** preto para **produtos em pó** (solto ou compacto). F
 - Textura de fita tecida (weave sutil).
 - Logo em **preto** sobre a fita:
   - Monograma **LF** + `/` + wordmark **LF PRO**
-- A fita funciona como **finger loop** — dedos passam por trás; fita na face frontal.
+- **Crítico — abertura na fita:** a fita é costurada apenas na borda SUPERIOR; na borda INFERIOR da fita há uma **abertura/vão visível** (gap) entre a fita e o veludo, por onde os dedos realmente entram para formar o finger-loop. Não é uma fita 100% colada/plana — precisa aparecer esse vão aberto na parte de baixo da faixa (ver referência real de uso).
 - Cor gold quente foil-like (`#C9A227`–`#D4AF37`), não amarelo neon.
 
 ### Callouts oficiais (assets `03`/`04`)
@@ -151,6 +151,7 @@ prefer pure hand+puff composition for V1
 
 - Espuma tipo Face Perfect / beauty blender molhada
 - Sem fita gold ou fita na cor errada
+- Fita gold **sem abertura/vão na borda inferior** (deve parecer um loop de verdade, não um adesivo colado plano)
 - Veludo rosa/branco genérico
 - Usar com base líquida em prompt/claim
 - Confundir com esponja do compacto Soft Finish (se distinta)
