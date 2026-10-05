@@ -6,3 +6,8 @@
   - Nota: o tubo da máscara é preto nos dois tons; só a escova e a fórmula mudam de cor
 - Upscale criativo (creative 2x, ThreeDRenders, creativity 3, resemblance 7, hdr 3; 180 cr):
   https://www.magnific.com/app/creation/WDQITFjcXe (aguardando revisão)
+
+## v2 — cena única com os 4 produtos (pedido: "os 4 na mesma cena, 3D ultrarrealista")
+- `layout-scene.json` + `v2-scene-composite.png`: as máscaras em pé lado a lado (swatches atrás), as Intense Eye deitadas na frente (pontas para a esquerda, para o texto ficar legível), as tampas em pé nas pontas e o piso preto com reflexo
+- Upscale criativo (2x, ThreeDRenders, creativity 4, resemblance 6, hdr 4; 180 cr):
+  https://www.magnific.com/app/creation/huUkqaLvqL (aguardando revisão)
