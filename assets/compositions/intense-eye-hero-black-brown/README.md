@@ -10,3 +10,12 @@
 - Prompt: "re-render @img1" com a ordem de não mover nem adicionar nada + PRODUCT LOCK (twist-up, colar com 3 anéis, tampa lisa sem logo, só "INTENSE EYE" + monograma LF gold, hex por tom) + mudar só luz/material
 - Resultado: https://www.magnific.com/app/creation/UPTNZ1fwny (aguardando revisão)
 - Se o lettering ou o logo derivarem: recolar a região do lettering a partir do composite (pixels reais), sem gerar de novo
+
+### Feedback v1 — reprovado
+A passada "re-render @img1" foi ignorada pelo modelo: as lapiseiras viraram um X e apareceram texto "INTENSE EYE" gigante e serifado, "LF" literal inventado e tampa cortada.
+Lição: a geração com referência (Nano Banana) **não preserva pixels**, então a base composite é tratada só como inspiração.
+
+## Passada IA v2 — do zero, trava no prompt (2026-10-05)
+- Refs: só os packshots (@img1 black, @img2 brown); a base composite ficou de fora
+- O prompt define a composição em % do quadro (ponta, ângulo, saída pela borda, zonas vazias para texto e logo) e trava o lettering: sans-serif fino e pequeno, altura de ~1/3 da largura do corpo, monograma do tamanho de 1 letra, tampas sem texto. O negativo proíbe X, cruzamento, serif e "LF" literal.
+- Resultado: https://www.magnific.com/app/creation/ksZS6jy16B (aguardando revisão)
