@@ -1,0 +1,105 @@
+﻿categoria;linha;produto;variacao;sku;preco;preco_fmt;disponivel_site;handle
+Pele;Primer Acqua;Acqua;Primer Acqua;12610;89.90;R$ 89,90;sim;acqua
+Pele;Primer Luminous;Luminous;Primer Luminous;12611;89.90;R$ 89,90;sim;luminous
+Pele;Primer Radiance;Radiance;Primer Radiance;12612;79.90;R$ 79,90;sim;radiance
+Pele;Primer Blur;Blur;Primer Blur;12613;109.90;R$ 109,90;sim;blur
+Pele;Clear;Clear Clareador De Olheiras;Clareador de olheiras;1482;76.90;R$ 76,90;sim;clear-clareador-de-olheiras
+Pele;Base Soft Matte;Base Soft Matte Cor 01;01;1447;109.90;R$ 109,90;sim;base-soft-matte-cor-01
+Pele;Base Soft Matte;Base Soft Matte Cor 02;02;1448;109.90;R$ 109,90;sim;base-soft-matte-cor-02
+Pele;Base Soft Matte;Base Soft Matte Cor 03;03;1449;109.90;R$ 109,90;sim;base-soft-matte-cor-03
+Pele;Base Soft Matte;Base Soft Matte Cor 04;04;1450;109.90;R$ 109,90;sim;base-soft-matte-cor-04
+Pele;Base Soft Matte;Base Soft Matte Cor 05;05;1451;109.90;R$ 109,90;sim;base-soft-matte-cor-05
+Pele;Base Soft Matte;Base Soft Matte Cor 06;06;1452;109.90;R$ 109,90;sim;base-soft-matte-cor-06
+Pele;Base Soft Matte;Base Soft Matte Cor 07;07;1453;109.90;R$ 109,90;sim;base-soft-matte-cor-07
+Pele;Base Soft Matte;Base Soft Matte Cor 08;08;1454;109.90;R$ 109,90;sim;base-soft-matte-cor-08
+Pele;Base Soft Matte;Base Soft Matte Cor 09;09;1455;109.90;R$ 109,90;sim;base-soft-matte-cor-09
+Pele;Base Soft Matte;Base Soft Matte Cor 10;10;1456;109.90;R$ 109,90;sim;base-soft-matte-cor-10
+Pele;Base Soft Matte;Base Soft Matte Cor 11;11;1457;109.90;R$ 109,90;sim;base-soft-matte-cor-11
+Pele;Base Soft Matte;Base Soft Matte Cor 12;12;1458;109.90;R$ 109,90;sim;base-soft-matte-cor-12
+Pele;Base Soft Matte;Base Soft Matte Cor 13;13;1459;109.90;R$ 109,90;sim;base-soft-matte-cor-13
+Pele;Corretivo Mousse;Corretivo Mousse Cor 01;01;1289;64.90;R$ 64,90;sim;corretivo-mousse-cor-01
+Pele;Corretivo Mousse;Corretivo Mousse Cor 02;02;1290;64.90;R$ 64,90;esgotado;corretivo-mousse-cor-02
+Pele;Corretivo Mousse;Corretivo Mousse Cor 03;03;1291;64.90;R$ 64,90;sim;corretivo-mousse-cor-03
+Pele;Corretivo Mousse;Corretivo Mousse Cor 3.5;3.5;1394;64.90;R$ 64,90;sim;corretivo-mousse-cor-35
+Pele;Corretivo Mousse;Corretivo Mousse Cor 04;04;1292;64.90;R$ 64,90;esgotado;corretivo-mousse-cor-04
+Pele;Corretivo Mousse;Corretivo Mousse Cor 05;05;1293;64.90;R$ 64,90;sim;corretivo-mousse-cor-05
+Pele;Corretivo Mousse;Corretivo Mousse Cor 06;06;1294;64.90;R$ 64,90;esgotado;corretivo-mousse-cor-06
+Pele;Corretivo Mousse;Corretivo Mousse Neutralizador C02 Amarelo;C02 Amarelo;1393;64.90;R$ 64,90;sim;corretivo-mousse-neutralizador-c02
+Pele;Blend Cream;Blend Cream Vanilla;Vanilla;12490;99.90;R$ 99,90;sim;blend-cream-vanilla
+Pele;Blend Cream;Blend Cream Crema;Crema;12489;99.90;R$ 99,90;sim;blend-cream-crema
+Pele;Blend Cream;Blend Cream Cappuccino;Cappuccino;12491;99.90;R$ 99,90;esgotado;blend-cream-cappuccino
+Pele;Blend Cream;Blend Cream Macchiato;Macchiato;12485;99.90;R$ 99,90;sim;blend-cream-macchiato
+Pele;Blend Cream;Blend Cream Mocha;Mocha;12487;99.90;R$ 99,90;sim;blend-cream-mocha
+Pele;Blend Cream;Blend Cream Espresso;Espresso;12488;99.90;R$ 99,90;sim;blend-cream-espresso
+Pele;Pó Soft Eye;Pó Soft Eye Claro;Claro;1379;109.90;R$ 109,90;sim;po-soft-eye-claro
+Pele;Pó Soft Eye;Pó Soft Eye Médio;Médio;1380;109.90;R$ 109,90;sim;po-soft-eye-medio
+Pele;Pó Soft Eye;Pó Soft Eye Escuro;Escuro;1381;109.90;R$ 109,90;sim;po-soft-eye-escuro
+Pele;Pó Soft Finish;Pó Soft Finish Cor Claro;Claro;12623;129.90;R$ 129,90;sim;po-soft-finish-claro
+Pele;Pó Soft Finish;Pó Soft Finish Cor Médio Claro;Médio Claro;12772;129.90;R$ 129,90;sim;po-soft-finish-cor-medio-claro
+Pele;Pó Soft Finish;Pó Soft Finish Cor Médio;Médio;12624;129.90;R$ 129,90;sim;po-soft-finish-medio
+Pele;Pó Soft Finish;Pó Soft Finish Cor Médio Escuro;Médio Escuro;12625;129.90;R$ 129,90;sim;po-soft-finish-medio-escuro
+Pele;Pó Soft Finish;Pó Soft Finish Cor Escuro;Escuro;12626;129.90;R$ 129,90;sim;po-soft-finish-escuro
+Cream Color;Cream Color;Cream Color Candy Blush e Iluminador;Blush e Iluminador;12729;99.90;R$ 99,90;sim;cream-color-candy-blush-e-iluminador
+Cream Color;Cream Color;Cream Color Rose Blush e Iluminador;Blush e Iluminador;12732;99.90;R$ 99,90;sim;paleta-cream-color-blush-e-iluminador-cor-rose
+Cream Color;Cream Color;Cream Color Peach Blush e Iluminador;Blush e Iluminador;12731;99.90;R$ 99,90;sim;cream-color-peach-blush-e-iluminador
+Cream Color;Cream Color;Cream Color Merlot Blush e Iluminador;Blush e Iluminador;12730;99.90;R$ 99,90;sim;cream-color-merlot-blush-e-iluminador
+Cream Color;Cream Color;Cream Color Taupe Blush e Iluminador;Blush e Iluminador;12733;99.90;R$ 99,90;sim;paleta-cream-color-blush-e-iluminador-cor-taupe
+Cream Color;Cream Color;Cream Color Cocoa Duo de Contornos;Duo de Contornos;12734;99.90;R$ 99,90;sim;cream-color-contorno-cocoa
+Cream Color;Cream Color;Cream Color Toffee Duo de Contornos;Duo de Contornos;12735;99.90;R$ 99,90;sim;paleta-cream-color-contorno-cor-toffee
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Candy Blush e Iluminador + Pincel B03;Blush e Iluminador + B03;12745;179.80;R$ 179,80;sim;kit-cream-color-candy-e-pincel-b03
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Rose Blush e Iluminador + Pincel B03;Blush e Iluminador + B03;12748;179.80;R$ 179,80;sim;kit-cream-color-rose-e-pincel-b03
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Peach Blush e Iluminador + Pincel B03;Blush e Iluminador + B03;12747;179.80;R$ 179,80;sim;paleta-cream-color-cor-peach-pincel-b03
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Merlot Blush e Iluminador + Pincel B03;Blush e Iluminador + B03;12746;179.80;R$ 179,80;sim;kit-cream-color-merlot-pincel-b03
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Taupe Blush e Iluminador + Pincel B03;Blush e Iluminador + B03;12749;179.80;R$ 179,80;sim;ki-cream-color-taupe-e-pincel-b03
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Cocoa Duo de Contornos + Pincel B03;Duo de Contornos + B03;12750;179.80;R$ 179,80;sim;kit-cream-color-cocoa-pincel-b03
+Cream Color;Kit Cream Color + Pincel B03;Kit Cream Color Toffee Duo de Contornos + Pincel B03;Duo de Contornos + B03;12751;179.80;R$ 179,80;sim;kit-cream-color-toffee-pincel-b03
+Olhos;Paleta de Sombras;Paleta De Sombras Vital;Paleta de sombras;11907;109.90;R$ 109,90;sim;paleta-de-sombras-vital
+Olhos;Paleta de Sombras;Paleta De Sombras Enérgica;Paleta de sombras;11906;109.90;R$ 109,90;sim;paleta-de-sombras-energica
+Olhos;Sculpt Brow;Sculpt Brow Light;Light;a definir;89.90;R$ 89,90;sim;sculpt-brow-light
+Olhos;Sculpt Brow;Sculpt Brow Medium;Medium;a definir;89.90;R$ 89,90;sim;sculpt-brow-medium
+Olhos;Sculpt Brow;Sculpt Brow Dark;Dark;a definir;89.90;R$ 89,90;sim;sculpt-brow-dark
+Olhos;Intense Eye;Intense Eye Black;Black;a definir;;a definir;sim;intense-eye-black
+Olhos;Intense Eye;Intense Eye Brown;Brown;a definir;;a definir;sim;intense-eye-brown
+Olhos;Máscara de Cílios Up!;Máscara De Cílios Up! Volume Preta;Volume Preta;1439;49.90;R$ 49,90;sim;mascara-de-cilios-up-volume-preta
+Olhos;Máscara de Cílios Up!;Máscara de Cílios Up! Volume Marrom;Volume Marrom;12575;49.90;R$ 49,90;sim;mascara-de-cilios-up-volume-marrom
+Olhos;Máscara de Cílios Up!;Máscara De Cílios Up! Definição Preta;Definição Preta;1431;49.90;R$ 49,90;sim;mascara-de-cilios-up-definicao
+Olhos;Máscara de Cílios Up!;Máscara De Cílios Up! Precisão Preta;Precisão Preta;11889;49.90;R$ 49,90;sim;mascara-de-cilios-up-precisao-preta
+Olhos;Máscara de Cílios Up!;Máscara De Cílios Up! Precisão Marrom;Precisão Marrom;11890;49.90;R$ 49,90;sim;mascara-de-cilios-up-precisao-marrom
+Olhos;Lápis para Olhos;Lápis Para Olhos Preto;Preto;11671;49.90;R$ 49,90;sim;lapis-para-olhos-preto
+Olhos;Lápis para Olhos;Lápis Para Olhos Marrom;Marrom;11669;49.90;R$ 49,90;sim;lapis-para-olhos-marrom
+Olhos;Lápis para Olhos;Lápis para Olhos Cinza;Cinza;12351;49.90;R$ 49,90;sim;lapis-para-olhos-cinza
+Lábios;Classic Lips;Classic Lips Amber;Amber;12701;69.90;R$ 69,90;sim;classic-lips-amber
+Lábios;Classic Lips;Classic Lips Bloom;Bloom;12703;69.90;R$ 69,90;sim;classic-lips-bloom
+Lábios;Classic Lips;Classic Lips Rose;Rose;12700;69.90;R$ 69,90;sim;classic-lips-rose
+Lábios;Classic Lips;Classic Lips Spice;Spice;12702;69.90;R$ 69,90;sim;classic-lips-spice
+Lábios;Classic Lips;Classic Lips Carmim;Carmim;12711;69.90;R$ 69,90;sim;classic-lips-carmim
+Lábios;Classic Lips;Classic Lips Wine;Wine;12704;69.90;R$ 69,90;sim;classic-lips-wine
+Lábios;Essential Lips;Essential Lips Beige;Beige;a definir;;a definir;sim;essential-lips-beige
+Lábios;Essential Lips;Essential Lips Rose;Rose;a definir;;a definir;sim;essential-lips-rose
+Lábios;Essential Lips;Essential Lips Blush;Blush;a definir;;a definir;sim;essential-lips-blush
+Lábios;Essential Lips;Essential Lips Malt;Malt;a definir;;a definir;sim;essential-lips-malt
+Lábios;Essential Lips;Essential Lips Mauve;Mauve;a definir;;a definir;sim;essential-lips-mauve
+Lábios;Essential Lips;Essential Lips Clay;Clay;a definir;;a definir;sim;essential-lips-clay
+Lábios;Essential Lips;Essential Lips Carmim;Carmim;a definir;;a definir;sim;essential-lips-carmim
+Lábios;Essential Lips;Essential Lips Wine;Wine;a definir;;a definir;sim;essential-lips-wine
+Lábios;Lip Combo;Lip Combo Nude Essencial;Classic Lips Amber + Lápis Caramelo;12715;101.80;R$ 101,80;sim;lip-combo-nude-essencial
+Lábios;Lip Combo;Lip Combo Rose Perfeito;Classic Lips Spice + Lápis Magenta;12716;101.80;R$ 101,80;sim;lip-combo-rose-perfeito
+Lábios;Lip Combo;Lip Combo Contorno Perfeito;Classic Lips Rose + Lápis Chocolate;12717;101.80;R$ 101,80;sim;lip-combo-contorno-perfeito
+Lábios;Lip Combo;Lip Combo Nude Natural;Classic Lips Bloom e Amber + Lápis Caramelo;12713;151.70;R$ 151,70;sim;lip-combo-nude-natural
+Lábios;Lip Combo;Lip Combo Rose Natural;Classic Lips Rose e Bloom + Lápis Magenta;12714;151.70;R$ 151,70;sim;lip-combo-rose-natural
+Lábios;Lip Combo;Lip Combo Marcante;Classic Lips Carmim e Spice + Lápis Chocolate;12718;151.70;R$ 151,70;sim;lip-combo-marcante
+Lábios;Lápis para Lábios;Lápis Para Lábios Caramelo;Caramelo;12355;49.90;R$ 49,90;sim;lapis-labios-caramelo
+Lábios;Lápis para Lábios;Lápis Para Lábios Chocolate;Chocolate;12354;49.90;R$ 49,90;sim;lapis-labios-chocolate
+Lábios;Lápis para Lábios;Lápis Para Lábios Magenta;Magenta;12353;49.90;R$ 49,90;sim;lapis-labios-magenta
+Lábios;Primer Labial;Primer Labial;Primer Labial;1078;59.90;R$ 59,90;sim;primer-labial
+Skincare;Skincare;Cleansing Oil;Óleo de limpeza;1228;69.90;R$ 69,90;sim;cleansing-oil
+Skincare;Skincare;Gel De Limpeza;Gel de Limpeza;1229;41.90;R$ 41,90;sim;gel-de-limpeza-facial
+Skincare;Skincare;Gel De Limpeza Controle De Oleosidade;Controle de oleosidade;1484;41.90;R$ 41,90;sim;gel-de-limpeza-controle-da-oleosidade
+Skincare;Skincare;Sérum Facial Com Ácido Salicílico;Com ácido salicílico;1651;62.90;R$ 62,90;sim;serum-facial-acido-salicilico
+Acessórios;Pincel F01;Pincel para Base F01;Para base;12667;89.90;R$ 89,90;sim;pincel-para-base-f01
+Acessórios;Pincel C02;Pincel para Corretivo C02;Para corretivo;12669;79.90;R$ 79,90;sim;pincel-de-corretivo-c02
+Acessórios;Pincel B03;Pincel para Blush e Iluminador B03;Blush e iluminador;12668;99.90;R$ 99,90;sim;pincel-duplo-blush-e-iluminador-b03
+Acessórios;Kit Pincéis;Kit Pincéis;F01 + C02 + B03;12744;242.70;R$ 242,70;sim;trio-pinceis
+Acessórios;Esponja Soft Perfect;Esponja Soft Perfect;Esponja Soft Perfect;1397;29.90;R$ 29,90;sim;esponja-soft-perfect
+Acessórios;Esponja Face Perfect;Esponja Face Perfect;Esponja Face Perfect;11691;49.90;R$ 49,90;sim;esponja-face-perfect
+Acessórios;Apontador;Apontador De Lápis Para Maquiagem;Para lápis de maquiagem;11751;39.90;R$ 39,90;sim;apontador-de-lapis
