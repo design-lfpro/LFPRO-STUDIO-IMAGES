@@ -84,7 +84,8 @@ Ref de composição (cliente): `assets/refs/paletas/lancamento-sunset-stone-peta
 | 2 | https://www.magnific.com/app/creation/79D9jheJAL | composição ✅, produto ❌ (STONE saiu 3×3 com 9 godets, BASIC deformada) |
 | 3 | https://www.magnific.com/app/creation/mEUEo9UhJQ | ❌ não mudou (molde herdou a deformação) |
 | 4 | https://www.magnific.com/app/creation/fHOqEE5CDY | composição ok, ❌ divisões entre godets grossas |
-| 5 | https://www.magnific.com/app/creation/SyTPOlyUb8 | aguardando cliente (refs = 4 elementos de produto + packshot; divisões finas especificadas) |
+| 5 | https://www.magnific.com/app/creation/SyTPOlyUb8 | substituída pela v6 |
+| 6 | https://www.magnific.com/app/creation/EbP51wLuuO | aguardando cliente (do zero: só os 4 elementos de produto; prompt em blocos LOCK forma/cores/logo + posição + técnica) |
 
 Geometria real medida no packshot: divisória ≈ 1/10 da largura do godet; godets ocupam ≈ 90% da base; aro externo fino.
 
