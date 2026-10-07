@@ -80,4 +80,5 @@ Ref de composição (cliente): `assets/refs/paletas/lancamento-sunset-stone-peta
 
 | # | Link | Status |
 |---|------|--------|
-| 1 | https://www.magnific.com/app/creation/tCSCV08mZJ | aguardando cliente |
+| 1 | https://www.magnific.com/app/creation/tCSCV08mZJ | ajuste: muito travado/alinhado |
+| 2 | https://www.magnific.com/app/creation/79D9jheJAL | aguardando cliente (posições soltas, cortes na borda, tampas em ângulos diferentes) |
