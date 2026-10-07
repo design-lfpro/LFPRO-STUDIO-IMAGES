@@ -63,4 +63,7 @@ Estética pedida pelo cliente (ref `assets/refs/paletas/lancamento-sunset-stone-
 
 | # | Paleta | Link | Status |
 |---|--------|------|--------|
-| 1 | PETAL | https://www.magnific.com/app/creation/yid9LcMPW9 | aguardando cliente |
+| 1 | PETAL | https://www.magnific.com/app/creation/yid9LcMPW9 | ✅ aprovada (modelo da série) |
+| 2 | BASIC | https://www.magnific.com/app/creation/yid9lgUPW9 | aguardando cliente |
+| 3 | STONE | https://www.magnific.com/app/creation/UPVJx63wny | aguardando cliente |
+| 4 | SUNSET | https://www.magnific.com/app/creation/79DyjU5JAL | aguardando cliente |
