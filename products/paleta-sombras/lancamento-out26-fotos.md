@@ -73,3 +73,11 @@ Estética pedida pelo cliente (ref `assets/refs/paletas/lancamento-sunset-stone-
 | 6 | BASIC v2 (molde = PETAL aprovada) | https://www.magnific.com/app/creation/iGtZ9pZ3uK | ✅ aprovada |
 
 Regra do cliente: SUNSET replica as formas da STONE; BASIC replica as formas da PETAL. Mesmas posições e swatches, só as cores mudam.
+
+## Série 3: cascata com as 4 paletas
+
+Ref de composição (cliente): `assets/refs/paletas/lancamento-sunset-stone-petal/estetica-cascata-4-paletas-ref.png`. Flat lay de cima, 4 paletas abertas em zigue-zague diagonal, **fundo preto**, sem texto. Ordem de cima para baixo: PETAL, BASIC, STONE, SUNSET. Hex da STONE medidos no packshot real da Vital `01.png`: `#0C0A0B #531A19 #693930 / #6C6262 #B27C73 #E5DDDF` (só o último é cintilante).
+
+| # | Link | Status |
+|---|------|--------|
+| 1 | https://www.magnific.com/app/creation/tCSCV08mZJ | aguardando cliente |
