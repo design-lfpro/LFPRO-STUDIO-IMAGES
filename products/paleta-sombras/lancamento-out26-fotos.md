@@ -56,3 +56,11 @@ Refs: packshot Vital `01` (compacto + textura matte) + packshot Enérgica `01` (
 | 3 | BASIC | 4:5 | https://www.magnific.com/app/creation/ovLBirq829 | ✅ aprovada |
 | 4 | STONE | 4:5 | https://www.magnific.com/app/creation/N2oNZMW6D9 | aguardando cliente (ref só Vital 01) |
 | 5 | SUNSET | 4:5 | https://www.magnific.com/app/creation/UPTUyY9wny | aguardando cliente (ref só Enérgica 01) |
+
+## Série 2: swatch story (uma por paleta)
+
+Estética pedida pelo cliente (ref `assets/refs/paletas/lancamento-sunset-stone-petal/estetica-swatch-story-ref.webp`): 9:16, **fundo preto**, 6 godets soltos em zigue-zague vertical, cada um com o swatch de pó esmagado por trás, **sem texto**. Textura do pó: ref `Paleta_Energica_2.png` (site). Ordem dos godets: topo esq. → base dir. Fazer a primeira, aprovar, e só depois replicar.
+
+| # | Paleta | Link | Status |
+|---|--------|------|--------|
+| 1 | PETAL | https://www.magnific.com/app/creation/yid9LcMPW9 | aguardando cliente |
