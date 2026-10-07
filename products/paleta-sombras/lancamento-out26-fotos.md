@@ -51,4 +51,5 @@ Refs: packshot Vital `01` (compacto + textura matte) + packshot Enérgica `01` (
 
 | # | Paleta | Formato | Link | Status |
 |---|--------|---------|------|--------|
-| 1 | PETAL | 4:5 | https://www.magnific.com/app/creation/dtreg5QXSL | aguardando cliente |
+| 1 | PETAL | 4:5 | https://www.magnific.com/app/creation/dtreg5QXSL | quase: pans invertidos (ref estava de cabeça p/ baixo) |
+| 2 | PETAL v2 | 4:5 | https://www.magnific.com/app/creation/VXbTUu3MMU | aguardando cliente |

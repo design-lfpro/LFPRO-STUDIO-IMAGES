@@ -20,18 +20,18 @@ temperatura: rosada
 
 **Lançamento, paleta nova** de **tons rosados**. **11 g**. Compacto idêntico ao da Vital/Enérgica (cliente, 07/10/2026).
 
-## Pans (grade 2×3, com a paleta na vertical e o espelho em cima)
+## Pans (grade 2×3, paleta aberta com o espelho/dobradiça em cima)
 
-Hex medidos na ref de cor enviada pelo cliente (`petal-cor-ref-ia.png`, imagem de IA). A cintilância foi marcada pelo cliente na foto real (`petal-basic-foto-real-cintilancia.png`, paleta da esquerda).
+Ordem confirmada pelo cliente na foto real (`petal-foto-real-orientacao.jpg`). A ref de IA anterior (`petal-cor-ref-ia.png`) está **de cabeça para baixo**: usar só para cor, nunca para a posição dos pans. Hex medidos na ref de IA.
 
 | Posição | Tom | Acabamento | Hex aprox |
 |---------|-----|------------|-----------|
-| Topo esq. | rosa antigo (dusty rose) | matte | `#A77E7B` |
-| Topo meio | ameixa/plum profundo | matte | `#603748` |
-| Topo dir. | rosa terracota suave | matte | `#B6827B` |
-| Base esq. | framboesa/berry | matte | `#A95265` |
-| Base meio | taupe champagne | **cintilante sutil** | `#B49483` |
-| Base dir. | rosa claro pêssego | **cintilante sutil** | `#EED1BE` |
+| Topo esq. | rosa claro pêssego | **cintilante sutil** | `#EED1BE` |
+| Topo meio | taupe champagne | **cintilante sutil** | `#B49483` |
+| Topo dir. | framboesa/berry | matte | `#A95265` |
+| Base esq. | rosa terracota suave | matte | `#B6827B` |
+| Base meio | ameixa/plum profundo | matte | `#603748` |
+| Base dir. | rosa antigo (dusty rose) | matte | `#A77E7B` |
 
 - Cintilância = micro partículas finas, **sutis como as da Vital e da Enérgica**. Nunca glitter grosso.
 - As fotos de referência do cliente são de IA, com textura estranha, ou reais e usadas, com cor distorcida. Elas servem **só como guia de cor**. A textura vem dos packshots reais da Vital e da Enérgica.
