@@ -82,6 +82,7 @@ Ref de composição (cliente): `assets/refs/paletas/lancamento-sunset-stone-peta
 |---|------|--------|
 | 1 | https://www.magnific.com/app/creation/tCSCV08mZJ | ajuste: muito travado/alinhado |
 | 2 | https://www.magnific.com/app/creation/79D9jheJAL | composição ✅, produto ❌ (STONE saiu 3×3 com 9 godets, BASIC deformada) |
-| 3 | https://www.magnific.com/app/creation/mEUEo9UhJQ | aguardando cliente (molde = v2 + trava 2×3 dos packshots) |
+| 3 | https://www.magnific.com/app/creation/mEUEo9UhJQ | ❌ não mudou (molde herdou a deformação) |
+| 4 | https://www.magnific.com/app/creation/fHOqEE5CDY | aguardando cliente (do zero: 1 ref por paleta + posição/ângulo/câmera/luz técnicos no prompt) |
 
 Anti-pattern recorrente em cenas com várias paletas: o modelo inventa grade 3×3 / compacto quadrado. Sempre reforçar **6 godets 2×3, base retangular horizontal, dobradiça no lado maior**.
