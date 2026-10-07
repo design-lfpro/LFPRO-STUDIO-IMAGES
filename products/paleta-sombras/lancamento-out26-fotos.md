@@ -64,6 +64,10 @@ Estética pedida pelo cliente (ref `assets/refs/paletas/lancamento-sunset-stone-
 | # | Paleta | Link | Status |
 |---|--------|------|--------|
 | 1 | PETAL | https://www.magnific.com/app/creation/yid9LcMPW9 | ✅ aprovada (modelo da série) |
-| 2 | BASIC | https://www.magnific.com/app/creation/yid9lgUPW9 | aguardando cliente |
-| 3 | STONE | https://www.magnific.com/app/creation/UPVJx63wny | aguardando cliente |
-| 4 | SUNSET | https://www.magnific.com/app/creation/79DyjU5JAL | aguardando cliente |
+| 2 | BASIC | https://www.magnific.com/app/creation/yid9lgUPW9 | ❌ reprovada |
+| 3 | STONE | https://www.magnific.com/app/creation/UPVJx63wny | ✅ aprovada |
+| 4 | SUNSET | https://www.magnific.com/app/creation/79DyjU5JAL | ❌ reprovada |
+| 5 | SUNSET v2 (molde = STONE aprovada) | https://www.magnific.com/app/creation/w4MOgOC7EI | aguardando cliente |
+| 6 | BASIC v2 (molde = PETAL aprovada) | https://www.magnific.com/app/creation/iGtZ9pZ3uK | aguardando cliente |
+
+Regra do cliente: SUNSET replica as formas da STONE; BASIC replica as formas da PETAL. Mesmas posições e swatches, só as cores mudam.
