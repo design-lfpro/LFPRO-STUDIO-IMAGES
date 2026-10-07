@@ -80,3 +80,14 @@ Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas
 - Fundo **sempre preto puro**. **Sem mármore**, pedra ou superfície texturizada.
 - Textura do pó = a das fotos reais da Vital/Enérgica (prensado liso e aveludado). Cintilância só nos godets indicados, com micro partículas sutis.
 - Gerar **uma foto por vez** e mostrar ao cliente antes da próxima.
+
+### Elementos na biblioteca do Magnific (produto)
+
+Criados em 07/10/2026 a partir das fotos oficiais do site (Drive `FOTO PRODUTO/FOTO SITE`, salvas como `assets/products/{handle}/01.png`). Usar como reference `type: product` com o id numérico:
+
+| Paleta | Elemento | id |
+|--------|----------|----|
+| PETAL | `LFPRO-Paleta-PETAL` | 2366895 |
+| BASIC | `LFPRO-Paleta-BASIC` | 2366896 |
+| STONE | `LFPRO-Paleta-STONE` | 2366897 |
+| SUNSET | `LFPRO-Paleta-SUNSET` | 2366898 |
