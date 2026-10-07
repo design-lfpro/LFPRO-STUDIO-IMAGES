@@ -5,7 +5,11 @@ Run: 07/10/2026 · Magnific · Nano Banana Pro (`imagen-nano-banana-2`) @ 2k · 
 - STONE = Vital renomeada, SUNSET = Enérgica renomeada (cliente). Refs: packshots `01` de Vital e Enérgica (Shopify CDN).
 - PETAL: **não gerada**, cores desconhecidas (ver ficha). ALLURE/AURA: fora do lançamento.
 
-## Stills gerados (QC pendente)
+## Run 1: REPROVADO pelo cliente
+
+Motivo: superfície de mármore/pedra (o cliente quer fundo só preto). Não usar.
+
+### Stills do run 1
 
 | Arquivo sugerido | Formato | Link Magnific |
 |------------------|---------|---------------|
@@ -40,3 +44,11 @@ Igual ao STONE, trocando os pans por: `top row matte coral terracotta, bronze sh
 ```
 Luxury eyeshadow launch duo photograph, vertical. Two LF PRO black square compact eyeshadow palettes, each an exact copy of its reference image: reference 1 (cool palette: matte black, matte burgundy, matte cool brown / matte cool grey, matte rose taupe, champagne white shimmer) on the left, reference 2 (warm palette: matte coral terracotta, bronze shimmer, matte rust copper / soft-shimmer light peach, matte warm brown, matte peach nude) on the right. Both open with mirror lids up, standing and leaning toward each other at a slight angle, mirrored symmetry, pans in a 2x3 grid exactly as in the references. Keep pan colors, layout and compact geometry identical to the references; no text or names added to any surface. Scene: deep black studio, dark polished surface, warm gold rim light along the compact edges, subtle crushed powder at the base. Premium cosmetics campaign, photorealistic, no people, no extra text.
 ```
+
+## Run 2 (uma por vez, fundo preto puro)
+
+Refs: packshot Vital `01` (compacto + textura matte) + packshot Enérgica `01` (textura do cintilante). Cores via hex no prompt, medidas nas refs do cliente.
+
+| # | Paleta | Formato | Link | Status |
+|---|--------|---------|------|--------|
+| 1 | PETAL | 4:5 | https://www.magnific.com/app/creation/dtreg5QXSL | aguardando cliente |

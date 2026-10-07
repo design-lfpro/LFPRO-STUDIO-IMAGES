@@ -10,7 +10,8 @@ handles:
   - paleta-de-sombras-energica
   - paleta-de-sombras-stone    # lançamento out/26 = Vital renomeada
   - paleta-de-sombras-sunset   # lançamento out/26 = Enérgica renomeada
-  - paleta-de-sombras-petal    # lançamento out/26, paleta nova, gate bloqueado
+  - paleta-de-sombras-petal    # lançamento out/26, paleta nova (rosados)
+  - paleta-de-sombras-basic    # lançamento out/26, paleta nova (marrons)
 ---
 
 # Paletas de Sombras — DNA de família
@@ -56,7 +57,7 @@ LF PRO eyeshadow palette identity lock: black square compact, large gold LF mono
 
 - 01 = hero packaging; 02 = texture/swatch paradise para T2
 
-## Lançamento out/2026: SUNSET · STONE · PETAL
+## Lançamento out/2026: SUNSET · STONE · PETAL · BASIC
 
 Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas antigas.
 
@@ -64,7 +65,8 @@ Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas
 |------|----------|-------|------|-----|--------|
 | **STONE** | Vital | iguais à Vital (fria) | 12 g | 7898715201958 | pronta p/ geração |
 | **SUNSET** | Enérgica | iguais à Enérgica (quente) | 12 g | 7898715201941 | pronta p/ geração |
-| **PETAL** | (nova) | **desconhecidas** | 11 g | 7898715202054 | ⛔ falta foto real |
+| **PETAL** | (nova) | rosados, 2 cintilantes | 11 g | 7898715202054 | cores por ref do cliente |
+| **BASIC** | (nova) | marrons, 1 cintilante | 11 g | 7898715201934 | cores por ref do cliente |
 
 - **ALLURE (ex-AURA) fica fora deste lançamento** (decisão do cliente). Cartucho creme, outra linha. Não usar.
 - Cartucho novo: preto + hot stamping gold (Pantone 871 C); claims **Esfuma Fácil · Alta Pigmentação · Toque Aveludado**
@@ -72,3 +74,9 @@ Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas
 - Refs de cartucho/adesivo: `assets/refs/paletas/lancamento-sunset-stone-petal/`
 - Fontes Drive: `Cartucho Paleta - SUNSET.pdf`, `Cartucho Paleta - STONE.pdf`, `Cartucho Paleta de Sombras - PETAL.pdf`, `Adesivo Paleta - *.pdf`, `DIZERES DE ROTULAGEM PALETA DE SOMBRAS SUNSET E STONE.docx`
 - Registro das fotos geradas: [`lancamento-out26-fotos.md`](lancamento-out26-fotos.md)
+
+### Regras de foto do lançamento (cliente, 07/10/2026)
+
+- Fundo **sempre preto puro**. **Sem mármore**, pedra ou superfície texturizada.
+- Textura do pó = a das fotos reais da Vital/Enérgica (prensado liso e aveludado). Cintilância só nos godets indicados, com micro partículas sutis.
+- Gerar **uma foto por vez** e mostrar ao cliente antes da próxima.
