@@ -8,6 +8,9 @@ blocked_tracks: [T5-face-proof]
 handles:
   - paleta-de-sombras-vital
   - paleta-de-sombras-energica
+  - paleta-de-sombras-stone    # lançamento out/26 = Vital renomeada
+  - paleta-de-sombras-sunset   # lançamento out/26 = Enérgica renomeada
+  - paleta-de-sombras-petal    # lançamento out/26, paleta nova, gate bloqueado
 ---
 
 # Paletas de Sombras — DNA de família
@@ -52,3 +55,20 @@ LF PRO eyeshadow palette identity lock: black square compact, large gold LF mono
 ## Notas V1
 
 - 01 = hero packaging; 02 = texture/swatch paradise para T2
+
+## Lançamento out/2026: SUNSET · STONE · PETAL
+
+Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas antigas.
+
+| Nova | = Antiga | Cores | Peso | EAN | Status |
+|------|----------|-------|------|-----|--------|
+| **STONE** | Vital | iguais à Vital (fria) | 12 g | 7898715201958 | pronta p/ geração |
+| **SUNSET** | Enérgica | iguais à Enérgica (quente) | 12 g | 7898715201941 | pronta p/ geração |
+| **PETAL** | (nova) | **desconhecidas** | 11 g | 7898715202054 | ⛔ falta foto real |
+
+- **ALLURE (ex-AURA) fica fora deste lançamento** (decisão do cliente). Cartucho creme, outra linha. Não usar.
+- Cartucho novo: preto + hot stamping gold (Pantone 871 C); claims **Esfuma Fácil · Alta Pigmentação · Toque Aveludado**
+- Nome da paleta **só** no cartucho/adesivo, nunca na tampa
+- Refs de cartucho/adesivo: `assets/refs/paletas/lancamento-sunset-stone-petal/`
+- Fontes Drive: `Cartucho Paleta - SUNSET.pdf`, `Cartucho Paleta - STONE.pdf`, `Cartucho Paleta de Sombras - PETAL.pdf`, `Adesivo Paleta - *.pdf`, `DIZERES DE ROTULAGEM PALETA DE SOMBRAS SUNSET E STONE.docx`
+- Registro das fotos geradas: [`lancamento-out26-fotos.md`](lancamento-out26-fotos.md)

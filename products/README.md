@@ -19,7 +19,7 @@ Cada família tem `_family.md` (packaging compartilhado) + um `.md` por `handle`
 | pinceis | 4 | `pinceis/` |
 | esponjas | 2 | `esponjas/` |
 | primers-prep | 4 | `primers-prep/` |
-| paleta-sombras | 2 | `paleta-sombras/` |
+| paleta-sombras | 5 (Vital, Enérgica + lançamento STONE, SUNSET, PETAL) | `paleta-sombras/` |
 | lapis-olhos / labios | 6 | `lapis-*` |
 | skincare / outros | resto | ver `assets/catalog/families.json` |
 
