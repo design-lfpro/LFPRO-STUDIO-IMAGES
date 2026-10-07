@@ -23,22 +23,24 @@ Paleta 6 tons **quentes** e intensos (5 opacos + 1 cintilante), personalidade e 
 
 - Mesmo compacto preto + LF gold da família
 - Aberta 2×3 (aprox.):
-  - Topo: coral/terracota matte | bronze **shimmer** | ferrugem/cobre matte
-  - Base: pêssego claro shimmer-soft | marrom quente matte | nude pêssego matte
+  - Topo: coral rosado matte | marrom chocolate matte | terracota ferrugem matte
+  - Base: pêssego rosado claro **cintilante** | terracota tan matte | nude rosado matte
 - 01: closed + open
 - 02: open + crushed warm powder streaks
 
 ## Cores e materiais
 
-| Pan | Hex aprox |
-|-----|-----------|
-| Coral terracota | `#C45A45` / `#B84A3A` |
-| Bronze shimmer | `#8B5A3C` com shine |
-| Ferrugem | `#A04A32` |
-| Pêssego claro | `#E8C4A8` |
-| Marrom quente | `#8B5E3C` |
-| Nude quente | `#D4A88A` |
-| Pack | Preto + gold |
+Hex medidos no packshot real `01.png` (07/10/2026), substituindo a tabela aproximada anterior, que estava errada. Cintilância confirmada pelo cliente: **só o tom mais claro**.
+
+| Pan | Tom | Acabamento | Hex |
+|-----|-----|------------|-----|
+| Topo esq. | coral rosado | matte | `#C05650` |
+| Topo meio | marrom chocolate | matte | `#784131` |
+| Topo dir. | terracota ferrugem | matte | `#A95644` |
+| Base esq. | pêssego rosado claro | **cintilante sutil** | `#DEAE9B` |
+| Base meio | terracota tan | matte | `#B56A4F` |
+| Base dir. | nude rosado | matte | `#D8A08E` |
+| Pack | Preto + gold | | |
 
 ## Logo e tipografia no produto
 
@@ -46,7 +48,7 @@ Paleta 6 tons **quentes** e intensos (5 opacos + 1 cintilante), personalidade e 
 
 ## Textura / fórmula visível
 
-- Cremosos/prensados; bronze com cintilância
+- Prensados aveludados; cintilância só no pêssego rosado claro
 - 02: pós quentes esmagados, alta pigmentação, blendável
 
 ## Fotografia de estúdio do site
@@ -55,15 +57,15 @@ Paleta 6 tons **quentes** e intensos (5 opacos + 1 cintilante), personalidade e 
 
 ## Diferenças vs Vital
 
-- Enérgica = quente (coral, bronze, pêssego)
+- Enérgica = quente (coral rosado, chocolate, terracota, pêssego)
 - Vital = fria (preto, cinza, bordô)
-- Shimmer da Enérgica é bronze central (não branco)
+- O cintilante da Enérgica é o pêssego rosado claro (base esq.); não existe bronze cintilante
 
 ## Prompt anchors (EN)
 
 ### Still lock
 ```
-Exact LF PRO Energica warm eyeshadow palette. Black square compact, gold LF monogram and LF PRO on lid. Open 6 pans: matte coral terracotta, bronze shimmer, matte rust, soft peach, matte warm brown, matte warm nude. Closed lid left, open right. Off-white background, soft studio light. Photorealistic identity lock.
+Exact LF PRO Energica warm eyeshadow palette. Black square compact, gold LF monogram and LF PRO on lid. Open 6 pans: top row matte coral rose, matte deep chocolate brown, matte rust terracotta; bottom row pale peach-pink with subtle fine shimmer, matte terracotta tan, matte soft pink nude. Closed lid left, open right. Off-white background, soft studio light. Photorealistic identity lock.
 ```
 
 ### Studio hero (T1)
@@ -73,7 +75,7 @@ Exact LF PRO Energica warm eyeshadow palette. Black square compact, gold LF mono
 
 ### Texture macro (T2)
 ```
-Open Energica palette with crushed warm powder swatches coral, bronze, rust, peach, brown. Buttery pigment, soft light, beauty macro advertising.
+Open Energica palette with crushed warm powder swatches coral rose, chocolate, rust terracotta, pale peach, terracotta tan, pink nude. Buttery pigment, soft light, beauty macro advertising.
 ```
 
 ## Anti-patterns

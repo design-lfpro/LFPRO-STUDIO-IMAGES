@@ -32,7 +32,7 @@ Duas paletas 6 pan (2×3) em compacto preto: **Vital** (tons frios) e **Enérgic
 | Paleta | Temperatura | Pans (aprox.) |
 |--------|-------------|---------------|
 | **Vital** | Fria | Preto, bordô, marrom frio, cinza, rose taupe matte, branco/champagne shimmer |
-| **Enérgica** | Quente | Coral/terracota, bronze shimmer, ferrugem, pêssego claro, marrom quente, nude quente |
+| **Enérgica** | Quente | Coral rosado, marrom chocolate, terracota ferrugem / pêssego rosado claro (único cintilante), terracota tan, nude rosado |
 
 ## Claims
 
