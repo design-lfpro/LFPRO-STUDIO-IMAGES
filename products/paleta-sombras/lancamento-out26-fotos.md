@@ -85,7 +85,8 @@ Ref de composição (cliente): `assets/refs/paletas/lancamento-sunset-stone-peta
 | 3 | https://www.magnific.com/app/creation/mEUEo9UhJQ | ❌ não mudou (molde herdou a deformação) |
 | 4 | https://www.magnific.com/app/creation/fHOqEE5CDY | composição ok, ❌ divisões entre godets grossas |
 | 5 | https://www.magnific.com/app/creation/SyTPOlyUb8 | substituída pela v6 |
-| 6 | https://www.magnific.com/app/creation/EbP51wLuuO | aguardando cliente (do zero: só os 4 elementos de produto; prompt em blocos LOCK forma/cores/logo + posição + técnica) |
+| 6 | https://www.magnific.com/app/creation/EbP51wLuuO | formato/composição ✅, ❌ espelho com degradê branco CGI |
+| 7 | https://www.magnific.com/app/creation/KLZsP6tkqp | aguardando cliente (molde v6 + espelho escuro real + linguagem ultrarrealista) |
 
 Geometria real medida no packshot: divisória ≈ 1/10 da largura do godet; godets ocupam ≈ 90% da base; aro externo fino.
 
