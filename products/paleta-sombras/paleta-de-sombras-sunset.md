@@ -28,8 +28,9 @@ substitui: paleta-de-sombras-energica
 
 - Compacto preto quadrado; tampa com monograma LF gold grande + LF PRO, **sem o nome "SUNSET" na tampa**
 - Aberta: grade 2×3 com espelho na tampa interna. Pans iguais aos da Enérgica:
-  - Topo: coral/terracota matte | bronze **shimmer** | ferrugem/cobre matte
-  - Base: pêssego claro shimmer-soft | marrom quente matte | nude pêssego matte
+  - Topo: coral/terracota matte | bronze matte | ferrugem/cobre matte
+  - Base: pêssego claro **cintilante sutil** | marrom quente matte | nude pêssego matte
+- ⚠️ Correção do cliente (07/10/2026): na SUNSET **só o tom mais claro (pêssego claro) é cintilante**, os outros 5 são matte. Isso prevalece sobre a ficha antiga da Enérgica, que lista o bronze como shimmer.
 - Nome "SUNSET" aparece **só** no cartucho e no adesivo do fundo
 
 ## Cartucho (embalagem secundária)
@@ -61,12 +62,12 @@ Do cartucho final (Drive, set/2026). **Só estes**, não inventar:
 
 ### Still lock
 ```
-Exact LF PRO eyeshadow palette (reference image = real packshot). Black square compact, large gold LF monogram and LF PRO on closed lid, NO product name printed on the lid. Open palette 6 pans 2x3: top row matte coral terracotta, bronze shimmer, matte rust copper; bottom row soft-shimmer light peach, matte warm brown, matte peach nude. Keep every pan color, the mirror and the compact geometry identical to the reference. Photorealistic identity lock.
+Exact LF PRO eyeshadow palette (reference image = real packshot). Black square compact, large gold LF monogram and LF PRO on closed lid, NO product name printed on the lid. Open palette 6 pans 2x3: top row matte coral terracotta, matte warm bronze brown, matte rust copper; bottom row light peach with subtle fine shimmer (the ONLY shimmer pan), matte warm brown, matte peach nude. Keep every pan color, the mirror and the compact geometry identical to the reference. Photorealistic identity lock.
 ```
 
 ### Launch hero (T1, dark-feed)
 ```
-Luxury eyeshadow launch hero on deep black with warm gold rim light. The exact LF PRO palette from the reference, open with mirror up, 6 pans warm-toned (coral, bronze shimmer, rust, peach, warm brown, nude). Gold LF monogram crisp. Soft crushed powder of the same shades at the base. Premium cosmetics campaign, photorealistic, no text added.
+Luxury eyeshadow launch hero on deep black with warm gold rim light. The exact LF PRO palette from the reference, open with mirror up, 6 pans warm-toned (coral, bronze, rust, light peach shimmer, warm brown, nude; only the light peach shimmers). Gold LF monogram crisp. Soft crushed powder of the same shades at the base. Premium cosmetics campaign, photorealistic, no text added.
 ```
 
 ## Anti-patterns
