@@ -65,7 +65,7 @@ Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas
 |------|----------|-------|------|-----|--------|
 | **STONE** | Vital | iguais à Vital (fria) | 12 g | 7898715201958 | pronta p/ geração |
 | **SUNSET** | Enérgica | iguais à Enérgica (quente) | 12 g | 7898715201941 | pronta p/ geração |
-| **PETAL** | (nova) | rosados, 2 cintilantes | 11 g | 7898715202054 | cores por ref do cliente |
+| **PETAL** | (nova) | rosados, 3 cintilantes | 11 g | 7898715202054 | cores por ref do cliente |
 | **BASIC** | (nova) | marrons, 1 cintilante | 11 g | 7898715201934 | cores por ref do cliente |
 
 - **ALLURE (ex-AURA) fica fora deste lançamento** (decisão do cliente). Cartucho creme, outra linha. Não usar.

@@ -91,3 +91,13 @@ Ref de composição (cliente): `assets/refs/paletas/lancamento-sunset-stone-peta
 Geometria real medida no packshot: divisória ≈ 1/10 da largura do godet; godets ocupam ≈ 90% da base; aro externo fino.
 
 Anti-pattern recorrente em cenas com várias paletas: o modelo inventa grade 3×3 / compacto quadrado. Sempre reforçar **6 godets 2×3, base retangular horizontal, dobradiça no lado maior**.
+
+## Correção PETAL: 3 cintilantes (08/10/2026)
+
+O cliente enviou uma amostra de fábrica mostrando que o rosa terracota (base esq.) também é cintilante. Fotos aprovadas refeitas usando a própria foto como molde e mudando só esse acabamento:
+
+| Foto | Link | Status |
+|------|------|--------|
+| PETAL hero 4:5 (molde: PETAL v2) | https://www.magnific.com/app/creation/YMQE7GyWeC | aguardando cliente |
+| PETAL swatch story 9:16 (molde: swatch v1) | https://www.magnific.com/app/creation/lJcYCS1gv9 | aguardando cliente |
+| Cascata 4 paletas | (pendente: refazer quando a v7 for aprovada) | |

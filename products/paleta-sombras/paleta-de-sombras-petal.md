@@ -29,10 +29,11 @@ Ordem confirmada pelo cliente na foto real (`petal-foto-real-orientacao.jpg`). A
 | Topo esq. | rosa claro pêssego | **cintilante sutil** | `#EED1BE` |
 | Topo meio | taupe champagne | **cintilante sutil** | `#B49483` |
 | Topo dir. | framboesa/berry | matte | `#A95265` |
-| Base esq. | rosa terracota suave | matte | `#B6827B` |
+| Base esq. | rosa terracota suave | **cintilante sutil** | `#B6827B` |
 | Base meio | ameixa/plum profundo | matte | `#603748` |
 | Base dir. | rosa antigo (dusty rose) | matte | `#A77E7B` |
 
+- **3 cintilantes** (correção do cliente, 08/10/2026): pêssego claro, taupe champagne e rosa terracota. A amostra de fábrica (`petal-amostra-terracota-cintilante.webp`, `#B57F6E`) bate com o rosa terracota da foto real (`#C1846F`).
 - Cintilância = micro partículas finas, **sutis como as da Vital e da Enérgica**. Nunca glitter grosso.
 - As fotos de referência do cliente são de IA, com textura estranha, ou reais e usadas, com cor distorcida. Elas servem **só como guia de cor**. A textura vem dos packshots reais da Vital e da Enérgica.
 
