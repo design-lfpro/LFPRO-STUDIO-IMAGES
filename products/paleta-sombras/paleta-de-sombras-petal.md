@@ -24,16 +24,16 @@ temperatura: rosada
 
 Ordem confirmada pelo cliente na foto real (`petal-foto-real-orientacao.jpg`). A ref de IA anterior (`petal-cor-ref-ia.png`) está **de cabeça para baixo**: usar só para cor, nunca para a posição dos pans. Hex medidos na ref de IA.
 
-| Posição | Tom | Acabamento | Hex aprox |
+| Posição | Tom | Acabamento | Hex (foto oficial corrigida, 08/10) |
 |---------|-----|------------|-----------|
-| Topo esq. | rosa claro pêssego | **cintilante sutil** | `#EED1BE` |
-| Topo meio | taupe champagne | **cintilante sutil** | `#B49483` |
-| Topo dir. | rosa coral / salmão (não pink) | matte | `#D88080` |
-| Base esq. | rosa terracota suave | **cintilante sutil** | `#B6827B` |
-| Base meio | ameixa/plum profundo | matte | `#603748` |
-| Base dir. | rosa antigo (dusty rose) | matte | `#A77E7B` |
+| Topo esq. | rosa claro pêssego | **cintilante sutil** | `#E5B6A6` |
+| Topo meio | taupe champagne | **cintilante sutil** | `#B08A82` |
+| Topo dir. | rosa amora / berry rosado fechado | matte | `#803D45` |
+| Base esq. | rosa terracota | **cintilante sutil** | `#B5756F` |
+| Base meio | ameixa/plum profundo | matte | `#5E2D40` |
+| Base dir. | rosa antigo (dusty rose) | matte | `#A46869` |
 
-- Topo dir. corrigido (08/10/2026): amostra de fábrica `petal-amostra-framboesa-real.webp` mede `#DB8181`, um rosa coral quente. **Não é pink, magenta nem framboesa.**
+- **Fonte de verdade de cor: `assets/products/paleta-de-sombras-petal/01.png`** (foto oficial atualizada pelo cliente em 08/10/2026). A leitura anterior do topo dir. como rosa coral `#D88080`, tirada de uma amostra fotografada no celular, foi descartada: o tom é um rosa amora fechado `#803D45`, sem pink vivo.
 - **3 cintilantes** (correção do cliente, 08/10/2026): pêssego claro, taupe champagne e rosa terracota. A amostra de fábrica (`petal-amostra-terracota-cintilante.webp`, `#B57F6E`) bate com o rosa terracota da foto real (`#C1846F`).
 - Cintilância = micro partículas finas, **sutis como as da Vital e da Enérgica**. Nunca glitter grosso.
 - As fotos de referência do cliente são de IA, com textura estranha, ou reais e usadas, com cor distorcida. Elas servem **só como guia de cor**. A textura vem dos packshots reais da Vital e da Enérgica.
