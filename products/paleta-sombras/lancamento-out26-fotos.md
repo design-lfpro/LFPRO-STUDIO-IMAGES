@@ -98,6 +98,8 @@ O cliente enviou uma amostra de fábrica mostrando que o rosa terracota (base es
 
 | Foto | Link | Status |
 |------|------|--------|
-| PETAL hero 4:5 (molde: PETAL v2) | https://www.magnific.com/app/creation/YMQE7GyWeC | aguardando cliente |
-| PETAL swatch story 9:16 (molde: swatch v1) | https://www.magnific.com/app/creation/lJcYCS1gv9 | aguardando cliente |
+| PETAL hero 4:5 (molde: PETAL v2) | https://www.magnific.com/app/creation/YMQE7GyWeC | ok, mas topo dir. pink demais |
+| PETAL hero 4:5 v2 (topo dir. rosa coral #D88080) | https://www.magnific.com/app/creation/gO00mzCSXO | aguardando cliente |
+| PETAL swatch story 9:16 (molde: swatch v1) | https://www.magnific.com/app/creation/lJcYCS1gv9 | ok, mas tom 3 pink demais |
+| PETAL swatch story 9:16 v2 (tom 3 rosa coral #D88080) | https://www.magnific.com/app/creation/SyTThVWUb8 | aguardando cliente |
 | Cascata 4 paletas | (pendente: refazer quando a v7 for aprovada) | |
