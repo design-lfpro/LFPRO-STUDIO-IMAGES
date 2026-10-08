@@ -99,7 +99,9 @@ O cliente enviou uma amostra de fábrica mostrando que o rosa terracota (base es
 | Foto | Link | Status |
 |------|------|--------|
 | PETAL hero 4:5 (molde: PETAL v2) | https://www.magnific.com/app/creation/YMQE7GyWeC | ok, mas topo dir. pink demais |
-| PETAL hero 4:5 v2 (topo dir. rosa coral #D88080) | https://www.magnific.com/app/creation/gO00mzCSXO | aguardando cliente |
+| PETAL hero 4:5 v2 (topo dir. rosa coral #D88080) | https://www.magnific.com/app/creation/gO00mzCSXO | ⚠️ coral descartado: refazer com cores da foto oficial de 08/10 |
 | PETAL swatch story 9:16 (molde: swatch v1) | https://www.magnific.com/app/creation/lJcYCS1gv9 | ok, mas tom 3 pink demais |
-| PETAL swatch story 9:16 v2 (tom 3 rosa coral #D88080) | https://www.magnific.com/app/creation/SyTThVWUb8 | aguardando cliente |
+| PETAL swatch story 9:16 v2 (tom 3 rosa coral #D88080) | https://www.magnific.com/app/creation/SyTThVWUb8 | ⚠️ coral descartado: refazer com cores da foto oficial de 08/10 |
 | Cascata 4 paletas | (pendente: refazer quando a v7 for aprovada) | |
+
+Elemento `LFPRO-Paleta-PETAL` (2366895) atualizado em 08/10 com a foto oficial corrigida e os hex medidos nela.
