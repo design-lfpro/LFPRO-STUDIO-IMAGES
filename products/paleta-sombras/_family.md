@@ -83,11 +83,17 @@ Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas
 
 ### Elementos na biblioteca do Magnific (produto)
 
-Criados em 07/10/2026 a partir das fotos oficiais do site (Drive `FOTO PRODUTO/FOTO SITE`, salvas como `assets/products/{handle}/01.png`). Usar como reference `type: product` com o id numérico:
+Recriados em 14/10/2026 a partir das fotos oficiais revisadas no Photoshop pelo cliente (Drive `FOTO PRODUTO/FOTO SITE`, salvas como `assets/products/{handle}/01.png`). Os elementos de 07/10 (ids 2366895–2366898) foram apagados pelo cliente. Usar como reference `type: product` com o id numérico:
 
 | Paleta | Elemento | id |
 |--------|----------|----|
-| PETAL | `LFPRO-Paleta-PETAL` | 2366895 |
-| BASIC | `LFPRO-Paleta-BASIC` | 2366896 |
-| STONE | `LFPRO-Paleta-STONE` | 2366897 |
-| SUNSET | `LFPRO-Paleta-SUNSET` | 2366898 |
+| PETAL | `LFPRO-Paleta-PETAL` | 2390993 |
+| BASIC | `LFPRO-Paleta-BASIC` | 2390994 |
+| STONE | `LFPRO-Paleta-STONE` | 2390996 |
+| SUNSET | `LFPRO-Paleta-SUNSET` | 2390997 |
+
+Hex medidos nas fotos de 14/10 (fileira da dobradiça primeiro, depois a segunda; ✨ = cintilante):
+- PETAL: `#E5B5A5`✨ `#AF8981`✨ `#8F4148` / `#9B5B55`✨ `#5E2D40` `#A36869`
+- BASIC: `#714A3D` `#9D614A` `#AC7E5D` / `#C99167` `#AE7460`✨ `#E6B194`
+- STONE: `#100E10` `#551D20` `#6B3D37` / `#726565` `#B17B76` `#E5D9DC`✨
+- SUNSET: `#C75E57` `#7F4636` `#AF5948` / `#E5B2A0`✨ `#BB7054` `#DCA28F`
