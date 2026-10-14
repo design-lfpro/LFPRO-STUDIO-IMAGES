@@ -1,1 +1,2 @@
-Drive: FOTO PRODUTO/FOTO SITE/01 BASIC.png (id 1DmeKy_XBHETaaZSPZCjzMHsuGHB5Rmn7) · foto oficial do site, versão revisada no Photoshop pelo cliente em 2026-10-14
+Drive: FOTO PRODUTO/FOTO SITE/01 BASIC.png (id 1DmeKy_XBHETaaZSPZCjzMHsuGHB5Rmn7), versão revisada pelo cliente em 2026-10-14
++ retoque local 2026-10-14: godet base dir. (pêssego nude) recebeu cintilância perolada (textura transplantada do godet rosé cobre da mesma foto, cor #E6B19C, ref. real basic-foto-real-cintilancia-pessego.webp). Só a área x737–843 / y608–688 foi alterada. Script: tools/shimmer_transplant.py (args: amp=10 sheen=20 spark=0.035)
