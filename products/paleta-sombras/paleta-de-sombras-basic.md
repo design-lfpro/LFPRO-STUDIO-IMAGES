@@ -33,7 +33,7 @@ Hex medidos na ref de cor enviada pelo cliente (`basic-cor-ref-ia.png`, imagem d
 | Topo dir. | caramelo / khaki dourado | matte | `#BA8C6A` |
 | Base esq. | dourado tan / mel | matte | `#D0996F` |
 | Base meio | rosé cobre | **cintilante sutil** | `#A36C59` |
-| Base dir. | pêssego claro / nude | **cintilante sutil** | `#E6B194` |
+| Base dir. | pêssego nude rosado | **cintilante perolado (visível)** | `#E6B19C` |
 
 - **2 godets cintilantes** (correção do cliente, 14/10/2026): rosé cobre (base meio) e o tom mais claro, pêssego nude (base dir.). Micro partículas sutis, como na Vital e na Enérgica.
 

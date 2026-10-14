@@ -113,4 +113,4 @@ O tom mais claro (pêssego nude, base dir.) também é cintilante. Foto principa
 | Foto | Link | Status |
 |------|------|--------|
 | 01 BASIC retocada (base dir. cintilante) | https://www.magnific.com/app/creation/ovglYnp829 | ❌ ficou igual (retoque IA sutil demais) |
-| 01 BASIC retoque local (textura do rosé cobre + cor real) | `assets/products/paleta-de-sombras-basic/01.png` | aguardando cliente |
+| 01 BASIC retoque local (textura do rosé cobre + cor real) | `assets/products/paleta-de-sombras-basic/01.png` | ✅ aprovada; elemento 2390994 atualizado (imagem + descrição) |
