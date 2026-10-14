@@ -105,3 +105,11 @@ O cliente enviou uma amostra de fábrica mostrando que o rosa terracota (base es
 | Cascata 4 paletas | (pendente: refazer quando a v7 for aprovada) | |
 
 Elemento `LFPRO-Paleta-PETAL` (2366895) atualizado em 08/10 com a foto oficial corrigida e os hex medidos nela.
+
+## Correção BASIC: 2 cintilantes (14/10/2026)
+
+O tom mais claro (pêssego nude, base dir.) também é cintilante. Foto principal (`01 BASIC`, foto oficial do site) retocada **só no godet base dir.**, com máscara `assets/refs/paletas/masks/basic-01-mask-base-dir.png` (x 739–841, y 610–686) e retouch Nano Banana Pro. O resto da foto não muda.
+
+| Foto | Link | Status |
+|------|------|--------|
+| 01 BASIC retocada (base dir. cintilante) | https://www.magnific.com/app/creation/ovglYnp829 | aguardando cliente |

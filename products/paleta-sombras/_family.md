@@ -66,7 +66,7 @@ Confirmado pelo cliente (07/10/2026): **o compacto é idêntico** ao das paletas
 | **STONE** | Vital | iguais à Vital (fria) | 12 g | 7898715201958 | pronta p/ geração |
 | **SUNSET** | Enérgica | iguais à Enérgica (quente) | 12 g | 7898715201941 | pronta p/ geração |
 | **PETAL** | (nova) | rosados, 3 cintilantes | 11 g | 7898715202054 | cores por ref do cliente |
-| **BASIC** | (nova) | marrons, 1 cintilante | 11 g | 7898715201934 | cores por ref do cliente |
+| **BASIC** | (nova) | marrons, 2 cintilantes | 11 g | 7898715201934 | cores por ref do cliente |
 
 - **ALLURE (ex-AURA) fica fora deste lançamento** (decisão do cliente). Cartucho creme, outra linha. Não usar.
 - Cartucho novo: preto + hot stamping gold (Pantone 871 C); claims **Esfuma Fácil · Alta Pigmentação · Toque Aveludado**
@@ -94,6 +94,6 @@ Recriados em 14/10/2026 a partir das fotos oficiais revisadas no Photoshop pelo 
 
 Hex medidos nas fotos de 14/10 (fileira da dobradiça primeiro, depois a segunda; ✨ = cintilante):
 - PETAL: `#E5B5A5`✨ `#AF8981`✨ `#8F4148` / `#9B5B55`✨ `#5E2D40` `#A36869`
-- BASIC: `#714A3D` `#9D614A` `#AC7E5D` / `#C99167` `#AE7460`✨ `#E6B194`
+- BASIC: `#714A3D` `#9D614A` `#AC7E5D` / `#C99167` `#AE7460`✨ `#E6B194`✨
 - STONE: `#100E10` `#551D20` `#6B3D37` / `#726565` `#B17B76` `#E5D9DC`✨
 - SUNSET: `#C75E57` `#7F4636` `#AF5948` / `#E5B2A0`✨ `#BB7054` `#DCA28F`
