@@ -114,3 +114,16 @@ O tom mais claro (pêssego nude, base dir.) também é cintilante. Foto principa
 |------|------|--------|
 | 01 BASIC retocada (base dir. cintilante) | https://www.magnific.com/app/creation/ovglYnp829 | ❌ ficou igual (retoque IA sutil demais) |
 | 01 BASIC retoque local (textura do rosé cobre + cor real) | `assets/products/paleta-de-sombras-basic/01.png` | ✅ aprovada; elemento 2390994 atualizado (imagem + descrição) |
+
+## Refação com as cores definitivas (15/10/2026)
+
+Fonte de cor: fotos oficiais de 14/10 (`assets/products/{handle}/01.png`) + elementos novos (PETAL 2390993, BASIC 2390994). Molde de composição: a própria imagem aprovada antes.
+
+| Imagem | Molde | Link | Status |
+|--------|-------|------|--------|
+| PETAL foto do produto 4:5 | PETAL v2 aprovada | https://www.magnific.com/app/creation/79eC6pIJAL | aguardando cliente |
+| BASIC foto do produto 4:5 | BASIC aprovada | https://www.magnific.com/app/creation/lJTmyDNgv9 | aguardando cliente |
+| PETAL swatch story 9:16 | PETAL swatch v1 aprovada | https://www.magnific.com/app/creation/bxZDLYS5Y2 | aguardando cliente |
+| BASIC swatch story 9:16 | BASIC swatch v2 aprovada | https://www.magnific.com/app/creation/s70tOBEl8e | aguardando cliente |
+
+Sem refação: STONE swatch (cores corretas). SUNSET e cascata ainda não aprovadas.
