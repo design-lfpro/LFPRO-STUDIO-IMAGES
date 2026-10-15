@@ -144,4 +144,17 @@ Poses (inspiração do cliente, descritas em texto, fotos de terceiros não salv
 
 | Paleta | Link | Status |
 |--------|------|--------|
-| STONE | https://www.magnific.com/app/creation/ksGXCVo16B | aguardando cliente |
+| STONE v1 4:5 | https://www.magnific.com/app/creation/ksGXCVo16B | ❌ unhas nude (original é preta), sem roupa/acessórios |
+| STONE v2 9:16 | https://www.magnific.com/app/creation/mE7GawYhJQ | aguardando cliente |
+
+### Regras da série modelo (cliente, 15/10/2026)
+
+- **Só a pose muda.** ID, maquiagem, cabelo, roupa (tomara que caia preto), acessórios (brincos e colar dourados) e mãos (unha preta amendoada com brilho) iguais às fotos originais das modelos, salvo pedido explícito de outro look.
+- **Formato padrão: 9:16** (stories; mesmo custo que 4:5).
+- Associação modelo ↔ paleta (pelas fotos originais): BASIC = cacheada, esfumado marrom · PETAL = cabelo curtinho, maquiagem rosada · STONE = chanel preto, olhos verdes · SUNSET = ondulado com mechas, maquiagem acobreada.
+
+### Custo por geração via MCP (15/10/2026)
+
+Unlimited do Premium+ **não se aplica** a gerações via MCP (`unlimitedAppliesHere: false`). Por imagem 9:16 com 1 referência:
+Nano Banana Pro 2k = 75 · Nano Banana 2 Flash 2k = 75 · Nano Banana 2 Lite = 60 · Seedream 5 Pro 2k = 100 · Nano Banana Pro 4k = 150.
+Decisão: manter Nano Banana Pro 2k (mesmo preço do Flash, mais fiel). Para muitas variações, considerar fluxo híbrido (prompt daqui, geração no app com ilimitado).
