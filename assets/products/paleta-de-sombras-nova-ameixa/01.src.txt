@@ -1,2 +1,1 @@
-Drive: 01 PETAL.png (id 1AuDixOR6Fgj_PGJjVR8t8TPP5R81o9QT) — v2 2026-10-08: cores ajustadas, 3 cintilantes. Nome oficial: PETAL
-Pans (top L-R / bottom L-R): #E5B6A6(shimmer) #B08981(shimmer) #803D44 / #B5756F(shimmer) #5E2D40 #A46869
+Drive: 01 PETAL.png v3 (2026-10-14). Pans top L-R / bottom L-R: #E5B6A6(shimmer) #B08981(shimmer) #8F4148 / #9A5A54(shimmer) #5E2D40 #A46869
