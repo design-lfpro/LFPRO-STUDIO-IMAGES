@@ -177,4 +177,7 @@ Uma por vez; cada paleta com pose/ângulo diferente; pode ter mais de uma unidad
 | Paleta | Composição | Link | Status |
 |--------|------------|------|--------|
 | PETAL | câmera baixa ~15°; 1 aberta em pé inclinada (¾) + 1 fechada deitada mostrando o LF | https://www.magnific.com/app/creation/O6XxtMSynm | ✅ aprovada |
-| BASIC | vista de cima; 3 unidades em leque (2 fechadas com LF + 1 aberta no topo) | https://www.magnific.com/app/creation/JNdrErtOq4 | aguardando cliente |
+| BASIC v1 | vista de cima; 3 em leque | https://www.magnific.com/app/creation/JNdrErtOq4 | ❌ fundo branco (herdado da foto oficial off-white) + logo LF duplicado/deformado + só 2 unidades |
+| BASIC v2 | vista de cima; 1 aberta + 1 fechada sem sobreposição; ref = foto BASIC fundo preto | https://www.magnific.com/app/creation/nVF9OSAYQD | aguardando cliente |
+
+Lição: NUNCA usar a foto oficial off-white como referência em cena de fundo preto (o modelo copia o fundo). Usar a versão aprovada em fundo preto + elemento. Evitar 3+ unidades sobrepostas (deforma logo/compacto).
