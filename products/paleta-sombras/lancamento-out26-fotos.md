@@ -145,10 +145,12 @@ Poses (inspiração do cliente, descritas em texto, fotos de terceiros não salv
 | Paleta | Link | Status |
 |--------|------|--------|
 | STONE v1 4:5 | https://www.magnific.com/app/creation/ksGXCVo16B | ❌ unhas nude (original é preta), sem roupa/acessórios |
-| STONE v2 9:16 | https://www.magnific.com/app/creation/mE7GawYhJQ | ✅ ok para seguir |
-| PETAL 9:16 (cabeça inclinada nas mãos) | https://www.magnific.com/app/creation/6AmkYEziJO | aguardando cliente |
-| BASIC 9:16 (mão sob o queixo) | https://www.magnific.com/app/creation/79eu3vFJAL | aguardando cliente |
-| SUNSET 9:16 (por cima do ombro) | https://www.magnific.com/app/creation/nVFSeUQYQD | aguardando cliente |
+| STONE v2 9:16 | https://www.magnific.com/app/creation/mE7GawYhJQ | ajuste: olhar pouco imponente |
+| PETAL 9:16 (cabeça inclinada nas mãos) | https://www.magnific.com/app/creation/6AmkYEziJO | ajuste: olhar pouco imponente |
+| PETAL v2 9:16 (¾, queixo baixo, olhar firme, dedos na maçã do rosto) | https://www.magnific.com/app/creation/tCwAKLZmZJ | aguardando cliente |
+| STONE v3 9:16 (¾, queixo baixo, olhar firme, dedos no maxilar) | https://www.magnific.com/app/creation/iGh1Mpo3uK | aguardando cliente |
+| BASIC 9:16 (mão sob o queixo) | https://www.magnific.com/app/creation/79eu3vFJAL | ✅ aprovada |
+| SUNSET 9:16 (por cima do ombro) | https://www.magnific.com/app/creation/nVFSeUQYQD | ✅ aprovada |
 
 ### Regras da série modelo (cliente, 15/10/2026)
 
@@ -161,3 +163,5 @@ Poses (inspiração do cliente, descritas em texto, fotos de terceiros não salv
 Unlimited do Premium+ **não se aplica** a gerações via MCP (`unlimitedAppliesHere: false`). Por imagem 9:16 com 1 referência:
 Nano Banana Pro 2k = 75 · Nano Banana 2 Flash 2k = 75 · Nano Banana 2 Lite = 60 · Seedream 5 Pro 2k = 100 · Nano Banana Pro 4k = 150.
 Decisão: manter Nano Banana Pro 2k (mesmo preço do Flash, mais fiel). Para muitas variações, considerar fluxo híbrido (prompt daqui, geração no app com ilimitado).
+
+Padrão de atitude aprovado (BASIC/SUNSET): rosto ¾, queixo levemente baixo, olhar firme direto na lente, sem sorriso.
