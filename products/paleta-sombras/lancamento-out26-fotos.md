@@ -127,3 +127,11 @@ Fonte de cor: fotos oficiais de 14/10 (`assets/products/{handle}/01.png`) + elem
 | BASIC swatch story 9:16 | BASIC swatch v2 aprovada | https://www.magnific.com/app/creation/s70tOBEl8e | aguardando cliente |
 
 Sem refação: STONE swatch (cores corretas). SUNSET e cascata ainda não aprovadas.
+
+## 4 paletas fundo branco (refação com cores definitivas, 15/10/2026)
+
+Molde: imagem aprovada do cliente (`assets/refs/paletas/lancamento-sunset-stone-petal/composicao-4-paletas-fundo-branco.png`), com cores antigas. Refeita com as mesmas posições e rotações + os 4 elementos de 14/10. Cores mapeadas por posição visual, considerando a rotação de cada paleta (dobradiça = fileira 1).
+
+| Imagem | Link | Status |
+|--------|------|--------|
+| 4 paletas fundo branco 3:4 | https://www.magnific.com/app/creation/jUW8tfALD0 | aguardando cliente |
