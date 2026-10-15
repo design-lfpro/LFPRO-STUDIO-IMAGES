@@ -145,7 +145,10 @@ Poses (inspiração do cliente, descritas em texto, fotos de terceiros não salv
 | Paleta | Link | Status |
 |--------|------|--------|
 | STONE v1 4:5 | https://www.magnific.com/app/creation/ksGXCVo16B | ❌ unhas nude (original é preta), sem roupa/acessórios |
-| STONE v2 9:16 | https://www.magnific.com/app/creation/mE7GawYhJQ | aguardando cliente |
+| STONE v2 9:16 | https://www.magnific.com/app/creation/mE7GawYhJQ | ✅ ok para seguir |
+| PETAL 9:16 (cabeça inclinada nas mãos) | https://www.magnific.com/app/creation/6AmkYEziJO | aguardando cliente |
+| BASIC 9:16 (mão sob o queixo) | https://www.magnific.com/app/creation/79eu3vFJAL | aguardando cliente |
+| SUNSET 9:16 (por cima do ombro) | https://www.magnific.com/app/creation/nVFSeUQYQD | aguardando cliente |
 
 ### Regras da série modelo (cliente, 15/10/2026)
 
