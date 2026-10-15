@@ -135,3 +135,13 @@ Molde: imagem aprovada do cliente (`assets/refs/paletas/lancamento-sunset-stone-
 | Imagem | Link | Status |
 |--------|------|--------|
 | 4 paletas fundo branco 3:4 | https://www.magnific.com/app/creation/jUW8tfALD0 | aguardando cliente |
+
+## Série modelo, olhar em destaque (15/10/2026)
+
+⚠️ Exceção aprovada pelo cliente à regra V1 "sem prova de maquiagem no rosto" (T5). Modelos cadastradas pelo cliente no Magnific: stone-modelo 2393752 · petal-modelo 2393753 · basic-modelo 2393755 · sunset-modelo 2393748.
+Regras: fundo sempre preto; 4:5; maquiagem dos olhos SÓ com os tons da paleta (nunca copiar a maquiagem das fotos de inspiração); boca/blush neutros; sem produto no quadro; uma por vez.
+Poses (inspiração do cliente, descritas em texto, fotos de terceiros não salvas): STONE = mãos emoldurando o rosto, olhar direto · PETAL = cabeça inclinada apoiada nas mãos, olhar para cima/lado · BASIC = mão sob o queixo, ¾ · SUNSET = por cima do ombro, perfil ¾.
+
+| Paleta | Link | Status |
+|--------|------|--------|
+| STONE | https://www.magnific.com/app/creation/ksGXCVo16B | aguardando cliente |
