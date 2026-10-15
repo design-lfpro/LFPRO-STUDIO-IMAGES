@@ -176,4 +176,5 @@ Uma por vez; cada paleta com pose/ângulo diferente; pode ter mais de uma unidad
 
 | Paleta | Composição | Link | Status |
 |--------|------------|------|--------|
-| PETAL | câmera baixa ~15°; 1 aberta em pé inclinada (¾) + 1 fechada deitada mostrando o LF | https://www.magnific.com/app/creation/O6XxtMSynm | aguardando cliente |
+| PETAL | câmera baixa ~15°; 1 aberta em pé inclinada (¾) + 1 fechada deitada mostrando o LF | https://www.magnific.com/app/creation/O6XxtMSynm | ✅ aprovada |
+| BASIC | vista de cima; 3 unidades em leque (2 fechadas com LF + 1 aberta no topo) | https://www.magnific.com/app/creation/JNdrErtOq4 | aguardando cliente |
