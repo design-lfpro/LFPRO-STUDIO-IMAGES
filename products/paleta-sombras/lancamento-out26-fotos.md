@@ -178,6 +178,11 @@ Uma por vez; cada paleta com pose/ângulo diferente; pode ter mais de uma unidad
 |--------|------------|------|--------|
 | PETAL | câmera baixa ~15°; 1 aberta em pé inclinada (¾) + 1 fechada deitada mostrando o LF | https://www.magnific.com/app/creation/O6XxtMSynm | ✅ aprovada |
 | BASIC v1 | vista de cima; 3 em leque | https://www.magnific.com/app/creation/JNdrErtOq4 | ❌ fundo branco (herdado da foto oficial off-white) + logo LF duplicado/deformado + só 2 unidades |
-| BASIC v2 | vista de cima; 1 aberta + 1 fechada sem sobreposição; ref = foto BASIC fundo preto | https://www.magnific.com/app/creation/nVF9OSAYQD | aguardando cliente |
+| BASIC v2 | vista de cima; 1 aberta + 1 fechada | https://www.magnific.com/app/creation/nVF9OSAYQD | ❌ IA deformou (godets 1×6, logo trocado) |
+| BASIC v3 (PRODUTO TRAVADO) | composição local: recorte real da `01.png` × 2 (escala/rotação/brilho diferentes), sombra, reflexo, rim | entregue como arquivo (sem custo de créditos) | aguardando cliente |
 
 Lição: NUNCA usar a foto oficial off-white como referência em cena de fundo preto (o modelo copia o fundo). Usar a versão aprovada em fundo preto + elemento. Evitar 3+ unidades sobrepostas (deforma logo/compacto).
+
+### Trava de produto (15/10/2026): composição a partir do packshot real
+
+A IA deforma o compacto em cenas novas. Método travado: `tools/product_cutout.py` recorta a foto oficial `01.png` (remove fundo off-white, erode 4px e limpa a borda para não ficar halo) e `tools/product_compose.py` monta a cena 9:16 em fundo preto (posição, escala, rotação, brilho por camada, sombra de contato, reflexo na superfície, rim light sutil). O produto é pixel a pixel o real: formato, godets, cores e logo não variam. Limite: só rotação no plano/escala (a foto é frontal), sem ângulos 3D novos.
