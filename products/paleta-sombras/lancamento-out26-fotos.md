@@ -169,3 +169,11 @@ Decisão: manter Nano Banana Pro 2k (mesmo preço do Flash, mais fiel). Para mui
 Padrão de atitude aprovado (BASIC/SUNSET): rosto ¾, queixo levemente baixo, olhar firme direto na lente, sem sorriso.
 
 Lição: com character ref, pose "parecida" com a foto original reproduz a foto. Para mudar de verdade, descrever pose bem diferente + crop mais fechado + "do NOT reproduce the reference pose".
+
+## Série hero por paleta (15/10/2026)
+
+Uma por vez; cada paleta com pose/ângulo diferente; pode ter mais de uma unidade, sempre da mesma paleta; aberta e/ou fechada; fundo preto; 9:16; refs = elemento + foto oficial.
+
+| Paleta | Composição | Link | Status |
+|--------|------------|------|--------|
+| PETAL | câmera baixa ~15°; 1 aberta em pé inclinada (¾) + 1 fechada deitada mostrando o LF | https://www.magnific.com/app/creation/O6XxtMSynm | aguardando cliente |
