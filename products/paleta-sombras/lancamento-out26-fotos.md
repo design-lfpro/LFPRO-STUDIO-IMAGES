@@ -193,4 +193,7 @@ A IA deforma o compacto em cenas novas. Método travado: `tools/product_cutout.p
 
 | Imagem | Link | Status |
 |--------|------|--------|
-| BASIC pilha em leque 9:16 | https://www.magnific.com/app/creation/O6BjKxRynm | aguardando cliente |
+| BASIC pilha em leque 9:16 | https://www.magnific.com/app/creation/O6BjKxRynm | ✅ produto ok; ❌ fundo preto chapado |
+| BASIC pilha em leque v2 (estúdio preto ambientado) | https://www.magnific.com/app/creation/O6BjO1synm | aguardando cliente |
+
+Regra de ambiente (cliente, 19/10/2026): fundo preto **ambientado**, nunca preto chapado: sweep preto/grafite com gradiente de luz, superfície acrílica preta com reflexo real, sombras de contato, rim light. Linguagem ultrarrealista.
