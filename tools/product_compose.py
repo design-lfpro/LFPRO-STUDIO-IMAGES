@@ -2,15 +2,17 @@ import sys, json
 import numpy as np
 from PIL import Image, ImageFilter, ImageChops, ImageEnhance
 # uso: compose.py cut.png out.png '[{"x":540,"y":900,"scale":1.3,"rot":-8,"dim":1.0,"refl":true},...]' [W H]
+# cada camada aceita "cut":"outro.png" para misturar produtos (ex.: PETAL + BASIC)
 cut, out, layers = sys.argv[1], sys.argv[2], json.loads(sys.argv[3])
 W, H = (int(sys.argv[4]), int(sys.argv[5])) if len(sys.argv) > 5 else (1080, 1920)
-P = Image.open(cut).convert('RGBA')
+P0 = Image.open(cut).convert('RGBA')
 canvas = Image.new('RGB', (W, H), (0, 0, 0))
 # leve gradiente de estúdio (preto puro nas bordas, quase preto no centro)
 yy, xx = np.mgrid[0:H, 0:W]
 g = np.clip(1 - np.sqrt(((xx-W/2)/(W*0.75))**2 + ((yy-H*0.45)/(H*0.6))**2), 0, 1) * 14
 canvas = Image.fromarray(np.dstack([g*1.0, g*0.9, g*0.8]).astype(np.uint8))
 def place(L):
+    P = Image.open(L['cut']).convert('RGBA') if 'cut' in L else P0
     p = P.resize((int(P.width*L['scale']), int(P.height*L['scale'])), Image.LANCZOS)
     if L.get('dim', 1) != 1:
         rgb = ImageEnhance.Brightness(p.convert('RGB')).enhance(L['dim']); rgb.putalpha(p.getchannel('A')); p = rgb
