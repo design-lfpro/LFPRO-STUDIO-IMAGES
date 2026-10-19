@@ -217,3 +217,7 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 - Trava de embalagem no prompt + refs: imagem aprovada PETAL fundo preto, foto oficial 14/10, elemento PETAL.
 - https://www.magnific.com/app/creation/yioSjVzPW9 (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
 - Risco: ângulo 3D novo + vários produtos → conferir divisórias, grid 2×3, logo único e cores.
+
+### 4 paletas — torre (ref. still-life de potes empilhados, descrita em texto; 19/10)
+- Geração única com bloco fixo `prompt-trava-produto.md`. 2 fechadas empilhadas (pedestal) + SUNSET aberta no topo, PETAL encostada à esq. num disco preto, STONE deitada à frente-dir. com esfera de vidro, BASIC em pé atrás à dir.
+- https://www.magnific.com/app/creation/lJVr40ngv9 (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
