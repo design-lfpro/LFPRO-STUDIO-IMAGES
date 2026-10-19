@@ -197,3 +197,11 @@ A IA deforma o compacto em cenas novas. Método travado: `tools/product_cutout.p
 | BASIC pilha em leque v2 (estúdio preto ambientado) | https://www.magnific.com/app/creation/O6BjO1synm | aguardando cliente |
 
 Regra de ambiente (cliente, 19/10/2026): fundo preto **ambientado**, nunca preto chapado: sweep preto/grafite com gradiente de luz, superfície acrílica preta com reflexo real, sombras de contato, rim light. Linguagem ultrarrealista.
+
+### PETAL + BASIC lado a lado com pó esmagado (ref. de composição do cliente, descrita em texto; 19/10/2026)
+
+Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BASIC à dir.), pó esmagado dos tons de cada uma em volta; estúdio preto ambientado. Cores mapeadas por posição considerando a rotação.
+
+| Imagem | Link | Status |
+|--------|------|--------|
+| PETAL + BASIC pó esmagado 9:16 | https://www.magnific.com/app/creation/cp5RM240eP | aguardando cliente |
