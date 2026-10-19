@@ -1,6 +1,6 @@
 # Trava de produto — bloco fixo de prompt (paletas lançamento out/26)
 
-Colar no início de qualquer prompt com as paletas. Refs: elementos 2390993 (PETAL), 2390994 (BASIC), 2390996 (STONE), 2390997 (SUNSET) + imagens fundo preto aprovadas. Nunca usar foto off-white do site como ref em cena preta.
+Colar no início de qualquer prompt com as paletas. Refs: SÓ os elementos 2390993 (PETAL), 2390994 (BASIC), 2390996 (STONE), 2390997 (SUNSET) — excesso de refs (ex.: swatches) fez a IA gerar 10–12 pans. Nunca usar foto off-white do site como ref em cena preta.
 
 ```
 FIXED PRODUCT SPEC (identical for every unit, never redesign, never deform): LF PRO eyeshadow palette = thin flat rectangular compact with softly rounded corners, glossy black case. Outer lid: ONE gold-foil LF monogram with the small "LF PRO" wordmark below it, nothing else. When open: mirror on the inside of the lid; the base holds exactly 6 square pressed-powder pans in 2 rows x 3 columns, equal size, separated by THIN black dividers, flat even surfaces. Every open palette is shown with the lid hinge at the TOP of the base and the mirror lid tilted up behind it. Pans listed row nearest the hinge first, left to right (✦ = subtle fine shimmer, all others matte velvety):

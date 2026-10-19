@@ -221,3 +221,6 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 ### 4 paletas — torre (ref. still-life de potes empilhados, descrita em texto; 19/10)
 - Geração única com bloco fixo `prompt-trava-produto.md`. 2 fechadas empilhadas (pedestal) + SUNSET aberta no topo, PETAL encostada à esq. num disco preto, STONE deitada à frente-dir. com esfera de vidro, BASIC em pé atrás à dir.
 - https://www.magnific.com/app/creation/lJVr40ngv9 (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
+- v1 (lJVr40ngv9): posição aprovada, **produtos errados** (10–12 pans, rótulos). Causa: 8 refs, incluindo imagens de swatch.
+- v2: só os 4 elementos de produto como ref; prompt reforça "EXACTLY SIX pans 2x3, never 8/10/12, no labels". https://www.magnific.com/app/creation/eILTCy4dqL (75 cr). Status: aguardando cliente.
+- Lição: em cenas com várias paletas, usar **apenas os elementos de produto** como ref; nada de imagens de swatch/composição.
