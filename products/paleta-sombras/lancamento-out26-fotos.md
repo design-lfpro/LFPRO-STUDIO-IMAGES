@@ -211,3 +211,9 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 - v2: composição local com os recortes REAIS das fotos do site (`tools/product_compose.py`, camadas com `"cut"`), PETAL em cima / BASIC embaixo, 9:16. Base: `assets/refs/paletas/lancamento-sunset-stone-petal/lock/petal-basic-lock-v1.png`.
 - IA só no fundo: retouch *precise* com máscara (produto + margem 12px protegidos) → estúdio preto ambientado + pó triturado nos tons de cada paleta. https://www.magnific.com/app/creation/yiogZZqPW9 (75 cr). Status: aguardando aprovação.
 - Limite: o produto fica no ângulo frontal da foto do site (sem novos ângulos 3D). Para ângulos novos sem deformar → fotos reais do produto nesse ângulo.
+
+### PETAL torre empilhada + aberta em pé (ref. de composição do cliente descrita em texto; 19/10)
+- 3 PETAL fechadas empilhadas em leque solto, a de baixo saindo da borda de um plinto preto brilhante; 1 PETAL aberta em pé no topo (dobradiça vertical à esquerda, espelho aberto como livro, pans 3×2 por causa da rotação). Estúdio preto ambientado.
+- Trava de embalagem no prompt + refs: imagem aprovada PETAL fundo preto, foto oficial 14/10, elemento PETAL.
+- https://www.magnific.com/app/creation/yioSjVzPW9 (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
+- Risco: ângulo 3D novo + vários produtos → conferir divisórias, grid 2×3, logo único e cores.
