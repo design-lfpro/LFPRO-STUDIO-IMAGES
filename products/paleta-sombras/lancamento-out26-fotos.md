@@ -186,3 +186,11 @@ Lição: NUNCA usar a foto oficial off-white como referência em cena de fundo p
 ### Trava de produto (15/10/2026): composição a partir do packshot real
 
 A IA deforma o compacto em cenas novas. Método travado: `tools/product_cutout.py` recorta a foto oficial `01.png` (remove fundo off-white, erode 4px e limpa a borda para não ficar halo) e `tools/product_compose.py` monta a cena 9:16 em fundo preto (posição, escala, rotação, brilho por camada, sombra de contato, reflexo na superfície, rim light sutil). O produto é pixel a pixel o real: formato, godets, cores e logo não variam. Limite: só rotação no plano/escala (a foto é frontal), sem ângulos 3D novos.
+
+### BASIC: pilha em leque (ref. de composição do cliente, descrita em texto; 19/10/2026)
+
+Ângulo 3D (não dá para fazer por composição local) → IA com trava: ref = BASIC fundo preto aprovada + elemento; 2 fechadas empilhadas giradas + 1 aberta no topo; câmera ~50°.
+
+| Imagem | Link | Status |
+|--------|------|--------|
+| BASIC pilha em leque 9:16 | https://www.magnific.com/app/creation/O6BjKxRynm | aguardando cliente |
