@@ -23,6 +23,10 @@ Registro de decisões aprovadas/reprovadas pela LF PRO durante a produção das 
 - A IA embaralha textos de embalagem (ex.: "BASE UOUIRA", "CONCEALE MOUSSE"). Corrigir com retoque por máscara no Magnific (Nano Banana Pro retouch), com máscara justa só sobre o texto; conferir com zoom antes de entregar.
 - Monograma LF nas tampas/lids sai deformado com frequência — sempre conferir com zoom.
 
+### Retoques — SEMPRE perguntar antes
+- Antes de qualquer retoque, seja ele pago no Magnific (retouch/edit por máscara) ou feito localmente (reescrever texto de embalagem, recolorir pan, apagar elementos), **perguntar à cliente**. A pergunta deve listar o problema encontrado, o que seria feito, como (Magnific ou local) e quanto custa.
+- Fluxo: gerar → conferir → entregar a imagem gerada + lista de problemas → **aguardar OK** → retocar.
+
 ### Créditos (MCP — o ilimitado do plano NÃO vale para gerações via MCP)
 | Operação | Custo |
 |----------|-------|
