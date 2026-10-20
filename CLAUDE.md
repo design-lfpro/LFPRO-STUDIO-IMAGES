@@ -19,6 +19,8 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 6. **Modelos LOCK V1:** stills = **Google Nano Banana** (`imagen-nano-banana-2` @ 2k); vídeo = **Seedance 1.5 Pro** (Draft teste / 720p entrega). Ver `brand-dna/01-modelos-magnific.md`.
 7. **FFmpeg** fecha master 9:16; IA gera clipes atômicos 4–8s.
 8. Responder em **PT-BR**; prompts de imagem/vídeo em **EN**.
+9. **Gerar de 1 em 1** na Magnific (`count: 1`), nunca lotes de variações sem pedido explícito.
+10. **Sempre informar gastos:** antes de cada geração, dizer o custo estimado; depois, o custo real e o saldo (`account_balance`). Unlimited do Premium+ **não** vale via MCP — toda geração consome créditos.
 
 ## Onde está o quê
 
