@@ -252,3 +252,10 @@ Refs (só 2): elemento da paleta + tampa fechada real (`lock/lid-fechada-real.pn
   - SUNSET v4 https://www.magnific.com/app/creation/lJMfklQgv9 — fechada horizontal, logo correto, reflexo integrado. Status: aguardando cliente.
   - STONE v5 https://www.magnific.com/app/creation/rgWtqlpxtc — fechada horizontal, logo de pé; tampa brilhante reflete a paleta (pode parecer "pans" na tampa). Status: aguardando cliente.
 - Lição: para fechada em pé, sempre escrever "stands on its LONG edge, landscape, wider than tall, logo upright" e mandar a tampa real como ref.
+
+### PETAL + BASIC flat lay com pó triturado (ref. editorial de 2 paletas abertas em retrato, descrita em texto; 21/10)
+Refs: só elementos PETAL 2390993 + BASIC 2390994 (+ geração anterior como base nas iterações). Cores mapeadas por posição com rotação (PETAL dobradiça à esq.: col. esq. 8F4148/AF8981✦/E5B5A5✦, col. dir. A36869/5E2D40/9B5B55✦; BASIC dobradiça à dir.: col. esq. C99167/AE7460✦/E6B19C✦, col. dir. 714A3D/9D614A/AC7E5D).
+- v1 s7Vfyvkl8e: cores ✔; pans retangulares, espelhos cortados, composição rígida.
+- v2 SypuNsmUb8: composição solta + pó abundante ✔, pans quadrados ✔; estojo arredondado tipo "almofada" ✘.
+- v3 https://www.magnific.com/app/creation/ovUAQhv829 — estojo retangular fino com cantos justos ✔, pans quadrados ✔, cores ✔, composição da v2. Pontos: espelhos claros (refletem luz) e encostados na borda. Status: aguardando cliente. (3 × 75 cr)
+- Lição: para estojo, escrever "CRISP THIN FLAT RECTANGLE, small tight corner radius, narrow bezel, never pillow-shaped" + "perfectly SQUARE pans".
