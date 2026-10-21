@@ -224,3 +224,8 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 - v1 (lJVr40ngv9): posição aprovada, **produtos errados** (10–12 pans, rótulos). Causa: 8 refs, incluindo imagens de swatch.
 - v2: só os 4 elementos de produto como ref; prompt reforça "EXACTLY SIX pans 2x3, never 8/10/12, no labels". https://www.magnific.com/app/creation/eILTCy4dqL (75 cr). Status: aguardando cliente.
 - Lição: em cenas com várias paletas, usar **apenas os elementos de produto** como ref; nada de imagens de swatch/composição.
+
+### STONE aberta + cartucho em pé atrás (ref. de composição palette+box, descrita em texto; 21/10)
+- Refs (só 2): elemento STONE 2390996 + painel frontal do cartucho recortado da arte (`lock/stone-cartucho-painel-frontal.png`, sem linhas de faca/código de barras).
+- Paleta aberta em 3/4 no primeiro plano, cartucho STONE em pé atrás à direita. Estúdio preto ambientado.
+- https://www.magnific.com/app/creation/mEOic1YhJQ (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
