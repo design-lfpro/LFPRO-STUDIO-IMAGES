@@ -264,3 +264,4 @@ Refs: só elementos PETAL 2390993 + BASIC 2390994 (+ geração anterior como bas
 ### SUNSET + STONE flat lay (mesma composição; 21/10)
 Base de composição ovUAQhv829 + elementos SUNSET 2390997 e STONE 2390996. Mapeamento: SUNSET (dobradiça esq.) col. esq. AF5948/7F4636/C75E57, col. dir. DCA28F/BB7054/E5B2A0✦; STONE (dobradiça dir.) col. esq. 726565/B17B76/E5D9DC✦, col. dir. 100E10/551D20/6B3D37.
 - v1 https://www.magnific.com/app/creation/N2hrvmH6D9 — cores ✔, estojo ✔, pó ✔; espelhos claros e encostando nas bordas (herdado da base). Status: aguardando cliente.
+- v2 (ref de composição da cliente ksnIotx16B — foto original, usada só p/ composição) https://www.magnific.com/app/creation/P3IK5kz42C — tampas levantadas (~100°) vistas de cima como faixa preta fina, sem espelho branco ✔; cores ✔; pans quadrados ✔; estojo ✔. Pontos: tampas encostam nas bordas laterais; inclinação menor que na ref. Status: aguardando cliente.
