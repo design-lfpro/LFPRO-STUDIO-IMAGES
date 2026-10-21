@@ -243,3 +243,12 @@ Método: (1) `tools/lid_texture.py` reconstrói a tampa fechada REAL do packshot
 - STONE v4 = STONE v3 (p8L7Wtlehw) com fechada apagada + tampa real → `entregas/lancamento-out26/stone-aberta-fechada-v4.png`
 - SUNSET v2: cena IA só com a aberta (Td1SDNPVNR, 75 cr; superfície acrílica preta lisa, luz difusa, espelho escuro) + tampa real no primeiro plano à esq. → `entregas/lancamento-out26/sunset-aberta-fechada-v2.png`
 - Regra nova: **fechada nunca por IA** — sempre tampa real aplicada localmente.
+
+### Refeitas DO ZERO no Magnific com trava de prompt (cliente, 21/10)
+Cliente: montagem local (STONE v4 / SUNSET v2) ficou fora do padrão, não realista → refazer 100% no Magnific. Passe de realismo intermediário (SUNSET ksn8CMI16B, STONE MBx9Gg2DCm) descartado pelo pedido.
+Refs (só 2): elemento da paleta + tampa fechada real (`lock/lid-fechada-real.png`, upload 9ZmkUM3NYZ). Trava: proporção ≈1,3:1, espessura ≈1/12 da largura, monograma LF sans fino + "LF PRO", 6 pans 2×3 com hex.
+- Rodada 1 (9ZmkUfDNYZ SUNSET, jU0hqmjLD0 STONE): fechada saiu em RETRATO (em pé no lado curto); STONE com logo de lado. Reprovadas internamente.
+- Rodada 2 (+ "LANDSCAPE: visible face wider than tall, logo upright, stands on LONG edge"):
+  - SUNSET v4 https://www.magnific.com/app/creation/lJMfklQgv9 — fechada horizontal, logo correto, reflexo integrado. Status: aguardando cliente.
+  - STONE v5 https://www.magnific.com/app/creation/rgWtqlpxtc — fechada horizontal, logo de pé; tampa brilhante reflete a paleta (pode parecer "pans" na tampa). Status: aguardando cliente.
+- Lição: para fechada em pé, sempre escrever "stands on its LONG edge, landscape, wider than tall, logo upright" e mandar a tampa real como ref.
