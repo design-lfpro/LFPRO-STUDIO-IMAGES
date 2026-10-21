@@ -17,3 +17,6 @@ BACKGROUND: black ambient studio, NOT flat black — charcoal-to-black sweep wit
 ```
 
 Proporção (medida no packshot oficial): estojo **levemente retangular ≈1,25:1** (mais largo que alto), perfil fino. Nem quadrado, nem alongado. Incluir no prompt: "slightly rectangular, about 1.25 times wider than tall, thin flat profile".
+
+## Regra de créditos (cliente, 21/10/2026)
+Gerar **sempre 1 imagem por vez** e mostrar à cliente (link + avaliação) **antes** de qualquer nova geração/correção. Nunca encadear tentativas sem aprovação, mesmo vendo defeitos.
