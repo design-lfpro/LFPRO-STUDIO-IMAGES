@@ -259,3 +259,8 @@ Refs: só elementos PETAL 2390993 + BASIC 2390994 (+ geração anterior como bas
 - v2 SypuNsmUb8: composição solta + pó abundante ✔, pans quadrados ✔; estojo arredondado tipo "almofada" ✘.
 - v3 https://www.magnific.com/app/creation/ovUAQhv829 — estojo retangular fino com cantos justos ✔, pans quadrados ✔, cores ✔, composição da v2. Pontos: espelhos claros (refletem luz) e encostados na borda. Status: aguardando cliente. (3 × 75 cr)
 - Lição: para estojo, escrever "CRISP THIN FLAT RECTANGLE, small tight corner radius, narrow bezel, never pillow-shaped" + "perfectly SQUARE pans".
+- PETAL+BASIC v4 XmgZLoPBfo (espelhos): escuros ✔, mas refletem os pans nítidos (parecem paletas extras) e ainda encostam na borda. Aguardando escolha da cliente (espelho levantado ~100° recomendado).
+
+### SUNSET + STONE flat lay (mesma composição; 21/10)
+Base de composição ovUAQhv829 + elementos SUNSET 2390997 e STONE 2390996. Mapeamento: SUNSET (dobradiça esq.) col. esq. AF5948/7F4636/C75E57, col. dir. DCA28F/BB7054/E5B2A0✦; STONE (dobradiça dir.) col. esq. 726565/B17B76/E5D9DC✦, col. dir. 100E10/551D20/6B3D37.
+- v1 https://www.magnific.com/app/creation/N2hrvmH6D9 — cores ✔, estojo ✔, pó ✔; espelhos claros e encostando nas bordas (herdado da base). Status: aguardando cliente.
