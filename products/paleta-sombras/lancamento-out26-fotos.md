@@ -229,3 +229,4 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 - Refs (só 2): elemento STONE 2390996 + painel frontal do cartucho recortado da arte (`lock/stone-cartucho-painel-frontal.png`, sem linhas de faca/código de barras).
 - Paleta aberta em 3/4 no primeiro plano, cartucho STONE em pé atrás à direita. Estúdio preto ambientado.
 - https://www.magnific.com/app/creation/mEOic1YhJQ (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
+- v2 (cliente: trocar cartucho por paleta fechada + fundo mais preto): ref = v1 mEOic1YhJQ + elemento STONE. Cartucho → STONE fechada em pé (só monograma LF + "LF PRO" na tampa); fundo quase preto com gradiente bem sutil. https://www.magnific.com/app/creation/LwTXQNpswO (75 cr). Status: aguardando cliente.
