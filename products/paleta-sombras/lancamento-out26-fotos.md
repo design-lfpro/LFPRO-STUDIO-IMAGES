@@ -236,3 +236,10 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 ### SUNSET fechada em pé + aberta atrás, feixe de luz (ref. de composição palette duo, descrita em texto; 21/10)
 - Ref: só elemento SUNSET 2390997. Fechada em pé no primeiro plano à esq., aberta atrás à dir.; fundo preto + feixe de luz quente de janela cruzando a cena.
 - https://www.magnific.com/app/creation/If7NMDBtvE (75 cr). Status: aguardando cliente.
+
+### Fechada TRAVADA (21/10) — STONE v4 e SUNSET v2
+Cliente: fechadas deformadas em STONE v3 e SUNSET v1 (IA inventa logo LF serifado e proporção). SUNSET: sem tecido, superfície lisa, luz menos focada, reflexo integrado (espelho mostrava parede branca).
+Método: (1) `tools/lid_texture.py` reconstrói a tampa fechada REAL do packshot oficial (logo/wordmark = pixels reais; ~1/3 direito oculto completado espelhando a borda lisa) → `assets/refs/paletas/lancamento-sunset-stone-petal/lock/lid-fechada-real.png` (424×327, ≈1,3:1). (2) `tools/closed_lid_place.py` apaga a fechada falsa (interpolação do fundo) e aplica a tampa real em perspectiva com espessura, rim light, sombra de contato e reflexo.
+- STONE v4 = STONE v3 (p8L7Wtlehw) com fechada apagada + tampa real → `entregas/lancamento-out26/stone-aberta-fechada-v4.png`
+- SUNSET v2: cena IA só com a aberta (Td1SDNPVNR, 75 cr; superfície acrílica preta lisa, luz difusa, espelho escuro) + tampa real no primeiro plano à esq. → `entregas/lancamento-out26/sunset-aberta-fechada-v2.png`
+- Regra nova: **fechada nunca por IA** — sempre tampa real aplicada localmente.
