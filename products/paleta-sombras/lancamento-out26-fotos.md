@@ -230,3 +230,9 @@ Paletas giradas em retrato (3×2), espelhos abertos para fora (PETAL à esq., BA
 - Paleta aberta em 3/4 no primeiro plano, cartucho STONE em pé atrás à direita. Estúdio preto ambientado.
 - https://www.magnific.com/app/creation/mEOic1YhJQ (Nano Banana Pro 2k, 9:16, 75 cr). Status: aguardando cliente.
 - v2 (cliente: trocar cartucho por paleta fechada + fundo mais preto): ref = v1 mEOic1YhJQ + elemento STONE. Cartucho → STONE fechada em pé (só monograma LF + "LF PRO" na tampa); fundo quase preto com gradiente bem sutil. https://www.magnific.com/app/creation/LwTXQNpswO (75 cr). Status: aguardando cliente.
+- v2 feedback: fechada saiu **quadrada**; fundo pode ser ainda mais preto.
+- v3: https://www.magnific.com/app/creation/p8L7Wtlehw (75 cr) — prompt pediu retângulo ~1,7:1. **Atenção:** medição posterior no packshot oficial (`assets/products/paleta-de-sombras-stone/01.png`): tampa fechada ≈ 415×330 px → **≈1,25:1** (levemente retangular, fina). Se v3 saiu alongada demais, refazer com 1,25:1.
+
+### SUNSET fechada em pé + aberta atrás, feixe de luz (ref. de composição palette duo, descrita em texto; 21/10)
+- Ref: só elemento SUNSET 2390997. Fechada em pé no primeiro plano à esq., aberta atrás à dir.; fundo preto + feixe de luz quente de janela cruzando a cena.
+- https://www.magnific.com/app/creation/If7NMDBtvE (75 cr). Status: aguardando cliente.

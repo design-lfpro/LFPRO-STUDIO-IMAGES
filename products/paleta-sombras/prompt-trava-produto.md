@@ -15,3 +15,5 @@ Bloco de fundo padrão:
 ```
 BACKGROUND: black ambient studio, NOT flat black — charcoal-to-black sweep with a soft gradient of light, glossy black surface with real soft reflections, realistic contact shadows, subtle warm rim light on the black edges. No marble, no white background, no hands, no typography.
 ```
+
+Proporção (medida no packshot oficial): estojo **levemente retangular ≈1,25:1** (mais largo que alto), perfil fino. Nem quadrado, nem alongado. Incluir no prompt: "slightly rectangular, about 1.25 times wider than tall, thin flat profile".
