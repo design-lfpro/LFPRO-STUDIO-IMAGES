@@ -16,8 +16,8 @@ Material de aula: abra [`aula-micro-treinamento.html`](./aula-micro-treinamento.
 | `brand-dna/` | Regras de marca, modelos Magnific, o que trava e o que varia |
 | `products/` | Fichas por família e produto |
 | `tracks/` | Tipos de vídeo (T1…T5) |
-| `opensquad/` | Agentes, cadeia e configuração do time |
-| `pipeline/` | Passos e scripts da V1 |
+| `opensquad/` | Agentes, cadeia e configuração do time (vídeo + texto para social) |
+| `pipeline/` | Passos e scripts da V1 (vídeo) + fluxo de texto para social (copy) |
 | `assets/catalog/` | Índice JSON do catálogo |
 | `assets/products/` | Fotos oficiais do site (packshots) |
 | `output/look-a-final/` | Referência visual do estilo penteadeira escura |
@@ -46,9 +46,15 @@ claude mcp login magnific
 
 ### 4. Pedir uma execução
 
-Exemplo:
+Exemplo (vídeo):
 
 > Herói de produto Soft Eye Claro, estilo penteadeira escura, imagem inicial e final, Kling 3.0, com verificação de logo.
+
+Exemplo (texto para social):
+
+> Legenda pra Reels do Soft Eye Claro, tom provocativo, objetivo vender.
+
+A **Léa Orquestradora** conduz o pedido pelos agentes de texto (`Vini` → `Theo` → `Bia` → `Duda` → `Cacá`) e entrega legenda + layout prontos. Detalhe: `pipeline/README-social-copy.md`.
 
 ---
 
