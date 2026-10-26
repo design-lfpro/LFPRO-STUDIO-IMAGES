@@ -22,6 +22,9 @@ Registro de decisões aprovadas/reprovadas pela LF PRO durante a produção das 
 - Não colocar códigos hex no prompt (a IA imprime os códigos como etiqueta). Usar nome das cores + packshot como referência.
 - A IA embaralha textos de embalagem (ex.: "BASE UOUIRA", "CONCEALE MOUSSE"). Corrigir com retoque por máscara no Magnific (Nano Banana Pro retouch), com máscara justa só sobre o texto; conferir com zoom antes de entregar.
 - Monograma LF nas tampas/lids sai deformado com frequência — sempre conferir com zoom.
+- Pans das paletas = **6 quadrados iguais** (grade 2×3). Paletas muito deitadas em relação à câmera viram retângulos por perspectiva; pedir "em pé/de frente" fez a IA redesenhar a embalagem (9 pans, tampa lateral) — evitar.
+- Textura das sombras = **pó prensado** (mate seco/aveludado, cintilante com partículas). A IA tende a gerar aspecto cremoso/molhado.
+- Retoque Magnific por máscara **não aceita referências**: pedir só "mudar textura" fez a IA trocar as cores dos pans (Petal/Basic/Sunset). Para textura sem mudar cor, usar ajuste local (grão + partículas mantendo a cor média de cada pan) — `scratchpad/scripts/powder.py`.
 
 ### Retoques — SEMPRE perguntar antes
 - Antes de qualquer retoque, seja ele pago no Magnific (retouch/edit por máscara) ou feito localmente (reescrever texto de embalagem, recolorir pan, apagar elementos), **perguntar à cliente**. A pergunta deve listar o problema encontrado, o que seria feito, como (Magnific ou local) e quanto custa.
