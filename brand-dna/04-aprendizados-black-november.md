@@ -23,6 +23,12 @@ Registro de decisões aprovadas/reprovadas pela LF PRO durante a produção das 
 - A IA embaralha textos de embalagem (ex.: "BASE UOUIRA", "CONCEALE MOUSSE"). Corrigir com retoque por máscara no Magnific (Nano Banana Pro retouch), com máscara justa só sobre o texto; conferir com zoom antes de entregar.
 - Monograma LF nas tampas/lids sai deformado com frequência — sempre conferir com zoom.
 - Pans das paletas = **6 quadrados iguais** (grade 2×3). Paletas muito deitadas em relação à câmera viram retângulos por perspectiva; pedir "em pé/de frente" fez a IA redesenhar a embalagem (9 pans, tampa lateral) — evitar.
+- Paletas **em pé (3 linhas × 2 colunas)** — ordem oficial conferida pela cliente (out/2026):
+  - PETAL (tampa à esquerda): berry, malva / rosé-taupe cint., ameixa / pêssego cint., rosé-cobre cint.
+  - BASIC (tampa à direita): mel, marrom escuro / marrom cint., terracota / pêssego cint., oliva.
+  - SUNSET (tampa à esquerda): terracota, rosa claro / marrom escuro, laranja / coral, pêssego cint.
+  - STONE deitada (2×3): preto, burgundy, marrom / cinza, malva, branco cint.
+  - Ao descrever rotação no prompt a IA costuma girar 180° — conferir sempre contra a foto oficial `ref-4-paletas-oficial-cores-v2` (Magnific). Se só a ordem errar, dá para corrigir trocando os pans localmente (`scratchpad/scripts/pan_rotate.py`).
 - Textura das sombras = **pó prensado** (mate seco/aveludado, cintilante com partículas). A IA tende a gerar aspecto cremoso/molhado.
 - Retoque Magnific por máscara **não aceita referências**: pedir só "mudar textura" fez a IA trocar as cores dos pans (Petal/Basic/Sunset). Para textura sem mudar cor, usar ajuste local (grão + partículas mantendo a cor média de cada pan) — `scratchpad/scripts/powder.py`.
 
