@@ -18,11 +18,12 @@ Registro de decisões aprovadas/reprovadas pela LF PRO durante a produção das 
 ### Fidelidade de produto
 - Paletas novas: estojo preto compacto, quase quadrado, tampa com espelho do mesmo tamanho da base, 6 pans em 2×3. Ordem de cores = `assets/products/paleta-de-sombras-*/01.src.txt` (linha de cima = lado da dobradiça).
 - Conferir **posição** de cada pan contra o packshot, não só a cor (Stone já saiu com pans trocados).
-- Espelhos de tampa às vezes "refletem" uma segunda paleta inteira → corrigir (reflexo escuro) antes de entregar.
+- Espelhos de tampa: refletir os pans da própria paleta é correto (produto real tem espelho). Só corrigir quando refletir uma paleta diferente ou ordem errada.
 - Não colocar códigos hex no prompt (a IA imprime os códigos como etiqueta). Usar nome das cores + packshot como referência.
 - A IA embaralha textos de embalagem (ex.: "BASE UOUIRA", "CONCEALE MOUSSE"). Corrigir com retoque por máscara no Magnific (Nano Banana Pro retouch), com máscara justa só sobre o texto; conferir com zoom antes de entregar.
 - Monograma LF nas tampas/lids sai deformado com frequência — sempre conferir com zoom.
 - Pans das paletas = **6 quadrados iguais** (grade 2×3). Paletas muito deitadas em relação à câmera viram retângulos por perspectiva; pedir "em pé/de frente" fez a IA redesenhar a embalagem (9 pans, tampa lateral) — evitar.
+- **Embalagem real das paletas (foto do protótipo, out/2026):** estojo preto brilhante com bordas em degrau; tampa COM espelho (reflexo dos pans no espelho é correto); tampa externa com monograma LF + "LF PRO" em dourado; pans quase quadrados com **cantos arredondados** e **divisórias finas**, preenchendo quase toda a bandeja. A foto do protótipo serve só para forma — os pós dela estão usados, não copiar a textura.
 - Paletas **em pé (3 linhas × 2 colunas)** — ordem oficial conferida pela cliente (out/2026):
   - PETAL (tampa à esquerda): berry, malva / rosé-taupe cint., ameixa / pêssego cint., rosé-cobre cint.
   - BASIC (tampa à direita): mel, marrom escuro / marrom cint., terracota / pêssego cint., oliva.
