@@ -30,6 +30,7 @@ Registro de decisões aprovadas/reprovadas pela LF PRO durante a produção das 
   - SUNSET (tampa à esquerda): terracota, rosa claro / marrom escuro, laranja / coral, pêssego cint.
   - STONE deitada (2×3): preto, burgundy, marrom / cinza, malva, branco cint.
   - Ao descrever rotação no prompt a IA costuma girar 180° — conferir sempre contra a foto oficial `ref-4-paletas-oficial-cores-v2` (Magnific). Se só a ordem errar, dá para corrigir trocando os pans localmente (`scratchpad/scripts/pan_rotate.py`).
+- **Cream Color (blush/iluminador/contorno) é CREMOSO:** superfície lisa, satin/matte-creme, iluminador perolado suave. Nunca usar a referência de textura de pó prensado (Stone) nem relevo/trama nesses pans.
 - Textura das sombras = **pó prensado** (mate seco/aveludado, cintilante com partículas). A IA tende a gerar aspecto cremoso/molhado.
 - Retoque Magnific por máscara **não aceita referências**: pedir só "mudar textura" fez a IA trocar as cores dos pans (Petal/Basic/Sunset). Para textura sem mudar cor, usar ajuste local (grão + partículas mantendo a cor média de cada pan) — `scratchpad/scripts/powder.py`.
 
