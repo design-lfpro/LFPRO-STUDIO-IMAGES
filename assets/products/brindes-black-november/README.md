@@ -16,5 +16,5 @@ Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA
 ## Medidas reais (cliente, 2026-10-29)
 - Hidratante (com pump): 17,5 cm de altura
 - Body splash (com tampa): 18 cm de altura
-- Bag: 13 cm de altura (~74% da altura do hidratante)
+- Bag (deitada, posição normal, zíper em cima): 13 cm de altura × 24 cm de comprimento (sem a alça) — ~74% da altura do hidratante
 - Objetos sempre próximos entre si; fita com a mensagem em looping.
