@@ -12,3 +12,9 @@ Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA
 
 ## Regras de cena
 - Body splash é de vidro transparente: NÃO posicionar a bag (ou qualquer objeto claro) logo atrás dele — a IA desenha um "reflexo invertido" (ex.: alça da bag vista através do vidro) que não condiz com a realidade. Deixar o body splash na frente do fundo preto; a bag fica atrás/ao lado, começando à direita dele.
+
+## Medidas reais (cliente, 2026-10-29)
+- Hidratante (com pump): 17,5 cm de altura
+- Body splash (com tampa): 18 cm de altura
+- Bag: 13 cm de altura (~74% da altura do hidratante)
+- Objetos sempre próximos entre si; fita com a mensagem em looping.
