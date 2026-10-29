@@ -8,4 +8,4 @@ Usar SEMPRE estas 3 imagens como referência de produto dos presentes. Não usar
 | Necessaire off-white com alça lateral e "LF / LF PRO" em baixo-relevo | necessaire-oficial.png | lJeYD33gv9 |
 | Signature Body Splash 120mL (vidro transparente, aro dourado, spray transparente, canudo visível) | signature-body-splash-oficial.png | iGE8fMr3uK |
 
-Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA altura de corpo; com a tampa, o body splash fica só alguns milímetros mais alto que o hidratante com pump. Necessaire bem mais larga, altura ~2/3 dos frascos.
+Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA altura de corpo; com a tampa, o body splash fica só alguns milímetros mais alto que o hidratante com pump. Necessaire GRANDE: comprimento maior que a altura dos frascos — os dois frascos cabem deitados dentro dela; altura da bag ~2/3 da altura dos frascos em pé.
