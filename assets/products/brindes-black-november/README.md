@@ -8,7 +8,7 @@ Usar SEMPRE estas 3 imagens como referência de produto dos presentes. Não usar
 | Necessaire off-white com alça lateral e "LF / LF PRO" em baixo-relevo | necessaire-oficial.png | lJeYD33gv9 |
 | Signature Body Splash 120mL (vidro transparente, aro dourado, spray transparente, canudo visível) | signature-body-splash-oficial.png | iGE8fMr3uK |
 
-Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA altura de corpo; com a tampa, o body splash fica só alguns milímetros mais alto que o hidratante com pump. Necessaire GRANDE: comprimento maior que a altura dos frascos — os dois frascos cabem deitados dentro dela; altura da bag quase igual à altura do CORPO dos frascos (o topo da bag chega perto da base do aro dourado).
+Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA altura de corpo; com a tampa, o body splash fica só alguns milímetros mais alto que o hidratante com pump. Necessaire GRANDE: comprimento maior que a altura dos frascos — os dois frascos cabem deitados dentro dela; altura da bag chega perto do GARGALO dos frascos (topo da bag no nível do ombro/aro dourado — bag quase tão alta quanto o corpo dos frascos).
 
 ## Regras de cena
-- Body splash é de vidro transparente: NÃO posicionar a bag (ou qualquer objeto claro) logo atrás dele — a IA desenha um reflexo/refração invertido da bag dentro do frasco que não condiz com a realidade. Deixar o body splash na frente do fundo preto; a bag fica atrás/ao lado, começando à direita dele.
+- Body splash é de vidro transparente: NÃO posicionar a bag (ou qualquer objeto claro) logo atrás dele — a IA desenha um "reflexo invertido" (ex.: alça da bag vista através do vidro) que não condiz com a realidade. Deixar o body splash na frente do fundo preto; a bag fica atrás/ao lado, começando à direita dele.
