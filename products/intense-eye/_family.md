@@ -2,7 +2,7 @@
 family: intense-eye
 title: Intense Eye
 product_type: Lapiseira Retrátil para Olhos
-status: dna-v1-scaffold
+status: dna-v1
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
 handles:
@@ -12,9 +12,13 @@ handles:
 
 # Intense Eye — DNA de família
 
-Linha de **lapiseira retrátil (twist-up) para olhos** LF PRO. 2 tons: **Black** e **Brown**.
+Linha de **lapiseira retrátil (twist-up) para olhos** LF PRO. 2 tons: **Black** e **Brown**. Preço R$ 89,90 (unidade), 350mg.
 
-**Produto ainda não encontrado publicado em lfpro.com.br** (não aparece no catálogo/JSON do site) — SKU, preço e URL seguem pendentes de confirmação. **Claims já confirmados via campanha de lançamento real no Instagram** (ver seção Claims abaixo) — não inventar além do que já foi usado lá ou do que vier do site depois.
+**Publicado em lfpro.com.br:**
+- Black: https://lfpro.com.br/products/intense-eye-black
+- Brown: https://lfpro.com.br/products/intense-eye-brown
+
+SKU não exposto na página do site (não inventar). Claims abaixo vêm do site oficial + do carrossel de lançamento no Instagram.
 
 ## Campanha de lançamento (já publicada — não repetir sem necessidade)
 
@@ -57,16 +61,28 @@ Packshot oficial isolado por tom, publicado em `assets/products/intense-eye-{tom
 - Ponta pigmentada sólida/cremosa (delineador em bastão), cor igual ao corpo do lápis
 - Sem swatch macro disponível ainda
 
-## Claims (confirmados via carrossel de lançamento IG — sem inventar além disso)
+## Claims (site oficial + carrossel de lançamento IG — sem inventar além disso)
 
+- "Alta pigmentação, traço preciso e a praticidade do formato retrátil"
+- "Clássico. Preciso. Indispensável."
 - "A intensidade de um gel, na praticidade de uma lapiseira"
 - Fórmula com base aquosa e formadores de filme: cremosa na aplicação, resistente após a secagem
-- Alta pigmentação
-- Textura macia
-- Acabamento matte
+- Alta pigmentação; textura macia; acabamento matte
 - Desliza facilmente sobre a pele e entrega cor intensa, sem exigir pressão excessiva
+- Design retrátil: sem precisar de apontador, basta girar a base
+- Funciona pra traço definido (linha precisa) ou esfumado (efeito smoky)
+- Longa duração, resistente à água e ao suor
+- Fórmula vegana, cruelty-free e livre de parabenos
+- Testado oftalmológica e dermatologicamente
+- Cor pode variar conforme o monitor (aviso do site)
 - "Tudo que o seu olhar precisa, em duas cores"
-- Site/SKU/preço: ainda não publicados — não inventar
+
+### Modo de uso (site)
+
+1. Gire a base até expor uma pequena quantidade de produto
+2. Pra traço definido: deslize ao longo da linha dos cílios e/ou linha d'água, construindo forma e intensidade
+3. Pra efeito esfumado: aplique e esfume até o acabamento desejado
+4. Recolha o produto antes de fechar a embalagem
 
 ## Prompt anchors (EN) — família
 

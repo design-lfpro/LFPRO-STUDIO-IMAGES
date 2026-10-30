@@ -2,13 +2,15 @@
 handle: intense-eye-black
 family: intense-eye
 title: "Intense Eye Black"
-sku: "A DEFINIR"
-price: "A DEFINIR"
+sku: "A DEFINIR (não exposto no site)"
+price: "89.90"
+net_weight: "350mg"
 product_type: Lapiseira Retrátil para Olhos
 shade: Black
+subtom: "Preto Intenso"
 role: lapiseira retrátil para olhos
-status: novo-produto-pendente-cadastro
-url: null
+status: active
+url: https://lfpro.com.br/products/intense-eye-black
 packshot: assets/products/intense-eye-black/01.png
 assets_dir: assets/products/intense-eye-black/
 v1_tracks: [T1-product-hero, T2-texture-macro]
@@ -19,7 +21,7 @@ blocked_tracks: [T5-face-proof]
 
 Lapiseira retrátil para olhos LF PRO Intense Eye — tom **Black**. Ver DNA: [[_family|Intense Eye]].
 
-**Produto ainda não encontrado publicado em lfpro.com.br** — SKU, preço, URL e claims pendentes de confirmação. Não inventar.
+**Publicado em lfpro.com.br** — R$ 89,90, 350mg. Ver claims completos (site + lançamento IG) em [[_family|Intense Eye]].
 
 ## Packaging lock (SKU)
 
