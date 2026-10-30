@@ -14,7 +14,13 @@ handles:
 
 Linha de **lapiseira retrátil (twist-up) para olhos** LF PRO. 2 tons: **Black** e **Brown**.
 
-**Produto ainda não encontrado publicado em lfpro.com.br** (não aparece no catálogo/JSON do site) — SKU, preço, URL e claims pendentes de confirmação. Não inventar.
+**Produto ainda não encontrado publicado em lfpro.com.br** (não aparece no catálogo/JSON do site) — SKU, preço e URL seguem pendentes de confirmação. **Claims já confirmados via campanha de lançamento real no Instagram** (ver seção Claims abaixo) — não inventar além do que já foi usado lá ou do que vier do site depois.
+
+## Campanha de lançamento (já publicada — não repetir sem necessidade)
+
+- **Origem:** Drive `1008 - LANÇAMENTO INTENSE EYE/IG/08 INTENSE EYE` (carrossel de 8 slides, ~05/10) + stories de antecipação (pastas `06/07/08/09/11 STORY`) + 2 vídeos de gancho
+- **Carrossel já cobriu:** capa com os 2 tons flutuando (dark+gold), hook "a intensidade de um gel, na praticidade de uma lapiseira", claims de fórmula/aplicação, 1 slide com modelo real (foto de estúdio, não gerada), e oferta de lançamento (brinde de Máscara UP! Precisão na mesma cor — **provavelmente expirada, por tempo limitado**; confirmar antes de reaproveitar)
+- **Pra próximas peças:** evitar repetir a mesma capa/hook do lançamento — esse já foi visto pelo público. Formatos novos (tutorial, comparação de tons, etc.) são preferíveis a reciclar o carrossel de lançamento.
 
 ## Origem dos assets
 
@@ -51,9 +57,16 @@ Packshot oficial isolado por tom, publicado em `assets/products/intense-eye-{tom
 - Ponta pigmentada sólida/cremosa (delineador em bastão), cor igual ao corpo do lápis
 - Sem swatch macro disponível ainda
 
-## Claims (site — sem inventar)
+## Claims (confirmados via carrossel de lançamento IG — sem inventar além disso)
 
-- Nenhum claim oficial disponível ainda (produto sem página publicada / não localizado no catálogo)
+- "A intensidade de um gel, na praticidade de uma lapiseira"
+- Fórmula com base aquosa e formadores de filme: cremosa na aplicação, resistente após a secagem
+- Alta pigmentação
+- Textura macia
+- Acabamento matte
+- Desliza facilmente sobre a pele e entrega cor intensa, sem exigir pressão excessiva
+- "Tudo que o seu olhar precisa, em duas cores"
+- Site/SKU/preço: ainda não publicados — não inventar
 
 ## Prompt anchors (EN) — família
 
