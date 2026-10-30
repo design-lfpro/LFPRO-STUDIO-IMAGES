@@ -18,3 +18,9 @@ Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA
 - Body splash (com tampa): 18 cm de altura
 - Bag (deitada, posição normal, zíper em cima): 13 cm de altura × 24 cm de comprimento (sem a alça) — ~74% da altura do hidratante
 - Objetos sempre próximos entre si; fita com a mensagem em looping.
+
+## Detalhes reais da bag (foto real, 2026-10-30)
+- Zíper com fita e espiral BEGE (mesma cor da bag), não metálico.
+- Puxador: plaquinha retangular dourada, na ponta ESQUERDA.
+- Alça: tira larga e chata de couro sintético, formando uma alça solta (loop) presa na lateral esquerda.
+- Foto: necessaire-foto-real-fecho.png
