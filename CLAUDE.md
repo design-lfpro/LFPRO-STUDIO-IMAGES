@@ -27,6 +27,7 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 3. **Ultrarrealismo**: fotografia de produto ultrarrealista, sem look CGI/render.
 4. **Menor gasto de créditos possível**: rodar `simulate_cost` antes; não gerar exploratório sem necessidade; reaproveitar uploads de packshot já feitos.
 5. **Confirmar a direção com o usuário** antes de gerar quando houver dúvida: mostrar **descrição em PT-BR** da cena (não colar o prompt EN).
+6. **Sempre enviar o link do Magnific** (`webUrl` da creation) de cada imagem gerada, junto com o arquivo.
 
 ## Onde está o quê
 
