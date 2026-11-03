@@ -20,6 +20,14 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 7. **FFmpeg** fecha master 9:16; IA gera clipes atômicos 4–8s.
 8. Responder em **PT-BR**; prompts de imagem/vídeo em **EN**.
 
+## Regras de geração de stills (definidas pelo cliente — 2026-11-03)
+
+1. **1 imagem por vez** (`count: 1`). Nunca gerar lotes de variações.
+2. **Fundo sempre preto** (estúdio dark, preto profundo `#050505`–`#0A0A0A`), salvo pedido explícito.
+3. **Ultrarrealismo**: fotografia de produto ultrarrealista, sem look CGI/render.
+4. **Menor gasto de créditos possível**: rodar `simulate_cost` antes; não gerar exploratório sem necessidade; reaproveitar uploads de packshot já feitos.
+5. **Confirmar o prompt com o usuário** antes de gerar quando houver dúvida de composição/direção (prompt em EN, explicação em PT-BR).
+
 ## Onde está o quê
 
 | Path | Uso |
