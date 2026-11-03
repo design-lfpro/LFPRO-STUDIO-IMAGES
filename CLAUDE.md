@@ -29,6 +29,11 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 5. **Confirmar a direção com o usuário** antes de gerar quando houver dúvida: mostrar **descrição em PT-BR** da cena (não colar o prompt EN).
 6. **Sempre enviar o link do Magnific** (`webUrl` da creation) de cada imagem gerada, junto com o arquivo.
 
+### Agentes de still (Claude Code — `.claude/agents/`)
+
+Fluxo: **sofia-still** (cena + prompt + descrição PT-BR) → aprovação do usuário → **gael-magnific** (gera 1, baixa, link) → **rita-still-verifier** (QA com zoom) → entrega.
+Os agentes OpenSquad originais continuam em `opensquad/agents/` (rodam na VPS).
+
 ## Onde está o quê
 
 | Path | Uso |
