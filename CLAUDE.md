@@ -23,10 +23,10 @@ Framework + squad OpenSquad para gerar vídeos de **estúdio product-hero** a pa
 ## Regras de geração de stills (definidas pelo cliente — 2026-11-03)
 
 1. **1 imagem por vez** (`count: 1`). Nunca gerar lotes de variações.
-2. **Fundo sempre preto** (estúdio dark, preto profundo `#050505`–`#0A0A0A`), salvo pedido explícito.
+2. **Fundo sempre preto** (estúdio dark, preto profundo `#050505`–`#0A0A0A`), salvo pedido explícito. Gramática completa: `brand-dna/04-padrao-foto-ia-dark.md`.
 3. **Ultrarrealismo**: fotografia de produto ultrarrealista, sem look CGI/render.
 4. **Menor gasto de créditos possível**: rodar `simulate_cost` antes; não gerar exploratório sem necessidade; reaproveitar uploads de packshot já feitos.
-5. **Confirmar o prompt com o usuário** antes de gerar quando houver dúvida de composição/direção (prompt em EN, explicação em PT-BR).
+5. **Confirmar a direção com o usuário** antes de gerar quando houver dúvida: mostrar **descrição em PT-BR** da cena (não colar o prompt EN).
 
 ## Onde está o quê
 
