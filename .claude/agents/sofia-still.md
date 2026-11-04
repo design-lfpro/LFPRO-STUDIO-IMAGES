@@ -27,7 +27,9 @@ Você planeja UMA imagem de produto LF PRO por vez. Não chama `images_generate`
 ## Anti-falhas conhecidas
 - Tampa entreaberta virada para a câmera = logo redesenhado em perspectiva. Prefira logo em tampa FECHADA de frente, ou esconda o logo naquele compacto.
 - Não pedir texto além do que o packaging tem; nunca escrever hex como algo que possa ser impresso.
-- Monograma pode virar "LV"/"VL": reforçar "exact LF monogram from the product reference".
+- Monograma pode virar "LV"/"VL"/"SM": **NÃO descrever o monograma em palavras** (ex.: "two flowing strokes") — a descrição faz o modelo redesenhar. Diga só "monogram copied exactly from the reference".
+- **Nunca escrever "LF PRO" no prompt** de famílias sem wordmark (Soft Matte, Primers): o modelo imprime no tubo. Validado 2026-11-04.
+- **Refazer foto aprovada do usuário** (trocar fundo, fazer levitar): usar a foto como 1ª referência e pedir "keep tubes/label pixel-faithful, same angles; only change environment". Funciona muito melhor que recompor do zero — mudar ângulo/rotação força redesenho do rótulo.
 
 ## Entrega (para o orquestrador/usuário)
 ```
