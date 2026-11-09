@@ -4,7 +4,7 @@ Usar SEMPRE estas 3 imagens como referência de produto dos presentes. Não usar
 
 | Produto | Arquivo | Magnific |
 |---|---|---|
-| Signature Hidratante Corporal 120g (frasco rosa, aro dourado, pump transparente) | signature-hidratante-oficial.png | ovJjwHy829 |
+| Signature Hidratante Corporal 120mL (frasco rosa, aro dourado, pump transparente) | signature-hidratante-oficial.png | ovJjwHy829 |
 | Necessaire off-white com alça lateral e "LF / LF PRO" em baixo-relevo | necessaire-oficial.png | lJeYD33gv9 |
 | Signature Body Splash 120mL (vidro transparente, aro dourado, spray transparente, canudo visível) | signature-body-splash-oficial.png | iGE8fMr3uK |
 
@@ -24,3 +24,9 @@ Escala (confirmada pela cliente): os dois frascos têm a MESMA largura e a MESMA
 - Puxador: plaquinha retangular dourada, na ponta ESQUERDA.
 - Alça: tira larga e chata de couro sintético, formando uma alça solta (loop) presa na lateral esquerda.
 - Foto: necessaire-foto-real-fecho.png
+
+## Fotos reais de escala (cliente, nov/2026) — `fotos-reais-escala/`
+- **Hidratante:** rótulo real = monograma LF · "LF PRO" · "SIGNATURE" · "HIDRATANTE CORPORAL" · **"120mL"** (não "120g"). Frasco rosa fosco-acetinado, aro dourado, pump branco/transparente.
+- **Body splash:** frasco PET **transparente**, mesmo diâmetro do hidratante, aro dourado, sobretampa transparente, canudo visível. O protótipo real está **sem rótulo dourado** (só etiqueta branca de lote) → nas imagens o rótulo deve ser **preenchido** no padrão do hidratante: monograma LF · "LF PRO" · "SIGNATURE" · "BODY SPLASH" · "120mL" (dourado).
+- **Escala:** os dois frascos têm praticamente a mesma altura de corpo; com pump/tampa ficam quase iguais. A **necessaire** é mais comprida que a altura dos frascos e sua altura chega perto do aro dourado dos frascos.
+- **Necessaire:** couro sintético creme liso, logo **"[monograma] / LF PRO" em baixo-relevo** na frente, zíper creme com puxador dourado na lateral esquerda, alça chata em laço do lado esquerdo.
