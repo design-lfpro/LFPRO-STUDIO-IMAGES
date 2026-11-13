@@ -15,6 +15,7 @@ O site lfpro.com.br só informa conteúdo líquido. As medidas abaixo vêm das *
 | Pó Soft Eye (14 g) | `FACA SOFT EYE.pdf` | 83 × 83 × 34 | pote Ø ~80 mm × ~32 mm de altura (largo e baixo) |
 | Base Soft Matte (30 ml) | `Faca_Cartucho_Base_01.pdf` | 30 × 30 × 140 | tubo com pump ~135–138 mm, ~28 mm de largura |
 | Classic Lips (3,5 g) | `Batom Hidratante Bloom.pdf` | 22 × 22 × 87 | batom fechado ~84 mm × Ø ~20 mm |
+| Cream Color (paleta duo) | `Faca_Cartucho_Paleta_Cream_Color.pdf` | 68 × 85 × 13 | estojo ~83 × 66 × 12 mm (retangular, fino) |
 
 ## Proporções úteis (prompt)
 
@@ -23,4 +24,4 @@ O site lfpro.com.br só informa conteúdo líquido. As medidas abaixo vêm das *
 
 ## Ainda sem faca localizada
 
-Essential Lips, Máscara UP, Intense Eye, Cream Color (há `Faca_Cartucho_Paleta_Cream_Color.pdf`, não medida).
+Essential Lips, Máscara UP, Intense Eye.
