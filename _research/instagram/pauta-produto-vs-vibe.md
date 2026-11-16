@@ -56,10 +56,26 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 - **Rodapé:** `Classic Lips Carmim · cor intensa, acabamento hidratante` · `Essential Lips Carmim · soft matte aveludado, alta cobertura`
 - Claims do Essential Lips: usar só o body_text do site (ver `products/essential-lips/_family.md`). Não usar "vegano", que aparece só nas tags.
 
-### 5 · Fechamento (CTA)
+### 5 · Pó Soft Eye: vibe **SOFT / MANHÃ SEM PRESSA**
+
+- **Produto:** `assets/products/po-soft-eye-medio/01.*`
+- **Vibe:** suéter de tricô off-white · brinco de pérola · matcha latte em xícara de cerâmica
+- Alternativas: lençol de linho amassado, livro aberto, vela, buquê de flores brancas
+- **Rodapé:** `Pó Soft Eye · Acabamento soft focus`
+- Gancho de legenda: "o pó mais viralizado na internet" (permitido só para o Soft Eye)
+
+### 6 · Base Soft Matte: vibe **DIA LONGO NA CIDADE**
+
+- **Produto:** `assets/products/base-soft-matte-cor-05/01.*` (ou o tom mais vendido)
+- **Vibe:** blazer preto estruturado · bolsa tote de couro caramelo · café para viagem
+- Alternativas: relógio dourado, agenda de couro, óculos de grau, salto bloco
+- **Rodapé:** `Base Soft Matte · Alta durabilidade, mesmo em dias quentes e longos`
+- Outros claims do site que cabem na vibe: efeito antipoluição, cobertura ajustável (média a alta), ácido hialurônico + vitamina E
+
+### 7 · Fechamento (CTA)
 
 - Título: **"E A SUA VIBE?"**
-- Grade 2×2 com mini-thumbs dos 4 slides, numerados 1–4
+- Grade com mini-thumbs dos 6 slides, numerados 1–6
 - Texto: `Comenta o número da tua vibe` · `Site oficial + app LF PRO`
 
 ---
@@ -72,6 +88,8 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 > 2. Menininha: Cream Color Candy
 > 3. Mulherão: Cream Color Merlot
 > 4. Encontro romântico: Carmim em Classic Lips e Essential Lips
+> 5. Soft: Pó Soft Eye, o pó mais viralizado na internet
+> 6. Dia longo na cidade: Base Soft Matte
 >
 > Qual é a tua? Comenta o número 👇 e salva pra montar o look.
 > Disponível no site oficial e no app LF PRO.
@@ -89,4 +107,5 @@ Observação: a legenda tem 2 emojis. O brand-dna permite no máximo 1 em anúnc
 ## Pendências / confirmar
 
 - [ ] Soft Finish: usar só o Médio ou mostrar a escala de tons?
-- [ ] Post único (só 1 produto) ou carrossel com os 4?
+- [ ] Post único (só 1 produto) ou carrossel com os 6?
+- [ ] Soft Matte: qual tom usar no slide (cor-05 é placeholder)?
