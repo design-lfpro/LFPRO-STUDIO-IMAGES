@@ -1,7 +1,7 @@
 ---
 tags: [lfpro-studio, escala, embalagens]
 status: medido
-updated: 2026-11-12
+updated: 2026-11-16
 fonte: facas de cartucho no Google Drive LF PRO (vetor, medido em mm)
 ---
 
@@ -35,4 +35,4 @@ Essential = 67% da altura da Base e 1/4 do Ø do pote.
 
 ## Ainda sem faca localizada
 
-Essential Lips, Máscara UP, Intense Eye.
+Máscara UP, Intense Eye (Essential Lips já confirmado acima).
