@@ -48,10 +48,11 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 - **Rodapé:** `Cream Color Merlot · Alta pigmentação com construção de camadas`
 - Os slides 2 e 3 em sequência formam o contraste da mesma linha ("menininha ou mulherão?"). É o melhor gancho do carrossel.
 
-### 4 · Classic Lips Carmim + Essential Lips Carmim: vibe **DIA NA PISCINA**
+### 4 · Classic Lips Carmim + Essential Lips Carmim: vibe **ENCONTRO ROMÂNTICO**
 
 - **Produto:** `assets/products/classic-lips-carmim/01.webp` + `assets/products/essential-lips-carmim/01.png`, lado a lado à esquerda
-- **Vibe:** maiô vermelho clássico (flat lay) · óculos gatinho brancos · boia listrada vermelho/branco
+- **Vibe:** rosa vermelha de haste longa · vestido slip de cetim vermelho (flat lay) · duas taças de espumante
+- Alternativas: carta lacrada com cera vermelha, bombons em caixa de coração, sandália de tiras fina, perfume em frasco de vidro
 - **Rodapé:** `Classic Lips Carmim · cor intensa, acabamento hidratante` · `Essential Lips Carmim · soft matte aveludado, alta cobertura`
 - Claims do Essential Lips: usar só o body_text do site (ver `products/essential-lips/_family.md`). Não usar "vegano", que aparece só nas tags.
 
@@ -70,7 +71,7 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 > 1. Sol e praia: Pó Soft Finish, proteção invisível com FPS 60
 > 2. Menininha: Cream Color Candy
 > 3. Mulherão: Cream Color Merlot
-> 4. Dia na piscina: Carmim em Classic Lips e Essential Lips
+> 4. Encontro romântico: Carmim em Classic Lips e Essential Lips
 >
 > Qual é a tua? Comenta o número 👇 e salva pra montar o look.
 > Disponível no site oficial e no app LF PRO.
@@ -87,6 +88,5 @@ Observação: a legenda tem 2 emojis. O brand-dna permite no máximo 1 em anúnc
 
 ## Pendências / confirmar
 
-- [ ] "Dia na piscina" é mesmo a vibe dos Carmins? (interpretação desta pauta)
 - [ ] Soft Finish: usar só o Médio ou mostrar a escala de tons?
 - [ ] Post único (só 1 produto) ou carrossel com os 4?
