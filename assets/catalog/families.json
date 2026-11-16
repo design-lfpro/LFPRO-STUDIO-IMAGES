@@ -330,6 +330,64 @@
       "url": "https://lfpro.com.br/products/esponja-face-perfect"
     }
   ],
+  "essential-lips": [
+    {
+      "handle": "essential-lips-beige",
+      "title": "Essential Lips Beige",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-beige"
+    },
+    {
+      "handle": "essential-lips-blush",
+      "title": "Essential Lips Blush",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-blush"
+    },
+    {
+      "handle": "essential-lips-carmim",
+      "title": "Essential Lips Carmim",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-carmim"
+    },
+    {
+      "handle": "essential-lips-clay",
+      "title": "Essential Lips Clay",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-clay"
+    },
+    {
+      "handle": "essential-lips-malt",
+      "title": "Essential Lips Malt",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-malt"
+    },
+    {
+      "handle": "essential-lips-mauve",
+      "title": "Essential Lips Mauve",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-mauve"
+    },
+    {
+      "handle": "essential-lips-rose",
+      "title": "Essential Lips Rose",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-rose"
+    },
+    {
+      "handle": "essential-lips-wine",
+      "title": "Essential Lips Wine",
+      "type": "Batom",
+      "images": 12,
+      "url": "https://lfpro.com.br/products/essential-lips-wine"
+    }
+  ],
   "kit-cream-color": [
     {
       "handle": "kit-cream-color-toffee-pincel-b03",

@@ -52,8 +52,8 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 
 - **Produto:** `assets/products/classic-lips-carmim/01.webp` + `assets/products/essential-lips-carmim/01.png`, lado a lado à esquerda
 - **Vibe:** maiô vermelho clássico (flat lay) · óculos gatinho brancos · boia listrada vermelho/branco
-- **Rodapé:** `Classic Lips Carmim · cor intensa, acabamento hidratante` · `Essential Lips Carmim · batom líquido matte`
-- O Essential Lips **ainda não tem claims oficiais** (produto sem página no site). Usar só o nome e o tipo de produto.
+- **Rodapé:** `Classic Lips Carmim · cor intensa, acabamento hidratante` · `Essential Lips Carmim · soft matte aveludado, alta cobertura`
+- Claims do Essential Lips: usar só o body_text do site (ver `products/essential-lips/_family.md`). Não usar "vegano", que aparece só nas tags.
 
 ### 5 · Fechamento (CTA)
 

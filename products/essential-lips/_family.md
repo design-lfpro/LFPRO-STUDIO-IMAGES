@@ -2,7 +2,7 @@
 family: essential-lips
 title: Essential Lips
 product_type: Batom Líquido Matte
-status: novo-produto-pendente-cadastro
+status: publicado-site
 preferred_tracks: [T1-product-hero, T2-texture-macro]
 blocked_tracks: [T5-face-proof]
 handles:
@@ -18,7 +18,7 @@ handles:
 
 # Essential Lips — DNA de família
 
-Linha de **batom líquido matte** LF PRO, 8 tons. **Correção 2026-09-08:** o produto NÃO é gloss — é fórmula líquida de acabamento **matte/aveludado**. O líquido parece brilhante *dentro do tubo de vidro/plástico* (reflexo natural de qualquer líquido), mas **seca matte na pele — sem brilho, sem sheen espelhado nos lábios**. Nunca gerar lábios brilhantes/glossy com este produto. **Produto novo — ainda não publicado em lfpro.com.br**, catalogado a partir de fotos de produto internas (Google Drive LF PRO, pasta "FOTO PRODUTO / SITE"), sem página no site ainda. SKU, preço e claims oficiais **não existem publicamente ainda** — não inventar, aguardar cadastro Shopify.
+Linha de **batom líquido matte** LF PRO, 8 tons. **Correção 2026-09-08:** o produto NÃO é gloss — é fórmula líquida de acabamento **matte/aveludado**. O líquido parece brilhante *dentro do tubo de vidro/plástico* (reflexo natural de qualquer líquido), mas **seca matte na pele — sem brilho, sem sheen espelhado nos lábios**. Nunca gerar lábios brilhantes/glossy com este produto. **Publicado em lfpro.com.br em 2026-09-09** (8 páginas, R$ 69,90 cada, 12 imagens por tom). Claims oficiais abaixo, extraídos do body_text do site.
 
 ## Escala real (proporção) — NUNCA inflar o tamanho
 
@@ -40,16 +40,16 @@ Linha de **batom líquido matte** LF PRO, 8 tons. **Correção 2026-09-08:** o p
 
 ## 8 tons — cores (hex aproximados, extraídos do packshot real)
 
-| # | Tom | Hex aprox. | Leitura visual |
-|---|-----|------------|-----------------|
-| 01 | **Beige** | `#E3847A` | nude rosado terracota, quente |
-| 02 | **Rose** | `#C66773` | rosa envelhecido / dusty rose |
-| 03 | **Blush** | `#ED7998` | rosa pink vibrante, coral-pink |
-| 04 | **Malt** | `#D45567` | rosa framboesa intenso |
-| 05 | **Mauve** | `#CE617C` | rosa mauve acinzentado |
-| 06 | **Clay** | `#A64B51` | terracota/tijolo avermelhado |
-| 07 | **Carmim** | `#B61216` | vermelho carmim vibrante |
-| 08 | **Wine** | `#5C1529` | vinho profundo / bordô escuro |
+| # | Tom | SKU | Hex aprox. | Leitura visual | Descrição do site (tags) |
+|---|-----|-----|------------|-----------------|--------------------------|
+| 01 | **Beige** | `12698` | `#E3847A` | nude rosado terracota, quente | nude quente / caramelo (quente) |
+| 02 | **Rose** | `12705` | `#C66773` | rosa envelhecido / dusty rose | rosa queimado neutro (neutro) |
+| 03 | **Blush** | `12706` | `#ED7998` | rosa pink vibrante, coral-pink | rosa pink |
+| 04 | **Malt** | `12699` | `#D45567` | rosa framboesa intenso | rosado terroso quente (quente) |
+| 05 | **Mauve** | `12707` | `#CE617C` | rosa mauve acinzentado | malva neutro frio (neutro-frio) |
+| 06 | **Clay** | `12708` | `#A64B51` | terracota/tijolo avermelhado | terracota quente avermelhado (quente) |
+| 07 | **Carmim** | `12709` | `#B61216` | vermelho carmim vibrante | vermelho intenso quente / vermelho vivo (quente) |
+| 08 | **Wine** | `12710` | `#5C1529` | vinho profundo / bordô escuro | vinho ameixa (frio) |
 
 - Hex extraídos por amostragem de pixel do líquido no packshot oficial (`01.png` de cada handle) — não são valores de fórmula, apenas referência de still.
 - Tubo/plástico do corpo: cinza translúcido fosco, aprox. `#D8D5D2` com opacidade
@@ -70,10 +70,23 @@ Linha de **batom líquido matte** LF PRO, 8 tons. **Correção 2026-09-08:** o p
 | 01 packshot off-white (por tom) | **T1 lock** obrigatório |
 | Composição hero grupo (múltiplos tons) | Campanha — inspiração de composição em stacked/grouped tubes, sempre com fidelidade 1:1 a cada tubo real |
 
-## Claims (site — sem inventar)
+## Claims oficiais (body_text do site — sem inventar)
 
-- **Nenhum claim oficial disponível ainda** — produto sem página publicada em lfpro.com.br no momento do cadastro (2026-09-04)
-- Não escrever bullets de benefício até termos body_text real da ficha/site
+Texto idêntico nos 8 tons (publicado em lfpro.com.br em 2026-09-09):
+
+- Batom líquido: tudo o que você deseja em um matte, sem abrir mão do conforto
+- Textura cremosa e fluida; alta cobertura, cor intensa, acabamento **soft matte aveludado**
+- Tecnologia de formação de filme: aderência da cor após a secagem; acompanha o movimento natural dos lábios
+- Enriquecido com **Manteiga de Karité** e **Manteiga de Cacau**
+- **8 tons essenciais**, do nude ao vermelho intenso
+- **Matte confortável:** soft matte aveludado, sensação mais leve e confortável
+- **Filme flexível:** película que acompanha o movimento natural dos lábios após a secagem
+- **Alta cobertura:** cor intensa desde a aplicação; camadas para personalizar a intensidade
+- **Textura cremosa e fluida:** deslizamento fácil, aplicação uniforme e controlada
+- **Tecnologia de longa duração:** sistema volátil + formadores de filme → aderência e boa permanência da cor
+- Ativos: Manteiga de Karité, Manteiga de Cacau, Sílica (acabamento soft matte), sistema volátil, formadores de filme, copolímero elastomérico (flexibilidade do filme)
+
+> "Vegano" aparece só nas **tags** do site (em 7 dos 8 tons, não no Wine) e **não** no texto da página → não usar como claim até confirmar com a marca.
 
 ## Prompt anchors (EN) — família
 
@@ -87,7 +100,7 @@ LF PRO Essential Lips liquid matte lipstick tube identity lock: SMALL slim cylin
 - Logo prata/branco ou monograma inventado
 - **Monograma lido como "LV" ou outra marca** — falha observada (2026-09-08) na geração do Rose; é sempre LF, re-roll se sair ambíguo
 - **Hex code (`#XXXXXX`) impresso como texto no produto** — falha observada; hex é só referência de prompt, nunca aparece no packaging
-- Inventar claims, SKU, preço ou nome de fórmula
+- Inventar claims fora do body_text do site, ou nome de fórmula
 - Trocar cor do líquido entre tons
 - Full-face / lip-proof V1 (T5 bloqueado)
 - Fundo sujo, madeira, neon
@@ -95,5 +108,5 @@ LF PRO Essential Lips liquid matte lipstick tube identity lock: SMALL slim cylin
 ## Notas V1
 
 - 8 assets (`01.png` por handle), origem: Google Drive interno LF PRO (pasta FOTO PRODUTO / SITE), fotos datadas 2026-08-21 a 2026-08-27
-- Pendências para completar cadastro: SKU, preço, URL do produto, claims oficiais (body_text), textura/swatch macro
+- Cadastro do site incorporado em 2026-11-16 (`assets/catalog/*`). Pendente: baixar as 12 imagens por tom do site (textura/swatch) para `assets/products/`
 - Ver fichas individuais por tom: [[essential-lips-beige]], [[essential-lips-rose]], [[essential-lips-blush]], [[essential-lips-malt]], [[essential-lips-mauve]], [[essential-lips-clay]], [[essential-lips-carmim]], [[essential-lips-wine]]

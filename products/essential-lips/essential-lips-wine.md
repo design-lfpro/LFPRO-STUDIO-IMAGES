@@ -2,13 +2,13 @@
 handle: essential-lips-wine
 family: essential-lips
 title: "Essential Lips Wine"
-sku: "A DEFINIR"
-price: "A DEFINIR"
+sku: "12710"
+price: "69.90"
 product_type: Batom Líquido Matte
 shade: Wine
 role: batom líquido matte
-status: novo-produto-pendente-cadastro
-url: null
+status: publicado-site
+url: https://lfpro.com.br/products/essential-lips-wine
 packshot: assets/products/essential-lips-wine/01.png
 assets_dir: assets/products/essential-lips-wine/
 v1_tracks: [T1-product-hero, T2-texture-macro]
@@ -19,7 +19,7 @@ blocked_tracks: [T5-face-proof]
 
 Batom líquido matte LF PRO Essential Lips — tom **Wine**. Ver DNA: [[_family|Essential Lips]].
 
-**Produto novo, ainda sem página em lfpro.com.br** — SKU e preço pendentes de cadastro. Não inventar.
+**Publicado em lfpro.com.br** (2026-09-09) — [Essential Lips Wine](https://lfpro.com.br/products/essential-lips-wine) · SKU `12710` · R$ 69,90 · 12 imagens no site.
 
 ## Packaging lock (SKU)
 
@@ -34,7 +34,7 @@ Batom líquido matte LF PRO Essential Lips — tom **Wine**. Ver DNA: [[_family|
 |----------|------------|-----------|
 | **Líquido** | `#5C1529` | vinho profundo / bordô escuro |
 
-- **Subtom:** frio-profundo
+- **Tom (site):** vinho ameixa · **subtom (site):** frio — *corrige leitura visual anterior: frio-profundo*
 - **Logo gold:** ~`#C9A227` / `#D4AF37`
 - **Tampa:** preto `#0A0A0A`–`#151515`
 - **Fundo hero:** `#FAFAF8`
@@ -51,9 +51,23 @@ Batom líquido matte LF PRO Essential Lips — tom **Wine**. Ver DNA: [[_family|
 |------|--------|
 | 01 packshot off-white | **T1 lock** obrigatório |
 
-## Claims (site — sem inventar)
+## Claims oficiais (body_text do site — sem inventar)
 
-- Nenhum claim oficial disponível ainda (produto sem página publicada)
+Texto idêntico nos 8 tons (publicado em lfpro.com.br em 2026-09-09):
+
+- Batom líquido: tudo o que você deseja em um matte, sem abrir mão do conforto
+- Textura cremosa e fluida; alta cobertura, cor intensa, acabamento **soft matte aveludado**
+- Tecnologia de formação de filme: aderência da cor após a secagem; acompanha o movimento natural dos lábios
+- Enriquecido com **Manteiga de Karité** e **Manteiga de Cacau**
+- **8 tons essenciais**, do nude ao vermelho intenso
+- **Matte confortável:** soft matte aveludado, sensação mais leve e confortável
+- **Filme flexível:** película que acompanha o movimento natural dos lábios após a secagem
+- **Alta cobertura:** cor intensa desde a aplicação; camadas para personalizar a intensidade
+- **Textura cremosa e fluida:** deslizamento fácil, aplicação uniforme e controlada
+- **Tecnologia de longa duração:** sistema volátil + formadores de filme → aderência e boa permanência da cor
+- Ativos: Manteiga de Karité, Manteiga de Cacau, Sílica (acabamento soft matte), sistema volátil, formadores de filme, copolímero elastomérico (flexibilidade do filme)
+
+> "Vegano" aparece só nas **tags** do site (em 7 dos 8 tons, não no Wine) e **não** no texto da página → não usar como claim até confirmar com a marca.
 
 ## Prompt anchors (EN)
 
@@ -73,7 +87,7 @@ extreme close-up liquid matte lipstick LF PRO Essential Lips Wine, deep wine-bur
 
 - Redesenhar formato do tubo, tampa ou aplicador
 - Logo prata/branco ou monograma inventado
-- Inventar claims, SKU ou preço
+- Inventar claims fora do body_text do site
 - Trocar cor do líquido
 - Full-face / lip-proof V1 (T5 bloqueado)
 - Fundo sujo, madeira, neon
@@ -86,4 +100,4 @@ extreme close-up liquid matte lipstick LF PRO Essential Lips Wine, deep wine-bur
 
 - 1 asset (`01.png`)
 - Origem: Google Drive interno LF PRO (pasta FOTO PRODUTO / SITE)
-- Pendências: SKU, preço, URL, claims oficiais, textura/swatch macro
+- Site tem 12 imagens deste tom (ver `assets/catalog/products-index.json`) — ainda não baixadas para `assets/products/essential-lips-wine/`
