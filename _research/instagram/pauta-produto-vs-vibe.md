@@ -56,19 +56,22 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 - **Rodapé:** `Classic Lips Carmim · cor intensa, acabamento hidratante` · `Essential Lips Carmim · soft matte aveludado, alta cobertura`
 - Claims do Essential Lips: usar só o body_text do site (ver `products/essential-lips/_family.md`). Não usar "vegano", que aparece só nas tags.
 
-### 5 · Pó Soft Eye: vibe **SOFT / MANHÃ SEM PRESSA**
+### 5 · Pó Soft Eye: vibe **BUSINESS / DIA LONGO NA CIDADE**
 
-- **Produto:** `assets/products/po-soft-eye-medio/01.*`
-- **Vibe:** suéter de tricô off-white · brinco de pérola · matcha latte em xícara de cerâmica
-- Alternativas: lençol de linho amassado, livro aberto, vela, buquê de flores brancas
+- **Produto:** `assets/products/po-soft-eye-medio/01.png`
+- **Vibe:** blazer preto estruturado · bolsa tote de couro caramelo · café para viagem (sem logo)
+- Alternativas: relógio dourado, agenda de couro, óculos de grau tartaruga, scarpin bloco nude
 - **Rodapé:** `Pó Soft Eye · Acabamento soft focus`
 - Gancho de legenda: "o pó mais viralizado na internet" (permitido só para o Soft Eye)
 
-### 6 · Base Soft Matte: vibe **DIA LONGO NA CIDADE**
+### 6 · Base Soft Matte: vibe **VIAGEM**
 
-- **Produto:** `assets/products/base-soft-matte-cor-05/01.*` (ou o tom mais vendido)
-- **Vibe:** blazer preto estruturado · bolsa tote de couro caramelo · café para viagem
-- Alternativas: relógio dourado, agenda de couro, óculos de grau, salto bloco
+- **Produto:** `assets/products/base-soft-matte-cor-05/01.png` (tom a definir)
+- **Vibe (trio A, aeroporto chique):** mala de mão rígida creme/preta · porta-passaporte de couro caramelo · óculos escuros pretos clássicos
+- Variações de trio:
+  - B, destino quente: mala/bolsa de palha · lenço de seda · chapéu panamá
+  - C, city break: trench coat bege · mapa/guia de viagem · câmera analógica compacta
+- Banco de objetos: necessaire de couro preta, etiqueta de bagagem de couro, cartão de embarque (sem dados legíveis), travesseiro de pescoço de veludo, máscara de dormir de cetim, manta de cashmere, chaveiro de hotel antigo (sem nome), cartão-postal, moedas estrangeiras, ramo de oliveira
 - **Rodapé:** `Base Soft Matte · Alta durabilidade, mesmo em dias quentes e longos`
 - Outros claims do site que cabem na vibe: efeito antipoluição, cobertura ajustável (média a alta), ácido hialurônico + vitamina E
 
@@ -88,8 +91,8 @@ Formato: **4:5 (1080×1350)**. Variação opcional dark-feed: fundo `#0D0D0D`, t
 > 2. Menininha: Cream Color Candy
 > 3. Mulherão: Cream Color Merlot
 > 4. Encontro romântico: Carmim em Classic Lips e Essential Lips
-> 5. Soft: Pó Soft Eye, o pó mais viralizado na internet
-> 6. Dia longo na cidade: Base Soft Matte
+> 5. Business: Pó Soft Eye, o pó mais viralizado na internet
+> 6. Viagem: Base Soft Matte
 >
 > Qual é a tua? Comenta o número 👇 e salva pra montar o look.
 > Disponível no site oficial e no app LF PRO.
