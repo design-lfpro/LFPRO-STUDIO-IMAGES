@@ -104,3 +104,6 @@ optional soft powder dust drift, no face, packaging only if partial in frame wit
 - Golden path recomendado: `po-soft-eye-claro` T1 12s  
 - Usar `01.png` como reference obrigatória  
 - Imagens 02+ do site costumam reforçar ângulos/swatch — usar em storyboard  
+
+## Medidas reais (confirmadas pela cliente, nov/2026)
+- Pote **8 cm de diâmetro × 3 cm de altura com tampa** — pote **largo e baixo/achatado** (diâmetro ~2,7× a altura). Em cenas com outros produtos, o pote deve parecer largo e baixo, nunca alto.
