@@ -16,6 +16,11 @@ Low clear/translucent cream pot + glossy black flat lid with gold LF monogram + 
 **Fonte da verdade:** `assets/products/{handle}/01.*` de cada SKU.  
 Detalhamento fino por imagem deve enriquecer esta ficha (passada vision).
 
+## Medidas reais (confirmadas pela cliente)
+
+- Pote: **4 cm de diâmetro × 3 cm de altura com tampa**. Pote pequeno; nunca deixar maior que um tubo de corretivo.
+- Prompt anchor: "tiny round jar, 4 cm diameter, 3 cm tall with lid, much smaller than a concealer tube".
+
 ## Prompt anchor família (EN)
 
 ```
