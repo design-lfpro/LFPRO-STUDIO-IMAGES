@@ -16,6 +16,12 @@ See packshot
 **Fonte da verdade:** `assets/products/{handle}/01.*` de cada SKU.  
 Detalhamento fino por imagem deve enriquecer esta ficha (passada vision).
 
+## Packaging confirmado pela cliente
+
+- **Pote todo preto** (base opaca preta + tampa preta), peneira dourada perfurada; o pó NÃO aparece pela lateral.
+- Tampa: monograma LF dourado + "LF PRO". **Nenhum texto na lateral do pote** (nem "SOFT FINISH", nem nome da cor).
+- Prompt anchor: "fully black opaque jar, black base and black lid, no text on the side".
+
 ## Prompt anchor família (EN)
 
 ```
